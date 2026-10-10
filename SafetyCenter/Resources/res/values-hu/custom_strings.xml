@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Fiókja védve van</string>
+    <string name="google_accounts_sources_title">Google Biztonsági ellenőrzés</string>
+    <string name="google_app_security_sources_summary">A Play Protect-ellenőrzés be van kapcsolva</string>
+    <string name="google_app_security_sources_title">Alkalmazásbiztonság</string>
+    <string name="google_device_finder_sources_summary">Nincsenek értesítések</string>
+    <string name="google_device_finder_sources_title">Eszközkeresők</string>
+    <string name="google_find_my_device_search_terms">Keresési központ, Eszközök megkeresése, Készülékkereső, Elveszett eszköz</string>
+    <string name="google_find_my_device_title">Keresési központ</string>
+    <string name="google_lock_screen_search_terms">Eszközzár, Képernyőzár, Lezárási képernyő, Képernyő lezárása, Jelszó, PIN-kód, Minta, Zárolás, Feloldás</string>
+    <string name="google_play_protect_search_terms">Alkalmazásbiztonság, Play Protect, Google Play Protect, Alkalmazásvédelem</string>
+    <string name="google_play_protect_title">Alkalmazásbiztonság</string>
+    <string name="google_play_protect_title_for_work">Munkavégzéshez szükséges alkalmazások biztonsága</string>
+    <string name="google_play_system_update_search_terms">Frissítések, Frissítés, Rendszerfrissítés, Rendszerfrissítések, Google Play-rendszerfrissítés, Play-rendszerfrissítés</string>
+    <string name="google_play_system_update_title">Google Play-rendszerfrissítés</string>
+    <string name="google_security_checkup_search_terms">Google Biztonsági ellenőrzés, Google-biztonság, Biztonsági ellenőrzés, Fiókbiztonság, Google-fiókbiztonság, Google-fiók</string>
+    <string name="google_security_checkup_title">Google Biztonsági ellenőrzés</string>
+    <string name="google_security_checkup_title_for_work">Google Biztonsági ellenőrzés munkahelyi használatra</string>
+    <string name="google_security_updates_search_terms">Frissítések, Frissítés, Biztonsági frissítés, Biztonsági frissítések</string>
+    <string name="google_security_updates_title">Biztonsági frissítés</string>
+    <string name="google_updates_summary">Az eszköz naprakész</string>
+    <string name="google_updates_title">Frissítések</string>
+</resources>

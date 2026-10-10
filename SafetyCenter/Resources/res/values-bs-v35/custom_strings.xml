@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">Kontrole aktivnosti za privatni prostor</string>
+    <string name="google_ads_identity_title_for_private_profile">Oglasi za privatni prostor</string>
+    <string name="google_advanced_protection_summary">Zaštita za uređaj i Google račun</string>
+    <string name="google_advanced_protection_title">Napredna zaštita</string>
+    <string name="google_password_checkup_title_for_private_profile">Provjera lozinke za privatni prostor</string>
+    <string name="google_play_protect_title_for_private_profile">Google Play zaštita za privatni prostor</string>
+    <string name="google_security_checkup_title_for_private_profile">Googleova Sigurnosna provjera za privatni prostor</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Jou rekening word beskerm</string>
+    <string name="google_accounts_sources_title">Google Sekuriteitkontrole</string>
+    <string name="google_app_security_sources_summary">Play Beskerming-skandering is aan</string>
+    <string name="google_app_security_sources_title">Appsekuriteit</string>
+    <string name="google_device_finder_sources_summary">Geen waarskuwings nie</string>
+    <string name="google_device_finder_sources_title">Toestelsoekers</string>
+    <string name="google_find_my_device_search_terms">Vindpunt, Kry toestelle, Kry My Toestel, Verlore toestel</string>
+    <string name="google_find_my_device_title">Vindpunt</string>
+    <string name="google_lock_screen_search_terms">Toestelslot, Skermslot, Sluit skerm, Sluitskerm, Wagwoord, Pin, Patroon, Sluit, Ontsluit</string>
+    <string name="google_play_protect_search_terms">Appsekuriteit, Play Beskerming, Google Play Beskerming, Programveiligheid</string>
+    <string name="google_play_protect_title">Appsekuriteit</string>
+    <string name="google_play_protect_title_for_work">Appsekuriteit vir werk</string>
+    <string name="google_play_system_update_search_terms">Opdaterings, Opdatering, Stelselopdatering, Stelselopdaterings, Google Play Stelselopdatering, Play Stelselopdatering</string>
+    <string name="google_play_system_update_title">Google Play Stelselopdatering</string>
+    <string name="google_security_checkup_search_terms">Google Sekuriteitkontrole, Google Sekuriteit, Sekuriteitkontrole, Rekeningsekuriteit, Google-rekeningsekuriteit, Google-rekening</string>
+    <string name="google_security_checkup_title">Google Sekuriteitkontrole</string>
+    <string name="google_security_checkup_title_for_work">Google Sekuriteitkontrole vir werk</string>
+    <string name="google_security_updates_search_terms">Opdaterings, Opdatering, Sekuriteitopdatering, Sekuriteitopdaterings</string>
+    <string name="google_security_updates_title">Sekuriteitopdatering</string>
+    <string name="google_updates_summary">Toestel is op datum</string>
+    <string name="google_updates_title">Opdaterings</string>
+</resources>

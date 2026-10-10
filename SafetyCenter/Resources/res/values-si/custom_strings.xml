@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ඔබේ ගිණුම ආරක්‍ෂිතයි</string>
+    <string name="google_accounts_sources_title">Google ආරක්‍ෂක පරීක්‍ෂාව</string>
+    <string name="google_app_security_sources_summary">Play ආරක්‍ෂාව ස්කෑන් කිරීම සක්‍රීයයි</string>
+    <string name="google_app_security_sources_title">යෙදුම් ආරක්‍ෂාව</string>
+    <string name="google_device_finder_sources_summary">ඇඟවීම් නැත</string>
+    <string name="google_device_finder_sources_title">උපාංග සොයන</string>
+    <string name="google_find_my_device_search_terms">සෙවීම් මධ්‍යස්ථානය, උපාංග සොයා ගැනීම්, මගේ උපාංගය සෙවීම, නැති වූ උපාංගය</string>
+    <string name="google_find_my_device_title">සෙවීම් මධ්‍යස්ථානය</string>
+    <string name="google_lock_screen_search_terms">උපාංග අගුල, තිර අගුල, අගුලු තිරය, තිරයට අගුලු දමන්න, මුරපදය, Pin, රටාව, අගුලු දැමීම, අගුලු හැරීම</string>
+    <string name="google_play_protect_search_terms">යෙදුම් සුරක්‍ෂිතතාව, Play ආරක්‍ෂාව, Google Play ආරක්‍ෂාව, යෙදුම් ආරක්‍ෂාව</string>
+    <string name="google_play_protect_title">යෙදුම් ආරක්‍ෂාව</string>
+    <string name="google_play_protect_title_for_work">කාර්යය සඳහා යෙදුම් සුරක්‍ෂිතතාව</string>
+    <string name="google_play_system_update_search_terms">යාවත්කාලීන, යාවත්කාලීනය, පද්ධති යාවත්කාලීනය, පද්ධති යාවත්කාලීන, Google Play පද්ධති යාවත්කාලීනය, Play පද්ධති යාවත්කාලීනය</string>
+    <string name="google_play_system_update_title">Google Play පද්ධති යාවත්කාලීනය</string>
+    <string name="google_security_checkup_search_terms">Google ආරක්‍ෂක පරීක්‍ෂාව, Google ආරක්‍ෂාව, ආරක්‍ෂක පරීක්‍ෂාව, ගිණුම් ආරක්‍ෂාව, Google ගිණුම් ආරක්‍ෂාව, Google ගිණුම</string>
+    <string name="google_security_checkup_title">Google ආරක්‍ෂක පරීක්‍ෂාව</string>
+    <string name="google_security_checkup_title_for_work">වැඩ සඳහා Google ආරක්‍ෂක පරීක්‍ෂාව</string>
+    <string name="google_security_updates_search_terms">යාවත්කාලීන, යාවත්කාලීනය, ආරක්‍ෂක යාවත්කාලීනය, ආරක්‍ෂක යාවත්කාලීන</string>
+    <string name="google_security_updates_title">ආරක්‍ෂක යාවත්කාලීනය</string>
+    <string name="google_updates_summary">උපාංගය යාවත්කාලීනයි</string>
+    <string name="google_updates_title">යාවත්කාලීන</string>
+</resources>

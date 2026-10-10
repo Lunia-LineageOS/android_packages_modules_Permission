@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Váš účet je chránený</string>
+    <string name="google_accounts_sources_title">Kontrola zabezpečenia od Googlu</string>
+    <string name="google_app_security_sources_summary">Kontrola Play Protect je zapnutá</string>
+    <string name="google_app_security_sources_title">Zabezpečenie aplikácií</string>
+    <string name="google_device_finder_sources_summary">Žiadne upozornenia</string>
+    <string name="google_device_finder_sources_title">Vyhľadávače zariadení</string>
+    <string name="google_find_my_device_search_terms">Hľadacie centrum, vyhľadávanie zariadení, Nájdi moje zariadenie, stratené zariadenie</string>
+    <string name="google_find_my_device_title">Hľadacie centrum</string>
+    <string name="google_lock_screen_search_terms">Zámka zariadenia, zámka obrazovky, uzamknutá obrazovka, heslo, PIN, vzor, uzamknúť, odomknúť</string>
+    <string name="google_play_protect_search_terms">Zabezpečenie aplikácií, Play Protect Google Play Protect, bezpečnosť aplikácií</string>
+    <string name="google_play_protect_title">Zabezpečenie aplikácií</string>
+    <string name="google_play_protect_title_for_work">Zabezpečenie pracovných aplikácií</string>
+    <string name="google_play_system_update_search_terms">Aktualizácia, aktualizácie, aktualizácia systému, aktualizácie systému, aktualizácia systému pre Google Play, aktualizácia systému pre službu Play</string>
+    <string name="google_play_system_update_title">Aktualizácia systému pre Google Play</string>
+    <string name="google_security_checkup_search_terms">Kontrola zabezpečenia Google, zabezpečenie Google, kontrola zabezpečenia, zabezpečenie účtu, zabezpečenie účtu Google, účet Google</string>
+    <string name="google_security_checkup_title">Kontrola zabezpečenia od Googlu</string>
+    <string name="google_security_checkup_title_for_work">Kontrola zabezpečenia od Googlu pre prácu</string>
+    <string name="google_security_updates_search_terms">Aktualizácie, aktualizácia, bezpečnostná aktualizácia, bezpečnostné aktualizácie</string>
+    <string name="google_security_updates_title">Aktualizácia zabezpečenia</string>
+    <string name="google_updates_summary">Zariadenie je aktuálne</string>
+    <string name="google_updates_title">Aktualizácie</string>
+</resources>

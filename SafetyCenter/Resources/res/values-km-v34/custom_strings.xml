@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">គណនី Google ត្រូវបានការពារ</string>
+    <string name="google_accounts_sources_title">សុវត្ថិភាព​គណនី</string>
+    <string name="google_activity_controls_search_terms">សកម្មភាព, ការត្រួតពិនិត្យសកម្មភាព</string>
+    <string name="google_activity_controls_summary">ជ្រើសរើស​សកម្មភាព និងព័ត៌មាន​ដែលអ្នក​អនុញ្ញាតឱ្យ Google រក្សាទុក</string>
+    <string name="google_activity_controls_title">ការត្រួតពិនិត្យសកម្មភាព</string>
+    <string name="google_activity_controls_title_for_work">ការត្រួតពិនិត្យសកម្មភាព​សម្រាប់ការងារ</string>
+    <string name="google_ads_identity_search_terms">ការផ្សាយពាណិជ្ជកម្ម, ឯកជនភាពនៃការផ្សាយពាណិជ្ជកម្ម, privacy sandbox, ប្រធានបទផ្សាយពាណិជ្ជកម្ម, ការផ្សាយពាណិជ្ជកម្មដែលណែនាំដោយកម្មវិធី, ការវាស់ស្ទង់ការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="google_ads_identity_summary">គ្រប់គ្រងទិន្នន័យឧបករណ៍ដែលត្រូវបានប្រើដើម្បីបង្ហាញការផ្សាយពាណិជ្ជកម្មដល់អ្នក</string>
+    <string name="google_ads_identity_title">ការផ្សាយពាណិជ្ជកម្ម</string>
+    <string name="google_ads_identity_title_for_work">ការផ្សាយពាណិជ្ជកម្មសម្រាប់ការងារ</string>
+    <string name="google_backup_search_terms">បម្រុង​ទុក</string>
+    <string name="google_backup_title">បម្រុង​ទុក</string>
+    <string name="google_password_checkup_title">ការពិនិត្យ​ពាក្យសម្ងាត់</string>
+    <string name="google_password_checkup_title_for_work">ការពិនិត្យពាក្យសម្ងាត់​សម្រាប់ការងារ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect សម្រាប់ការងារ</string>
+    <string name="google_updates_summary">បច្ចុប្បន្នភាព</string>
+    <string name="google_updates_title">ប្រព័ន្ធ និងបច្ចុប្បន្នភាព</string>
+</resources>

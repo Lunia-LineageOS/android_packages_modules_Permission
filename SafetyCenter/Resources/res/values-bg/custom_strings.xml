@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Профилът ви е защитен</string>
+    <string name="google_accounts_sources_title">Проверка на сигурността от Google</string>
+    <string name="google_app_security_sources_summary">Сканирането от Play Protect е включено</string>
+    <string name="google_app_security_sources_title">Сигурност на приложенията</string>
+    <string name="google_device_finder_sources_summary">Няма сигнали</string>
+    <string name="google_device_finder_sources_title">Инструменти за откриване на устройства</string>
+    <string name="google_find_my_device_search_terms">„Център за намиране“, oткриване на устройства, „Намиране на устройството ми“, изгубено устройство</string>
+    <string name="google_find_my_device_title">Център за намиране</string>
+    <string name="google_lock_screen_search_terms">Заключване на устройството, опция за заключване на екрана, заключен екран, парола, ПИН код, фигура, заключване, отключване</string>
+    <string name="google_play_protect_search_terms">Сигурност на приложенията, Play Protect, Google Play Protect, безопасност на приложенията</string>
+    <string name="google_play_protect_title">Сигурност на приложенията</string>
+    <string name="google_play_protect_title_for_work">Сигурност на приложенията за служебни цели</string>
+    <string name="google_play_system_update_search_terms">Актуализации, актуализация, системна актуализация, системни актуализации, системна актуализация на Google Play</string>
+    <string name="google_play_system_update_title">Системна актуализация на Google Play</string>
+    <string name="google_security_checkup_search_terms">Инструмент на Google за проверка на сигурността, сигурност от Google, проверка на сигурността, сигурност на профила, сигурност на профила в Google, профил в Google</string>
+    <string name="google_security_checkup_title">Проверка на сигурността от Google</string>
+    <string name="google_security_checkup_title_for_work">Проверка на сигурността от Google за служебни цели</string>
+    <string name="google_security_updates_search_terms">Актуализации, актуализация, системна актуализация, системни актуализации</string>
+    <string name="google_security_updates_title">Актуализация за сигурност</string>
+    <string name="google_updates_summary">Устройството е актуализирано</string>
+    <string name="google_updates_title">Актуализации</string>
+</resources>

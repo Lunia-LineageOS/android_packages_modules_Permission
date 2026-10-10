@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Teie konto on kaitstud</string>
+    <string name="google_accounts_sources_title">"Google'i turvalisuse kontroll"</string>
+    <string name="google_app_security_sources_summary">Play Protecti skannimine on sisse lülitatud</string>
+    <string name="google_app_security_sources_title">Rakenduste turvalisus</string>
+    <string name="google_device_finder_sources_summary">Hoiatusi pole</string>
+    <string name="google_device_finder_sources_title">Seadmeleidjad</string>
+    <string name="google_find_my_device_search_terms">Leidmiskeskus, seadmete leidmine, leia mu seade, kaotsiläinud seade</string>
+    <string name="google_find_my_device_title">Leidmiskeskus</string>
+    <string name="google_lock_screen_search_terms">Seadme lukustamine, ekraani lukustamine, ekraanilukk, lukustuskuva, parool, PIN-kood, muster, lukustamine, avamine</string>
+    <string name="google_play_protect_search_terms">Rakenduste turvalisus, Play Protect, Google Play Protect, rakenduste ohutus</string>
+    <string name="google_play_protect_title">Rakenduste turvalisus</string>
+    <string name="google_play_protect_title_for_work">Rakenduste turvalisus töö jaoks</string>
+    <string name="google_play_system_update_search_terms">Värskendused, värskendus süsteemivärskendus, Google Play süsteemivärskendus, Play süsteemivärskendus</string>
+    <string name="google_play_system_update_title">Google Play süsteemivärskendus</string>
+    <string name="google_security_checkup_search_terms">"Google'i turvalisuse kontroll, Google'i turvalisus, turvalisuse kontroll, konto turvalisus, Google'i konto turvalisus, Google'i konto"</string>
+    <string name="google_security_checkup_title">"Google'i turvalisuse kontroll"</string>
+    <string name="google_security_checkup_title_for_work">"Google'i turvalisuse kontroll tööprofiili jaoks"</string>
+    <string name="google_security_updates_search_terms">Värskendused, värskendus, turvavärskendus, turvavärskendused</string>
+    <string name="google_security_updates_title">Turvavärskendus</string>
+    <string name="google_updates_summary">Seade on ajakohane</string>
+    <string name="google_updates_title">Värskendused</string>
+</resources>

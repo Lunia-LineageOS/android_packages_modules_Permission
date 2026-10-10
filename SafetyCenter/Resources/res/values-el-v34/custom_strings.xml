@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ο Λογαριασμός Google προστατεύεται</string>
+    <string name="google_accounts_sources_title">Ασφάλεια λογαριασμού</string>
+    <string name="google_activity_controls_search_terms">Δραστηριότητα, στοιχεία ελέγχου δραστηριότητας</string>
+    <string name="google_activity_controls_summary">Επιλέξτε τις δραστηριότητες και τις πληροφορίες που επιτρέπετε στην Google να αποθηκεύει</string>
+    <string name="google_activity_controls_title">Στοιχεία ελέγχου δραστηριότητας</string>
+    <string name="google_activity_controls_title_for_work">Στοιχεία ελέγχου δραστηριότητας για την εργασία</string>
+    <string name="google_ads_identity_search_terms">διαφημίσεις, απόρρητο διαφημίσεων, privacy sandbox, θέματα διαφημίσεων, διαφημίσεις που προτείνονται από εφαρμογές, μέτρηση διαφημίσεων</string>
+    <string name="google_ads_identity_summary">Διαχείριση των δεδομένων συσκευής που χρησιμοποιούνται για την εμφάνιση διαφημίσεων</string>
+    <string name="google_ads_identity_title">Διαφημίσεις</string>
+    <string name="google_ads_identity_title_for_work">Διαφημίσεις για την εργασία</string>
+    <string name="google_backup_search_terms">Δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="google_backup_title">Δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="google_password_checkup_title">Έλεγχος κωδικού πρόσβασης</string>
+    <string name="google_password_checkup_title_for_work">Έλεγχος κωδικού πρόσβασης για την εργασία</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect για την εργασία</string>
+    <string name="google_updates_summary">Ενημερώσεις</string>
+    <string name="google_updates_title">Σύστημα και ενημερώσεις</string>
+</resources>

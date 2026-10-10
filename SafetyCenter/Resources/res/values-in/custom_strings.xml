@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Akun Anda terlindungi</string>
+    <string name="google_accounts_sources_title">Pemeriksaan Keamanan Google</string>
+    <string name="google_app_security_sources_summary">Pemindaian Play Protect aktif</string>
+    <string name="google_app_security_sources_title">Keamanan aplikasi</string>
+    <string name="google_device_finder_sources_summary">Tidak ada peringatan</string>
+    <string name="google_device_finder_sources_title">Pencari perangkat</string>
+    <string name="google_find_my_device_search_terms">Hub pencari, Menemukan perangkat, Temukan perangkat saya, Perangkat hilang</string>
+    <string name="google_find_my_device_title">Hub Pencari</string>
+    <string name="google_lock_screen_search_terms">Kunci perangkat, Kunci layar, Layar kunci, Layar saat dikunci, Sandi, PIN, Pola, Kunci, Buka kunci</string>
+    <string name="google_play_protect_search_terms">Keamanan aplikasi, Play Protect, Google Play Protect, Pengamanan aplikasi</string>
+    <string name="google_play_protect_title">Keamanan aplikasi</string>
+    <string name="google_play_protect_title_for_work">Keamanan aplikasi untuk profil kerja</string>
+    <string name="google_play_system_update_search_terms">Update, Update sistem, Update sistem Google Play, Update sistem Play</string>
+    <string name="google_play_system_update_title">Update sistem Google Play</string>
+    <string name="google_security_checkup_search_terms">Pemeriksaan keamanan Google, Keamanan Google, Pemeriksaan keamanan, Keamanan akun, Keamanan Akun Google, Akun Google</string>
+    <string name="google_security_checkup_title">Pemeriksaan Keamanan Google</string>
+    <string name="google_security_checkup_title_for_work">Pemeriksaan Keamanan Google untuk profil kerja</string>
+    <string name="google_security_updates_search_terms">Update, Update keamanan</string>
+    <string name="google_security_updates_title">Update keamanan</string>
+    <string name="google_updates_summary">Perangkat sudah diupdate</string>
+    <string name="google_updates_title">Update</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">ការត្រួតពិនិត្យសកម្មភាពសម្រាប់លំហឯកជន</string>
+    <string name="google_ads_identity_title_for_private_profile">ការផ្សាយពាណិជ្ជកម្មសម្រាប់លំហឯកជន</string>
+    <string name="google_advanced_protection_summary">ការការពារសម្រាប់ឧបករណ៍ និងគណនី Google របស់អ្នក</string>
+    <string name="google_advanced_protection_title">ការ​ការពារ​កម្រិតខ្ពស់</string>
+    <string name="google_password_checkup_title_for_private_profile">ការពិនិត្យពាក្យ​សម្ងាត់សម្រាប់លំហឯកជន</string>
+    <string name="google_play_protect_title_for_private_profile">Google Play Protect សម្រាប់លំហឯកជន</string>
+    <string name="google_security_checkup_title_for_private_profile">ការពិនិត្យសុវត្ថិភាព Google សម្រាប់លំហឯកជន</string>
+</resources>

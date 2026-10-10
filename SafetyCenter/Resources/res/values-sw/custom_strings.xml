@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Akaunti yako inalindwa</string>
+    <string name="google_accounts_sources_title">Ukaguzi wa Usalama wa Google</string>
+    <string name="google_app_security_sources_summary">Umewasha ukaguzi wa Play Protect</string>
+    <string name="google_app_security_sources_title">Usalama wa programu</string>
+    <string name="google_device_finder_sources_summary">Hakuna arifa</string>
+    <string name="google_device_finder_sources_title">Vitafuta kifaa</string>
+    <string name="google_find_my_device_search_terms">Kitafutaji, Kutafuta vifaa, Tafuta kifaa changu, Kifaa kilichopotea</string>
+    <string name="google_find_my_device_title">Kitafutaji</string>
+    <string name="google_lock_screen_search_terms">Kufunga kifaa, Kufunga skrini, Skrini iliyofungwa, Skrini iliyofungwa, Nenosiri, PIN, Mchoro, Funga, Fungua</string>
+    <string name="google_play_protect_search_terms">Usalama wa programu, Play Protect, Google Play Protect, Usalama wa programu</string>
+    <string name="google_play_protect_title">Usalama wa programu</string>
+    <string name="google_play_protect_title_for_work">Usalama wa programu za kazini</string>
+    <string name="google_play_system_update_search_terms">Masasisho, Sasisho, Sasisho la mfumo, Masasisho ya mfumo, Sasisho la mfumo wa Google Play, Sasisho la mfumo wa Google Play</string>
+    <string name="google_play_system_update_title">Sasisho la mfumo wa Google Play</string>
+    <string name="google_security_checkup_search_terms">Ukaguzi wa usalama wa Google, Usalama wa Google , Ukaguzi wa usalama, Usalama wa akaunti, Usalama wa akaunti ya Google, Akaunti ya Google</string>
+    <string name="google_security_checkup_title">Ukaguzi wa Usalama wa Google</string>
+    <string name="google_security_checkup_title_for_work">Ukaguzi wa Usalama wa Google kazini</string>
+    <string name="google_security_updates_search_terms">Masasisho, Sasisho, Sasisho la usalama, Masasisho ya usalama</string>
+    <string name="google_security_updates_title">Sasisho la usalama</string>
+    <string name="google_updates_summary">Kifaa kimesasishwa</string>
+    <string name="google_updates_title">Masasisho</string>
+</resources>

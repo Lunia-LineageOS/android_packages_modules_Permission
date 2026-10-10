@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Tilisi on suojattu</string>
+    <string name="google_accounts_sources_title">Googlen Tietoturvatarkistus</string>
+    <string name="google_app_security_sources_summary">Play Protect ‑tarkastus on päällä</string>
+    <string name="google_app_security_sources_title">Sovellusten turvallisuus</string>
+    <string name="google_device_finder_sources_summary">Ei hälytyksiä</string>
+    <string name="google_device_finder_sources_title">Laitteen paikantajat</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Laitteiden etsiminen, Paikanna laite, Kadonnut laite</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Laitteen lukitus, näytön lukitus, lukitusnäyttö, salasana, PIN, kuvio, lukitus, avaa lukitus</string>
+    <string name="google_play_protect_search_terms">Sovellusten turvallisuus, Play Protect, Google Play Protect, sovellusten turvallisuus</string>
+    <string name="google_play_protect_title">Sovellusten turvallisuus</string>
+    <string name="google_play_protect_title_for_work">Sovellusten turvallisuus (työprofiili)</string>
+    <string name="google_play_system_update_search_terms">Päivitykset, päivitys, järjestelmäpäivitys, järjestelmäpäivitykset, Google Play järjestelmäpäivitys, Play järjestelmäpäivitys</string>
+    <string name="google_play_system_update_title">Google Play ‑järjestelmäpäivitys</string>
+    <string name="google_security_checkup_search_terms">Googlen tietoturvatarkistus, Googlen tietoturva, tietoturvatarkistus, tilin tietoturva, Google tilin tietoturva, Google tili</string>
+    <string name="google_security_checkup_title">Googlen Tietoturvatarkistus</string>
+    <string name="google_security_checkup_title_for_work">Googlen Tietoturvatarkistus työprofiilissa</string>
+    <string name="google_security_updates_search_terms">Päivitykset, päivitys, tietoturvapäivitys, tietoturvapäivitykset</string>
+    <string name="google_security_updates_title">Tietoturvapäivitys</string>
+    <string name="google_updates_summary">Laite on ajan tasalla</string>
+    <string name="google_updates_title">Päivitykset</string>
+</resources>

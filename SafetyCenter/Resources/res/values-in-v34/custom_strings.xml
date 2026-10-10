@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Akun Google terlindungi</string>
+    <string name="google_accounts_sources_title">Keamanan akun</string>
+    <string name="google_activity_controls_search_terms">Aktivitas, Kontrol aktivitas</string>
+    <string name="google_activity_controls_summary">Pilih aktivitas dan info yang Anda izinkan disimpan Google</string>
+    <string name="google_activity_controls_title">Kontrol aktivitas</string>
+    <string name="google_activity_controls_title_for_work">Kontrol aktivitas untuk profil kerja</string>
+    <string name="google_ads_identity_search_terms">iklan, privasi iklan, privacy sandbox, topik iklan, iklan yang disarankan aplikasi, pengukuran iklan</string>
+    <string name="google_ads_identity_summary">Kelola data perangkat yang digunakan untuk menampilkan iklan kepada Anda</string>
+    <string name="google_ads_identity_title">Iklan</string>
+    <string name="google_ads_identity_title_for_work">Iklan untuk profil kerja</string>
+    <string name="google_backup_search_terms">Pencadangan</string>
+    <string name="google_backup_title">Pencadangan</string>
+    <string name="google_password_checkup_title">Pemeriksaan Sandi</string>
+    <string name="google_password_checkup_title_for_work">Pemeriksaan Sandi untuk profil kerja</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect untuk profil kerja</string>
+    <string name="google_updates_summary">Update</string>
+    <string name="google_updates_title">Sistem &amp; update</string>
+</resources>

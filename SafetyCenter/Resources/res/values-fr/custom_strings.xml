@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Votre compte est protégé</string>
+    <string name="google_accounts_sources_title">Check-up Sécurité de Google</string>
+    <string name="google_app_security_sources_summary">"L'analyse Play Protect est activée"</string>
+    <string name="google_app_security_sources_title">Sécurité des applications</string>
+    <string name="google_device_finder_sources_summary">Aucune alerte</string>
+    <string name="google_device_finder_sources_title">"Localisateurs d'appareil"</string>
+    <string name="google_find_my_device_search_terms">"Localiser, recherche d'appareils, Localiser mon appareil, appareil perdu"</string>
+    <string name="google_find_my_device_title">Localiser</string>
+    <string name="google_lock_screen_search_terms">"verrouillage de l'appareil, verrouillage de l'écran, écran de verrouillage, mot de passe, code, schéma, verrouiller, déverrouiller"</string>
+    <string name="google_play_protect_search_terms">sécurité des applis, Play Protect, Google Play Protect</string>
+    <string name="google_play_protect_title">Sécurité des applications</string>
+    <string name="google_play_protect_title_for_work">Sécurité des applis pour le travail</string>
+    <string name="google_play_system_update_search_terms">mises à jour, mise à jour, mise à jour du système, mises à jour du système, mise à jour du système Google Play, mise à jour du système Play</string>
+    <string name="google_play_system_update_title">Mise à jour du système Google Play</string>
+    <string name="google_security_checkup_search_terms">Check-Up Sécurité de Google, sécurité Google, Check-up Sécurité, sécurité de compte, sécurité de compte Google, compte Google</string>
+    <string name="google_security_checkup_title">Check-up Sécurité de Google</string>
+    <string name="google_security_checkup_title_for_work">Check-up Sécurité de Google pour le compte pro</string>
+    <string name="google_security_updates_search_terms">mises à jour, mise à jour, mise à jour de sécurité, mises à jour de sécurité</string>
+    <string name="google_security_updates_title">Mise à jour de sécurité</string>
+    <string name="google_updates_summary">"L'appareil est à jour"</string>
+    <string name="google_updates_title">Mises à jour</string>
+</resources>

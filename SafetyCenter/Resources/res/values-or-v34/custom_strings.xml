@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google ଆକାଉଣ୍ଟ ସୁରକ୍ଷିତ ଅଛି</string>
+    <string name="google_accounts_sources_title">ଆକାଉଣ୍ଟର ସୁରକ୍ଷା</string>
+    <string name="google_activity_controls_search_terms">କାର୍ଯ୍ୟକଳାପ, କାର୍ଯ୍ୟକଳାପ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ</string>
+    <string name="google_activity_controls_summary">Google ସେଭ କରିବାକୁ ଆପଣ ଅନୁମତି ଦେଉଥିବା କାର୍ଯ୍ୟକଳାପ ଏବଂ ସୂଚନା ବାଛନ୍ତୁ</string>
+    <string name="google_activity_controls_title">କାର୍ଯ୍ୟକଳାପ ନିୟନ୍ତ୍ରଣ</string>
+    <string name="google_activity_controls_title_for_work">ୱାର୍କ ପାଇଁ କାର୍ଯ୍ୟକଳାପ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ</string>
+    <string name="google_ads_identity_search_terms">ବିଜ୍ଞାପନ, ବିଜ୍ଞାପନ ଗୋପନୀୟତା, ପ୍ରାଇଭେସି ସେଣ୍ଡବକ୍ସ, ବିଜ୍ଞାପନ ବିଷୟ, ଆପ-ପରାମର୍ଶିତ ବିଜ୍ଞାପନ, ବିଜ୍ଞାପନର ପରିମାପ</string>
+    <string name="google_ads_identity_summary">ଆପଣଙ୍କୁ ବିଜ୍ଞାପନଗୁଡ଼ିକ ଦେଖାଇବା ପାଇଁ ବ୍ୟବହୃତ ଡିଭାଇସ ଡାଟାକୁ ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="google_ads_identity_title">ବିଜ୍ଞାପନ</string>
+    <string name="google_ads_identity_title_for_work">ୱାର୍କ ପାଇଁ ବିଜ୍ଞାପନଗୁଡ଼ିକ</string>
+    <string name="google_backup_search_terms">ବେକଅପ ନିଅନ୍ତୁ</string>
+    <string name="google_backup_title">ବେକଅପ ନିଅନ୍ତୁ</string>
+    <string name="google_password_checkup_title">ପାସୱାର୍ଡ ଚେକଅପ</string>
+    <string name="google_password_checkup_title_for_work">ୱାର୍କ ପାଇଁ ପାସୱାର୍ଡ ଚେକଅପ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">କାର୍ଯ୍ୟ ପାଇଁ Google Play Protect</string>
+    <string name="google_updates_summary">ଅପଡେଟ</string>
+    <string name="google_updates_title">ସିଷ୍ଟମ ଏବଂ ଅପଡେଟ</string>
+</resources>

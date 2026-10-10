@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ваш уліковы запіс абаронены</string>
+    <string name="google_accounts_sources_title">Праверка бяспекі Google</string>
+    <string name="google_app_security_sources_summary">Праверка Play Абаронай уключана</string>
+    <string name="google_app_security_sources_title">Бяспека праграм</string>
+    <string name="google_device_finder_sources_summary">Няма абвестак</string>
+    <string name="google_device_finder_sources_title">Пошук прылад</string>
+    <string name="google_find_my_device_search_terms">Цэнтр пошуку, пошук прылад, Знайсці прыладу, згубленая прылада</string>
+    <string name="google_find_my_device_title">Цэнтр пошуку</string>
+    <string name="google_lock_screen_search_terms">Блакіроўка прылады, блакіроўка экрана, экран блакіроўкі, пароль, PIN-код, узор разблакіроўкі, заблакіраваць, разблакіраваць</string>
+    <string name="google_play_protect_search_terms">Бяспека праграм, Play Абарона, Google Play Абарона, бяспека праграмы</string>
+    <string name="google_play_protect_title">Бяспека праграм</string>
+    <string name="google_play_protect_title_for_work">Бяспека працоўных праграм</string>
+    <string name="google_play_system_update_search_terms">Абнаўленні, абнаўленне, абнаўленне сістэмы, абнаўленні сістэмы, абнаўленне сістэмы Google Play, абнаўленне сістэмы Play</string>
+    <string name="google_play_system_update_title">Абнаўленне сістэмы Google Play</string>
+    <string name="google_security_checkup_search_terms">Праверка бяспекі Google, бяспека Google, Праверка бяспекі, бяспека ўліковага запісу, бяспека Уліковага запісу Google, уліковы запіс Google</string>
+    <string name="google_security_checkup_title">Праверка бяспекі Google</string>
+    <string name="google_security_checkup_title_for_work">Праверка бяспекі Google для працоўнага профілю</string>
+    <string name="google_security_updates_search_terms">Абнаўленні, абнаўленне, абнаўленне сістэмы бяспекі, абнаўленні сістэмы бяспекі</string>
+    <string name="google_security_updates_title">Абнаўленне сістэмы бяспекі</string>
+    <string name="google_updates_summary">На прыладзе ўсталявана актуальная версія праграмнага забеспячэння</string>
+    <string name="google_updates_title">Абнаўленні</string>
+</resources>

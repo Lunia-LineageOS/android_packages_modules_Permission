@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Jūsu konts ir aizsargāts</string>
+    <string name="google_accounts_sources_title">Google drošības iestatījumu pārbaude</string>
+    <string name="google_app_security_sources_summary">Play Protect pārbaude ir ieslēgta</string>
+    <string name="google_app_security_sources_title">Lietotņu drošība</string>
+    <string name="google_device_finder_sources_summary">Nav ieteikumu un brīdinājumu</string>
+    <string name="google_device_finder_sources_title">Ierīču meklētāji</string>
+    <string name="google_find_my_device_search_terms">Find Hub, ierīču meklēšana, Atrast ierīci, nozaudēta ierīce</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Ierīces bloķēšana, ekrāna bloķēšana, bloķēšanas ekrāns, parole, PIN, kombinācija, bloķēšana, atbloķēšana, bloķēt, atbloķēt</string>
+    <string name="google_play_protect_search_terms">Lietotņu drošība, Play Protect, Google Play Protect, lietotņu aizsardzība</string>
+    <string name="google_play_protect_title">Lietotņu drošība</string>
+    <string name="google_play_protect_title_for_work">Darba lietotņu drošība</string>
+    <string name="google_play_system_update_search_terms">Atjauninājumi, atjauninājums, sistēmas atjauninājums, sistēmas atjauninājumi, Google Play sistēmas atjauninājums, Play sistēmas atjauninājums</string>
+    <string name="google_play_system_update_title">Google Play sistēmas atjauninājums</string>
+    <string name="google_security_checkup_search_terms">Google drošības iestatījumu pārbaude, Google drošība, Drošības iestatījumu pārbaude, konta drošība, Google konta drošība, Google konts</string>
+    <string name="google_security_checkup_title">Google drošības iestatījumu pārbaude</string>
+    <string name="google_security_checkup_title_for_work">Google drošības iestatījumu pārbaude darbam</string>
+    <string name="google_security_updates_search_terms">Atjauninājumi, atjauninājums, drošības atjauninājums, drošības atjauninājumi</string>
+    <string name="google_security_updates_title">Drošības atjauninājums</string>
+    <string name="google_updates_summary">Ierīce ir atjaunināta</string>
+    <string name="google_updates_title">Atjauninājumi</string>
+</resources>

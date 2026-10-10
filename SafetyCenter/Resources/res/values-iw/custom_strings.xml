@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">החשבון שלך מוגן</string>
+    <string name="google_accounts_sources_title">‏בדיקת האבטחה של Google</string>
+    <string name="google_app_security_sources_summary">‏סריקת Play Protect פועלת</string>
+    <string name="google_app_security_sources_title">אבטחת האפליקציות</string>
+    <string name="google_device_finder_sources_summary">אין התראות</string>
+    <string name="google_device_finder_sources_title">אמצעים לאיתור מכשירים</string>
+    <string name="google_find_my_device_search_terms">מרכז המכשירים שלי, איך למצוא מכשירים, חיפוש מכשיר, איפה המכשיר שלי, מכשיר שאבד</string>
+    <string name="google_find_my_device_title">מרכז המכשירים שלי</string>
+    <string name="google_lock_screen_search_terms">‏נעילת מכשיר, נעילת מסך, מסך נעילה, סיסמה, קוד אימות, PIN, קוד PIN, קו ביטול נעילה, קו ביטול, דפוס, נעילה, ביטול נעילה</string>
+    <string name="google_play_protect_search_terms">‏אבטחת האפליקציות, Play Protect, ‏Google Play Protect, בטיחות אפליקציות</string>
+    <string name="google_play_protect_title">אבטחת האפליקציות</string>
+    <string name="google_play_protect_title_for_work">אבטחת האפליקציות בפרופיל העבודה</string>
+    <string name="google_play_system_update_search_terms">‏עדכונים, עדכון, עדכון מערכת, עדכוני מערכת, עדכון מערכת של Google play, עדכון מערכת של Play</string>
+    <string name="google_play_system_update_title">‏עדכון מערכת של Google Play</string>
+    <string name="google_security_checkup_search_terms">‏בדיקת האבטחה של Google, אבטחה ב-Google, בדיקת אבטחה, אבטחת החשבון, אבטחת חשבון Google, חשבון Google</string>
+    <string name="google_security_checkup_title">‏בדיקת האבטחה של Google</string>
+    <string name="google_security_checkup_title_for_work">‏בדיקת האבטחה של Google בפרופיל העבודה</string>
+    <string name="google_security_updates_search_terms">עדכונים, עדכון, עדכון אבטחה, עדכוני אבטחה</string>
+    <string name="google_security_updates_title">עדכון אבטחה</string>
+    <string name="google_updates_summary">המכשיר מעודכן</string>
+    <string name="google_updates_title">עדכונים</string>
+</resources>

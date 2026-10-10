@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google መለያ ደህንነቱ ተጠብቋል</string>
+    <string name="google_accounts_sources_title">የመለያ ደህንነት</string>
+    <string name="google_activity_controls_search_terms">እንቅስቃሴ፣ የእንቅስቃሴ መቆጣጠሪያዎች</string>
+    <string name="google_activity_controls_summary">Google እንዲያስቀምጣቸው የሚፈቅዱለትን እንቅስቃሴዎች እና መረጃን ይምረጡ።</string>
+    <string name="google_activity_controls_title">የእንቅስቃሴ መቆጣጠሪያዎች</string>
+    <string name="google_activity_controls_title_for_work">የእንቅስቃሴ መቆጣጠሪያዎች ለሥራ</string>
+    <string name="google_ads_identity_search_terms">ማስታወቂያዎች፣ የማስታወቂያ ግላዊነት፣ የግላዊነት Sandbox፣ የማስታወቂያ ርዕሶች፣ በመተግበሪያ የተጠቆሙ ማስታወቂያዎች፣ የማስታወቂያ ልኬት</string>
+    <string name="google_ads_identity_summary">ለእርስዎ ማስታወቂያዎችን ለማሳየት ጥቅም ላይ የሚውለውን የመሣሪያ ውሂብ ያስተዳድሩ</string>
+    <string name="google_ads_identity_title">ማስታወቂያዎች</string>
+    <string name="google_ads_identity_title_for_work">የሥራ ማስታወቂያዎች</string>
+    <string name="google_backup_search_terms">ምትኬ</string>
+    <string name="google_backup_title">ምትኬ</string>
+    <string name="google_password_checkup_title">የይለፍ ቃል ፍተሻ</string>
+    <string name="google_password_checkup_title_for_work">የሚስጥር ቃል ማረጋገጫ ለሥራ</string>
+    <string name="google_play_protect_title">Google Play ጥቃት መከላከያ</string>
+    <string name="google_play_protect_title_for_work">Google Play ጥቃት መከላከያ ለስራ</string>
+    <string name="google_updates_summary">ዝማኔዎች</string>
+    <string name="google_updates_title">የሥርዓት እና ዝማኔዎች</string>
+</resources>

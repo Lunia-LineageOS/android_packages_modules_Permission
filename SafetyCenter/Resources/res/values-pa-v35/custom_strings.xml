@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਸਰਗਰਮੀ ਕੰਟਰੋਲ</string>
+    <string name="google_ads_identity_title_for_private_profile">ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਵਿਗਿਆਪਨ</string>
+    <string name="google_advanced_protection_summary">ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਅਤੇ Google ਖਾਤੇ ਸੰਬੰਧੀ ਸੁਰੱਖਿਆ</string>
+    <string name="google_advanced_protection_title">ਅਡਵਾਂਸ ਸੁਰੱਖਿਆ</string>
+    <string name="google_password_checkup_title_for_private_profile">ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਪਾਸਵਰਡ ਜਾਂਚ</string>
+    <string name="google_play_protect_title_for_private_profile">ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ Google Play Protect</string>
+    <string name="google_security_checkup_title_for_private_profile">ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ Google ਸੁਰੱਖਿਆ ਜਾਂਚ</string>
+</resources>

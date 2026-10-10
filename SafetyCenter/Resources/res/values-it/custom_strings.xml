@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Il tuo account è protetto</string>
+    <string name="google_accounts_sources_title">Controllo sicurezza di Google</string>
+    <string name="google_app_security_sources_summary">Analisi Play Protect attiva</string>
+    <string name="google_app_security_sources_title">Sicurezza delle app</string>
+    <string name="google_device_finder_sources_summary">Nessun avviso</string>
+    <string name="google_device_finder_sources_title">Strumenti ricerca dispositivi</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Ricerca di dispositivi, Trova il mio dispositivo, Dispositivo smarrito</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Blocco dispositivo, Blocco schermo, Schermata di blocco, Password, PIN, Sequenza, Blocco, Sblocco</string>
+    <string name="google_play_protect_search_terms">"Sicurezza dell'app, Play Protect, Google Play Protect, Protezione dell'app"</string>
+    <string name="google_play_protect_title">Sicurezza delle app</string>
+    <string name="google_play_protect_title_for_work">Sicurezza delle app di lavoro</string>
+    <string name="google_play_system_update_search_terms">Aggiornamenti, Aggiornamento, Aggiornamento di sistema, Aggiornamenti di sistema, Aggiornamento di sistema Google Play, Aggiornamento di sistema Play</string>
+    <string name="google_play_system_update_title">Aggiornamento di sistema Google Play</string>
+    <string name="google_security_checkup_search_terms">"Controllo sicurezza di Google, Sicurezza di Google, Controllo sicurezza, Sicurezza dell'account, Sicurezza dell'Account Google, Account Google"</string>
+    <string name="google_security_checkup_title">Controllo sicurezza di Google</string>
+    <string name="google_security_checkup_title_for_work">Controllo sicurezza di Google per il lavoro</string>
+    <string name="google_security_updates_search_terms">Aggiornamenti, Aggiornamento, Aggiornamento della sicurezza, Aggiornamenti della sicurezza</string>
+    <string name="google_security_updates_title">Aggiornamento della sicurezza</string>
+    <string name="google_updates_summary">Il dispositivo è aggiornato</string>
+    <string name="google_updates_title">Aggiornamenti</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Akaun anda dilindungi</string>
+    <string name="google_accounts_sources_title">Pemeriksaan Keselamatan Google</string>
+    <string name="google_app_security_sources_summary">Pengimbasan Play Protect dihidupkan</string>
+    <string name="google_app_security_sources_title">Keselamatan apl</string>
+    <string name="google_device_finder_sources_summary">Tiada makluman</string>
+    <string name="google_device_finder_sources_title">Pencari peranti</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Mencari peranti, Find My Device, Peranti yang hilang</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Kunci peranti, Kunci skrin, Skrin kunci, Skrin kunci, Kata laluan, Pin, Corak, Kunci, Buka kunci</string>
+    <string name="google_play_protect_search_terms">Keselamatan apl, Play Protect, Google Play Protect, Keselamatan apl</string>
+    <string name="google_play_protect_title">Keselamatan apl</string>
+    <string name="google_play_protect_title_for_work">Keselamatan apl untuk kerja</string>
+    <string name="google_play_system_update_search_terms">Kemaskinian, Kemaskinian, Kemaskinian sistem, Kemaskinian sistem, Kemaskinian sistem Google play, Kemaskinian sistem Play</string>
+    <string name="google_play_system_update_title">Kemaskinian sistem Google Play</string>
+    <string name="google_security_checkup_search_terms">Pemeriksaan keselamatan Google, Keselamatan Google, Pemeriksaan keselamatan, Keselamatan akaun, Keselamatan Google account, Google account</string>
+    <string name="google_security_checkup_title">Pemeriksaan Keselamatan Google</string>
+    <string name="google_security_checkup_title_for_work">Pemeriksaan Keselamatan Google untuk profil kerja</string>
+    <string name="google_security_updates_search_terms">Kemaskinian, Kemaskinian, Kemaskinian keselamatan, Kemaskinian keselamatan</string>
+    <string name="google_security_updates_title">Kemaskinian keselamatan</string>
+    <string name="google_updates_summary">Peranti sudah dikemas kini</string>
+    <string name="google_updates_title">Kemaskinian</string>
+</resources>

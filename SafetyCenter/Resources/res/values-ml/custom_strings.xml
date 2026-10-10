@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിച്ചിരിക്കുന്നു</string>
+    <string name="google_accounts_sources_title">Google സുരക്ഷാ പരിശോധന</string>
+    <string name="google_app_security_sources_summary">Play Protect സ്‌കാൻ ചെയ്യൽ ഓണാണ്</string>
+    <string name="google_app_security_sources_title">ആപ്പിന്റെ സുരക്ഷ</string>
+    <string name="google_device_finder_sources_summary">മുന്നറിയിപ്പുകളൊന്നുമില്ല</string>
+    <string name="google_device_finder_sources_title">ഡിവൈസ് ഫൈൻഡറുകൾ</string>
+    <string name="google_find_my_device_search_terms">Find hub, ഉപകരണങ്ങൾ കണ്ടെത്തൽ, Find my device, നഷ്ടപ്പെട്ട ഉപകരണം</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ഉപകരണ ലോക്ക്, സ്ക്രീൻ ലോക്ക്, ലോക്ക് സ്‌ക്രീൻ, പാസ്‍വേഡ്, പിൻ, പാറ്റേൺ, ലോക്ക് ചെയ്യൽ, അൺ‌ലോക്ക് ചെയ്യൽ</string>
+    <string name="google_play_protect_search_terms">ആപ്പ് സുരക്ഷ, Play Protect, Google Play Protect, ആപ്പിന്റെ സുരക്ഷ</string>
+    <string name="google_play_protect_title">ആപ്പിന്റെ സുരക്ഷ</string>
+    <string name="google_play_protect_title_for_work">ഔദ്യോഗിക ആപ്പുകൾക്കുള്ള ആപ്പ് സുരക്ഷ</string>
+    <string name="google_play_system_update_search_terms">അപ്‌ഡേറ്റുകൾ, അപ്‌ഡേറ്റ്, സിസ്റ്റം അപ്‌ഡേറ്റ്, സിസ്റ്റം അപ്‌ഡേറ്റുകൾ, Google Play സിസ്‌റ്റം അപ്‌ഡേറ്റ്, Play സിസ്‌റ്റം അപ്‌ഡേറ്റ്</string>
+    <string name="google_play_system_update_title">Google Play സിസ്‌റ്റം അപ്‌ഡേറ്റ്</string>
+    <string name="google_security_checkup_search_terms">Google സുരക്ഷാ പരിശോധന, Google സുരക്ഷ, സുരക്ഷാ പരിശോധന, അക്കൗണ്ട് സുരക്ഷ, Google Account സുരക്ഷ, Google Account</string>
+    <string name="google_security_checkup_title">Google സുരക്ഷാ പരിശോധന</string>
+    <string name="google_security_checkup_title_for_work">ഔദ്യോഗിക പ്രൊഫൈലിനുള്ള Google സുരക്ഷാ പരിശോധന</string>
+    <string name="google_security_updates_search_terms">അപ്ഡേറ്റുകൾ, അപ്ഡേറ്റ്, സുരക്ഷാ അപ്ഡേറ്റ്, സുരക്ഷാ അപ്ഡേറ്റുകൾ</string>
+    <string name="google_security_updates_title">സുരക്ഷാ അപ്‌ഡേറ്റ്</string>
+    <string name="google_updates_summary">ഉപകരണം അപ് ടു ഡേറ്റ് ആണ്</string>
+    <string name="google_updates_title">അപ്‌ഡേറ്റുകൾ</string>
+</resources>

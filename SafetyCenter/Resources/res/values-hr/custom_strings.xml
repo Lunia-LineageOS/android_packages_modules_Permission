@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Vaš je račun zaštićen</string>
+    <string name="google_accounts_sources_title">Googleova sigurnosna provjera</string>
+    <string name="google_app_security_sources_summary">Uključen je pregled pomoću Play Protecta</string>
+    <string name="google_app_security_sources_title">Sigurnost aplikacija</string>
+    <string name="google_device_finder_sources_summary">Bez upozorenja</string>
+    <string name="google_device_finder_sources_title">Alati za traženje uređaja</string>
+    <string name="google_find_my_device_search_terms">Lociranje uređaja, pronalaženje uređaja, Pronađi moj uređaj, izgubljeni uređaj</string>
+    <string name="google_find_my_device_title">Lociranje uređaja</string>
+    <string name="google_lock_screen_search_terms">Zaključavanje uređaja, zaključavanje zaslona, zaključani zaslon, zaključani zaslon, zaporka, PIN, uzorak, zaključati, otključati</string>
+    <string name="google_play_protect_search_terms">Sigurnost aplikacija, Play Protect, Google Play Protect, zaštita aplikacija</string>
+    <string name="google_play_protect_title">Sigurnost aplikacija</string>
+    <string name="google_play_protect_title_for_work">Sigurnost aplikacija za posao</string>
+    <string name="google_play_system_update_search_terms">Ažuriranja, ažuriranje, ažuriranje sustava, ažuriranja sustava, ažuriranje sustava s Google Playa, ažuriranje sustava s Playa</string>
+    <string name="google_play_system_update_title">Ažuriranje sustava s Google Playa</string>
+    <string name="google_security_checkup_search_terms">Googleova sigurnosna provjera, Google sigurnost, Sigurnosna provjera, sigurnost računa, sigurnost Google računa, Google račun</string>
+    <string name="google_security_checkup_title">Googleova sigurnosna provjera</string>
+    <string name="google_security_checkup_title_for_work">Googleova sigurnosna provjera za poslovni profil</string>
+    <string name="google_security_updates_search_terms">Ažuriranja, ažuriranje, sigurnosno ažuriranje, sigurnosna ažuriranja</string>
+    <string name="google_security_updates_title">Sigurnosno ažuriranje</string>
+    <string name="google_updates_summary">Uređaj je ažuriran</string>
+    <string name="google_updates_title">Ažuriranja</string>
+</resources>

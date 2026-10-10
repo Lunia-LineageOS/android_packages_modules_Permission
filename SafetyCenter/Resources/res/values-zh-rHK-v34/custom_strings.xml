@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google 帳戶已受保護</string>
+    <string name="google_accounts_sources_title">帳戶安全性</string>
+    <string name="google_activity_controls_search_terms">活動, 活動控制項</string>
+    <string name="google_activity_controls_summary">選擇你允許 Google 儲存的活動和資訊</string>
+    <string name="google_activity_controls_title">活動控制項</string>
+    <string name="google_activity_controls_title_for_work">工作設定檔的活動控制項</string>
+    <string name="google_ads_identity_search_terms">廣告, 廣告私隱權, 私隱沙箱, 廣告主題, 應用程式建議廣告, 廣告成效評估</string>
+    <string name="google_ads_identity_summary">管理系統根據哪些裝置資料向你顯示廣告</string>
+    <string name="google_ads_identity_title">廣告</string>
+    <string name="google_ads_identity_title_for_work">工作設定檔的廣告</string>
+    <string name="google_backup_search_terms">備份</string>
+    <string name="google_backup_title">備份</string>
+    <string name="google_password_checkup_title">密碼安全檢查</string>
+    <string name="google_password_checkup_title_for_work">工作設定檔的密碼安全檢查</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">工作用 Google Play Protect</string>
+    <string name="google_updates_summary">最新狀態</string>
+    <string name="google_updates_title">系統和更新</string>
+</resources>

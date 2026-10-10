@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">თქვენი ანგარიში დაცულია</string>
+    <string name="google_accounts_sources_title">Google-ის უსაფრთხოების შემოწმება</string>
+    <string name="google_app_security_sources_summary">Play Protect სკანირება ჩართულია</string>
+    <string name="google_app_security_sources_title">აპების უსაფრთხოება</string>
+    <string name="google_device_finder_sources_summary">გაფრთხილებები არ არის</string>
+    <string name="google_device_finder_sources_title">მოწყობილობის მაძიებლები</string>
+    <string name="google_find_my_device_search_terms">საძიებო ცენტრი, მოწყობილობების მოძიება, ჩემი მოწყობილობის პოვნა, დაკარგული მოწყობილობა</string>
+    <string name="google_find_my_device_title">საძიებო ცენტრი</string>
+    <string name="google_lock_screen_search_terms">მოწყობილობის დაბლოკვა, ეკრანის დაბლოკვა, ჩაკეტილი ეკრანი, ჩაკეტილი ეკრანი, პაროლი, PIN-კოდი, ნიმუში, განბლოკვა</string>
+    <string name="google_play_protect_search_terms">აპების უსაფრთხოება, Play Protect, Google Play Protect, აპების უსაფრთხოება</string>
+    <string name="google_play_protect_title">აპების უსაფრთხოება</string>
+    <string name="google_play_protect_title_for_work">აპების უსაფრთხოება სამსახურისთვის</string>
+    <string name="google_play_system_update_search_terms">განახლებები, განახლება, სისტემის განახლება, სისტემის განახლებები, Google Play სისტემის განახლება, Play სისტემის განახლება</string>
+    <string name="google_play_system_update_title">Google Play სისტემის განახლება</string>
+    <string name="google_security_checkup_search_terms">Google-ის უსაფრთხოების შემოწმება, Google-ის უსაფრთხოება, უსაფრთხოების შემოწმება, ანგარიშის უსაფრთხოება, Google ანგარიშის უსაფრთხოება, Google ანგარიში</string>
+    <string name="google_security_checkup_title">Google-ის უსაფრთხოების შემოწმება</string>
+    <string name="google_security_checkup_title_for_work">Google-ის უსაფრთხოების შემოწმება სამსახურისთვის</string>
+    <string name="google_security_updates_search_terms">განახლებები, განახლება, უსაფრთხოების განახლება, უსაფრთხოების განახლებები</string>
+    <string name="google_security_updates_title">უსაფრთხოების განახლება</string>
+    <string name="google_updates_summary">მოწყობილობა განახლებულია</string>
+    <string name="google_updates_title">განახლებები</string>
+</resources>

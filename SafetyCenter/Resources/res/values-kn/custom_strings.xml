@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="google_accounts_sources_title">Google ಭದ್ರತಾ ಪರಿಶೀಲನೆ</string>
+    <string name="google_app_security_sources_summary">Play Protect ಸ್ಕ್ಯಾನಿಂಗ್ ಆನ್ ಆಗಿದೆ</string>
+    <string name="google_app_security_sources_title">ಆ್ಯಪ್ ಸೆಕ್ಯೂರಿಟಿ</string>
+    <string name="google_device_finder_sources_summary">ಯಾವುದೇ ಅಲರ್ಟ್‌ಗಳಿಲ್ಲ</string>
+    <string name="google_device_finder_sources_title">ಸಾಧನದ ಫೈಂಡರ್‌ಗಳು</string>
+    <string name="google_find_my_device_search_terms">Find Hub, ಸಾಧನಗಳ ಪತ್ತೆಹಚ್ಚುವಿಕೆ, ನನ್ನ ಸಾಧನ ಹುಡುಕಾಟ, ಕಳೆದುಹೋದ ಸಾಧನ</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ಸಾಧನ ಲಾಕ್, ಸ್ಕ್ರೀನ್ ಲಾಕ್, ಲಾಕ್ ಸ್ಕ್ರೀನ್, ಲಾಕ್‌ಸ್ಕ್ರೀನ್, ಪಾಸ್‌ವರ್ಡ್, ಪಿನ್, ಪ್ಯಾಟರ್ನ್, ಲಾಕ್, ಅನ್‌ಲಾಕ್</string>
+    <string name="google_play_protect_search_terms">ಆ್ಯಪ್ ಸೆಕ್ಯೂರಿಟಿ, Play Protect, Google Play Protect, ಆ್ಯಪ್ ಭದ್ರತೆ</string>
+    <string name="google_play_protect_title">ಆ್ಯಪ್ ಸೆಕ್ಯೂರಿಟಿ</string>
+    <string name="google_play_protect_title_for_work">ಉದ್ಯೋಗಕ್ಕಾಗಿ ಆ್ಯಪ್ ಸುರಕ್ಷತೆ</string>
+    <string name="google_play_system_update_search_terms">ಅಪ್‌ಡೇಟ್‌ಗಳು, ಅಪ್‌ಡೇಟ್, ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್, ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್‌ಗಳು, Google Play ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್, Play ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್</string>
+    <string name="google_play_system_update_title">Google Play ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್</string>
+    <string name="google_security_checkup_search_terms">Google ಭದ್ರತಾ ಪರಿಶೀಲನೆ, Google ಭದ್ರತೆ , ಭದ್ರತಾ ಪರಿಶೀಲನೆ, ಖಾತೆ ಭದ್ರತೆ, Google ಖಾತೆ ಭದ್ರತೆ, Google ಖಾತೆ</string>
+    <string name="google_security_checkup_title">Google ಭದ್ರತಾ ಪರಿಶೀಲನೆ</string>
+    <string name="google_security_checkup_title_for_work">ಕೆಲಸದ ಪ್ರೊಫೈಲ್‌ಗಳಿಗಾಗಿ Google ಖಾತೆ ಭದ್ರತಾ ಪರಿಶೀಲನೆ</string>
+    <string name="google_security_updates_search_terms">ಅಪ್‌ಡೇಟ್‌ಗಳು, ಅಪ್‌ಡೇಟ್, ಭದ್ರತಾ ಅಪ್‌ಡೇಟ್, ಭದ್ರತಾ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="google_security_updates_title">ಭದ್ರತಾ ಅಪ್‌ಡೇಟ್</string>
+    <string name="google_updates_summary">ಸಾಧನವು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದೆ</string>
+    <string name="google_updates_title">ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+</resources>

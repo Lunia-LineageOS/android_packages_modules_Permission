@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <color name="sc_materialColorOutline">@android:color/system_outline_light</color>
+    <color name="sc_materialColorSecondaryContainer">@android:color/system_secondary_container_light</color>
+</resources>

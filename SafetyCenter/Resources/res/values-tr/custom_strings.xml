@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Hesabınız korunuyor</string>
+    <string name="google_accounts_sources_title">Google Güvenlik Kontrolü</string>
+    <string name="google_app_security_sources_summary">Play Protect taraması açık</string>
+    <string name="google_app_security_sources_title">Uygulama güvenliği</string>
+    <string name="google_device_finder_sources_summary">Uyarı yok</string>
+    <string name="google_device_finder_sources_title">Cihaz bulucular</string>
+    <string name="google_find_my_device_search_terms">Cihaz Takip Merkezi, Cihaz bulma, Cihazımı Bul, Kayıp cihaz</string>
+    <string name="google_find_my_device_title">Cihaz Takip Merkezi</string>
+    <string name="google_lock_screen_search_terms">Cihaz kilidi, Ekran kilidi, Kilit ekranı, Şifre, PIN, Desen, Kilitleme, Kilit açma</string>
+    <string name="google_play_protect_search_terms">Uygulama güvenliği, Play Protect, Google Play Protect, Uygulama emniyeti</string>
+    <string name="google_play_protect_title">Uygulama güvenliği</string>
+    <string name="google_play_protect_title_for_work">İş için uygulama güvenliği</string>
+    <string name="google_play_system_update_search_terms">Güncellemeler, Güncelleme, Sistem güncelleme, Sistem güncellemeleri, Google Play sistem güncellemesi, Play sistem güncellemesi</string>
+    <string name="google_play_system_update_title">Google Play sistem güncellemesi</string>
+    <string name="google_security_checkup_search_terms">Google Güvenlik Kontrolü, Google Güvenlik, Güvenlik kontrolü, Hesap güvenliği, Google hesap güvenliği, Google Hesabı</string>
+    <string name="google_security_checkup_title">Google Güvenlik Kontrolü</string>
+    <string name="google_security_checkup_title_for_work">İş için Google Güvenlik Kontrolü</string>
+    <string name="google_security_updates_search_terms">Güncellemeler, Güncelleme, Güvenlik güncellemesi, Güvenlik güncellemeleri</string>
+    <string name="google_security_updates_title">Güvenlik güncellemesi</string>
+    <string name="google_updates_summary">Cihaz güncel</string>
+    <string name="google_updates_title">Güncellemeler</string>
+</resources>

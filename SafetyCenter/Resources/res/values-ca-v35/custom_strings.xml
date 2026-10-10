@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">"Controls d'activitat per a l'espai privat"</string>
+    <string name="google_ads_identity_title_for_private_profile">"Anuncis per a l'espai privat"</string>
+    <string name="google_advanced_protection_summary">Protecció per al teu dispositiu i Compte de Google</string>
+    <string name="google_advanced_protection_title">Protecció avançada</string>
+    <string name="google_password_checkup_title_for_private_profile">"Comprovació de contrasenya per a l'espai privat"</string>
+    <string name="google_play_protect_title_for_private_profile">"Google Play Protect per a l'espai privat"</string>
+    <string name="google_security_checkup_title_for_private_profile">"Comprovació de seguretat de Google per a l'espai privat"</string>
+</resources>

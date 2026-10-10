@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">حسابك الآن محمي.</string>
+    <string name="google_accounts_sources_title">‏فحص الأمان من Google</string>
+    <string name="google_app_security_sources_summary">‏ميزة الفحص بواسطة خدمات \"Play للحماية\" مفعّلة</string>
+    <string name="google_app_security_sources_title">أمان التطبيقات</string>
+    <string name="google_device_finder_sources_summary">لم يتم العثور على تنبيهات</string>
+    <string name="google_device_finder_sources_title">أدوات العثور على الجهاز</string>
+    <string name="google_find_my_device_search_terms">مركز العثور، العثور على الأجهزة، العثور على جهازي، جهاز مفقود</string>
+    <string name="google_find_my_device_title">مركز العثور</string>
+    <string name="google_lock_screen_search_terms">قفل الجهاز، قفل الشاشة، شاشة القفل، شاشة قفل، كلمة المرور، رقم التعريف الشخصي، نقش، قفل، فتح القفل</string>
+    <string name="google_play_protect_search_terms">‏أمان التطبيقات، Play للحماية، Google Play للحماية، سلامة التطبيقات</string>
+    <string name="google_play_protect_title">أمان التطبيقات</string>
+    <string name="google_play_protect_title_for_work">أمان تطبيقات العمل</string>
+    <string name="google_play_system_update_search_terms">‏تحديثات، تحديث، تحديث النظام، تحديثات النظام، تحديث نظام Google Play، تحديث نظام Play</string>
+    <string name="google_play_system_update_title">‏تحديث نظام Google Play</string>
+    <string name="google_security_checkup_search_terms">‏فحص الأمان من Google، أمان Google، فحص الأمان، أمان الحساب، أمان حساب Google، حساب Google</string>
+    <string name="google_security_checkup_title">‏فحص الأمان من Google</string>
+    <string name="google_security_checkup_title_for_work">‏فحص الأمان من Google الخاص بالعمل</string>
+    <string name="google_security_updates_search_terms">تحديثات، تحديث، تحديث الأمان، تحديثات الأمان</string>
+    <string name="google_security_updates_title">تحديث الأمان</string>
+    <string name="google_updates_summary">الجهاز مُحدَّث.</string>
+    <string name="google_updates_title">التحديثات</string>
+</resources>

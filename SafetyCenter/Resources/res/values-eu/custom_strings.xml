@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Kontua babestuta dago</string>
+    <string name="google_accounts_sources_title">Google-ren Segurtasun-egiaztapena</string>
+    <string name="google_app_security_sources_summary">Google Play Protect-en azterketa aktibatuta dago</string>
+    <string name="google_app_security_sources_title">Aplikazioen segurtasuna</string>
+    <string name="google_device_finder_sources_summary">Ez dago alertarik</string>
+    <string name="google_device_finder_sources_title">Gailu-bilatzaileak</string>
+    <string name="google_find_my_device_search_terms">Aurkitzailea, Gailuak aurkitzea, Bilatu nire gailua, Galdutako gailua</string>
+    <string name="google_find_my_device_title">Aurkitzailea</string>
+    <string name="google_lock_screen_search_terms">Gailua blokeatzeko eginbidea, pantailaren blokeoa, pantaila blokeatua, pasahitza, PINa, eredua, blokeatu, desblokeatu</string>
+    <string name="google_play_protect_search_terms">Aplikazioen segurtasuna, Play Protect, Google Play Protect, aplikazioen babesa</string>
+    <string name="google_play_protect_title">Aplikazioen segurtasuna</string>
+    <string name="google_play_protect_title_for_work">Laneko aplikazioen segurtasuna</string>
+    <string name="google_play_system_update_search_terms">Eguneratzeak, eguneratzea, sistemaren eguneratzea, sistemaren eguneratzeak, Google Play-ren sistemaren eguneratzea, Play-ren sistemaren eguneratzea</string>
+    <string name="google_play_system_update_title">Google Play-ren sistemaren eguneratzea</string>
+    <string name="google_security_checkup_search_terms">Google-ren segurtasun-egiaztapena, Google-ren segurtasuna, Segurtasun-egiaztapena, kontuaren segurtasuna, Google-ko kontuaren segurtasuna, Google-ko kontua</string>
+    <string name="google_security_checkup_title">Google-ren Segurtasun-egiaztapena</string>
+    <string name="google_security_checkup_title_for_work">Google-ren Segurtasun-egiaztapena (laneko profila)</string>
+    <string name="google_security_updates_search_terms">Eguneratzeak, eguneratzea, segurtasun-eguneratzea, segurtasun-eguneratzeak</string>
+    <string name="google_security_updates_title">Segurtasun-eguneratzea</string>
+    <string name="google_updates_summary">Gailua eguneratuta dago</string>
+    <string name="google_updates_title">Eguneratzeak</string>
+</resources>

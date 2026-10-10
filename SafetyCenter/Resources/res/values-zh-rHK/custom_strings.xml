@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">你的帳戶已受保護</string>
+    <string name="google_accounts_sources_title">Google 安全檢查</string>
+    <string name="google_app_security_sources_summary">Play Protect 掃瞄功能已啟用</string>
+    <string name="google_app_security_sources_title">應用程式安全性</string>
+    <string name="google_device_finder_sources_summary">沒有警示</string>
+    <string name="google_device_finder_sources_title">裝置搜尋器</string>
+    <string name="google_find_my_device_search_terms">尋找中心, 尋找裝置, 尋找我的裝置, 遺失裝置</string>
+    <string name="google_find_my_device_title">尋找中心</string>
+    <string name="google_lock_screen_search_terms">裝置鎖定, 螢幕鎖定, 上鎖畫面, 上鎖畫面, 密碼, PIN, 圖案, 上鎖, 解鎖</string>
+    <string name="google_play_protect_search_terms">應用程式安全性, Play Protect, Google Play Protect, 應用程式安全</string>
+    <string name="google_play_protect_title">應用程式安全性</string>
+    <string name="google_play_protect_title_for_work">工作設定檔的應用程式安全性</string>
+    <string name="google_play_system_update_search_terms">更新, 系統更新, Google play 系統更新, Play 系統更新</string>
+    <string name="google_play_system_update_title">Google Play 系統更新</string>
+    <string name="google_security_checkup_search_terms">Google 安全檢查, Google 安全, 安全檢查, 帳戶安全, Google 帳戶安全, Google 帳戶</string>
+    <string name="google_security_checkup_title">Google 安全檢查</string>
+    <string name="google_security_checkup_title_for_work">工作設定檔的 Google 安全檢查</string>
+    <string name="google_security_updates_search_terms">更新, 安全更新</string>
+    <string name="google_security_updates_title">安全更新</string>
+    <string name="google_updates_summary">裝置為最新狀態</string>
+    <string name="google_updates_title">更新</string>
+</resources>

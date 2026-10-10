@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google-rekening is beskerm</string>
+    <string name="google_accounts_sources_title">Rekeningsekuriteit</string>
+    <string name="google_activity_controls_search_terms">Aktiwiteit, aktiwiteitkontroles</string>
+    <string name="google_activity_controls_summary">Kies die aktiwiteite en inligting wat jy Google toelaat om te stoor</string>
+    <string name="google_activity_controls_title">Aktiwiteitkontroles</string>
+    <string name="google_activity_controls_title_for_work">Aktiwiteitkontroles vir werk</string>
+    <string name="google_ads_identity_search_terms">advertensies, advertensieprivaatheid, privacy sandbox, advertensie-onderwerpe, appvoorgestelde advertensies, advertensiemeting</string>
+    <string name="google_ads_identity_summary">Bestuur toesteldata wat gebruik word om vir jou advertensies te wys</string>
+    <string name="google_ads_identity_title">Advertensies</string>
+    <string name="google_ads_identity_title_for_work">Advertensies vir werk</string>
+    <string name="google_backup_search_terms">Rugsteun</string>
+    <string name="google_backup_title">Rugsteun</string>
+    <string name="google_password_checkup_title">Wagwoordkontrole</string>
+    <string name="google_password_checkup_title_for_work">Wagwoordkontrole vir werk</string>
+    <string name="google_play_protect_title">Google Play Beskerming</string>
+    <string name="google_play_protect_title_for_work">Google Play Beskerming vir werk</string>
+    <string name="google_updates_summary">Opdaterings</string>
+    <string name="google_updates_title">Stelsel en opdaterings</string>
+</resources>

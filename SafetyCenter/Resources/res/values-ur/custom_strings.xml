@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">آپ کا اکاؤنٹ محفوظ ہے</string>
+    <string name="google_accounts_sources_title">‏‫Google سیکیورٹی چیک اپ</string>
+    <string name="google_app_security_sources_summary">‏Play Protect اسکیننگ آن ہے</string>
+    <string name="google_app_security_sources_title">ایپ سیکیورٹی</string>
+    <string name="google_device_finder_sources_summary">کوئی الرٹ نہیں</string>
+    <string name="google_device_finder_sources_title">آلے کے تلاش کنندگان</string>
+    <string name="google_find_my_device_search_terms">‏‫Find Hub، آلات تلاش کرنا، میرا آلہ ڈھونڈیں، گمشدہ آلہ</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">آلہ لاک، اسکرین لاک، مقفل اسکرین، لاک اسکرین، پاس ورڈ، پن، پیٹرن، مقفل کریں، غیر مقفل کریں</string>
+    <string name="google_play_protect_search_terms">‏ایپ سیکیورٹی، Play Protect، ‏Google Play Protect، ایپ کا تحفظ</string>
+    <string name="google_play_protect_title">ایپ سیکیورٹی</string>
+    <string name="google_play_protect_title_for_work">دفتر کے لیے ایپ کی سیکیورٹی</string>
+    <string name="google_play_system_update_search_terms">‏اپ ڈیٹس، اپ ڈیٹ، سسٹم اپ ڈیٹ، سسٹم اپ ڈیٹس، Google Play سسٹم اپ ڈیٹ، Play سسٹم اپ ڈیٹ</string>
+    <string name="google_play_system_update_title">‏Google Play سسٹم اپ ڈیٹ</string>
+    <string name="google_security_checkup_search_terms">‏Google سیکیورٹی چیک اپ، Google سیکیورٹی، سیکیورٹی چیک اپ، اکاؤنٹ سیکیورٹی، Google اکاؤنٹ سیکیورٹی، Google اکاؤنٹ</string>
+    <string name="google_security_checkup_title">‏‫Google سیکیورٹی چیک اپ</string>
+    <string name="google_security_checkup_title_for_work">‏کام کے لیے Google سیکیورٹی چیک اپ</string>
+    <string name="google_security_updates_search_terms">اپ ڈیٹس، اپ ڈیٹ، سیکیورٹی اپ ڈیٹ، سیکیورٹی اپ ڈیٹس</string>
+    <string name="google_security_updates_title">سیکیورٹی اپ ڈیٹ</string>
+    <string name="google_updates_summary">آلہ اپ ٹو ڈیٹ ہے</string>
+    <string name="google_updates_title">اپ ڈیٹس</string>
+</resources>

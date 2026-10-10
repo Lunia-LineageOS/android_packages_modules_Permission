@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google ఖాతా సురక్షితంగా ఉంది</string>
+    <string name="google_accounts_sources_title">ఖాతా సెక్యూరిటీ</string>
+    <string name="google_activity_controls_search_terms">యాక్టివిటీ, యాక్టీవిటీ కంట్రోల్స్</string>
+    <string name="google_activity_controls_summary">ఏ యాక్టివిటీల‌ను, ఏ సమాచారాన్ని Google, సేవ్ చేయాలో ఎంచుకోండి</string>
+    <string name="google_activity_controls_title">యాక్టీవిటీ కంట్రోల్స్</string>
+    <string name="google_activity_controls_title_for_work">వర్క్ ప్రొఫైల్ కోసం యాక్టీవిటీ కంట్రోల్స్</string>
+    <string name="google_ads_identity_search_terms">యాడ్‌లు, యాడ్‌ల విషయంలో గోప్యత, గోప్యతా పరిరక్షణ టెక్నాలజీల సెట్, యాడ్ టాపిక్‌లు, యాప్-సూచించిన యాడ్‌లు, యాడ్ మెజర్‌మెంట్</string>
+    <string name="google_ads_identity_summary">మీకు యాడ్‌లను చూపడానికి ఉపయోగించే డివైజ్ డేటాను మేనేజ్ చేయండి</string>
+    <string name="google_ads_identity_title">యాడ్‌లు</string>
+    <string name="google_ads_identity_title_for_work">వ‌ర్క్ ప్రొఫైల్‌లో యాడ్‌లు</string>
+    <string name="google_backup_search_terms">బ్యాకప్</string>
+    <string name="google_backup_title">బ్యాకప్</string>
+    <string name="google_password_checkup_title">పాస్‌వర్డ్ చెకప్</string>
+    <string name="google_password_checkup_title_for_work">వర్క్-ప్లేస్ ప్రొఫైల్ కోసం పాస్‌వర్డ్ చెకప్</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">ఆఫీస్ సర్వీస్‌ల కోసం Google Play Protect</string>
+    <string name="google_updates_summary">అప్‌డేట్‌లు</string>
+    <string name="google_updates_title">సిస్టమ్ &amp; అప్‌డేట్‌లు</string>
+</resources>

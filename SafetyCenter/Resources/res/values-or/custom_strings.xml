@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ସୁରକ୍ଷିତ ଅଛି</string>
+    <string name="google_accounts_sources_title">Google ସିକ୍ୟୁରିଟି ଯାଞ୍ଚ</string>
+    <string name="google_app_security_sources_summary">Play Protect ସ୍କାନିଂ ଚାଲୁ ଅଛି</string>
+    <string name="google_app_security_sources_title">ଆପ ସୁରକ୍ଷା</string>
+    <string name="google_device_finder_sources_summary">କୌଣସି ଆଲର୍ଟ ନାହିଁ</string>
+    <string name="google_device_finder_sources_title">ଡିଭାଇସ ଫାଇଣ୍ଡର</string>
+    <string name="google_find_my_device_search_terms">Find Hub, ଡିଭାଇସଗୁଡ଼ିକୁ ଖୋଜିବା, Find My Device, ହଜି ଯାଇଥିବା ଡିଭାଇସ</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ଡିଭାଇସ ଲକ, ସ୍କ୍ରିନ ଲକ, ଲକ ସ୍କ୍ରିନ, ଲକସ୍କ୍ରିନ, ପାସୱାର୍ଡ, PIN, ପାଟର୍ନ, ଲକ, ଅନଲକ</string>
+    <string name="google_play_protect_search_terms">ଆପ ସୁରକ୍ଷା, Play Protect, Google Play Protect, ଆପ ସୁରକ୍ଷା</string>
+    <string name="google_play_protect_title">ଆପ ସୁରକ୍ଷା</string>
+    <string name="google_play_protect_title_for_work">କାର୍ଯ୍ୟ ପାଇଁ ଆପ ସୁରକ୍ଷା</string>
+    <string name="google_play_system_update_search_terms">ଅପଡେଟଗୁଡ଼ିକ, ଅପଡେଟ, ସିଷ୍ଟମ ଅପଡେଟ, ସିଷ୍ଟମ ଅପଡେଟଗୁଡ଼ିକ, Google play ସିଷ୍ଟମ ଅପଡେଟ, Play ସିଷ୍ଟମ ଅପଡେଟ</string>
+    <string name="google_play_system_update_title">Google Play ସିଷ୍ଟମ ଅପଡେଟ</string>
+    <string name="google_security_checkup_search_terms">Google ସୁରକ୍ଷା ଯାଞ୍ଚ, Google ସୁରକ୍ଷା, ସୁରକ୍ଷା ଯାଞ୍ଚ, ଆକାଉଣ୍ଟ ସୁରକ୍ଷା, Google ଆକାଉଣ୍ଟ ସୁରକ୍ଷା, Google ଆକାଉଣ୍ଟ</string>
+    <string name="google_security_checkup_title">Google ସୁରକ୍ଷା ଯାଞ୍ଚ</string>
+    <string name="google_security_checkup_title_for_work">ୱାର୍କ ପାଇଁ Google ସୁରକ୍ଷା ଯାଞ୍ଚ</string>
+    <string name="google_security_updates_search_terms">ଅପଡେଟଗୁଡ଼ିକ, ଅପଡେଟ, ସୁରକ୍ଷା ଅପଡେଟ, ସୁରକ୍ଷା ଅପଡେଟଗୁଡ଼ିକ</string>
+    <string name="google_security_updates_title">"ସିକ୍ୟୁରିଟି  ଅପଡେଟ"</string>
+    <string name="google_updates_summary">ଡିଭାଇସଟି ଅପଟୁଡେଟ ଅଛି</string>
+    <string name="google_updates_title">ଅପଡେଟଗୁଡ଼ିକ</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Hisobingiz himoyalangan</string>
+    <string name="google_accounts_sources_title">Google xavfsizlik tekshiruvi</string>
+    <string name="google_app_security_sources_summary">Play Protect tekshiruvi yoniq</string>
+    <string name="google_app_security_sources_title">Ilovalar xavfsizligi</string>
+    <string name="google_device_finder_sources_summary">Ogohlantirish yoʻq</string>
+    <string name="google_device_finder_sources_title">Yoʻqolgan qurilmalarni topish</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Qurilmalarni topish, Qurilmam qayerda, Yoʻqolgan qurilma</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Qurilma qulfi, ekran qulfi, ekranni qulflash, ekranqulfi, parol, pin, grafik kalit, qulflash, qulfdan chiqarish</string>
+    <string name="google_play_protect_search_terms">Ilovalar xavfsizligi, Play Protect, Google Play Protect, ilova xavfsizligi</string>
+    <string name="google_play_protect_title">Ilovalar xavfsizligi</string>
+    <string name="google_play_protect_title_for_work">Ish uchun ilova xavfsizligi</string>
+    <string name="google_play_system_update_search_terms">Yangilanishlar, yangilanish, tizim yangilanishi, tizim yangilanishlari, Google play tizim yangilanishi, Play tizim yangilanishi</string>
+    <string name="google_play_system_update_title">Google Play tizim yangilanishi</string>
+    <string name="google_security_checkup_search_terms">Google xavfsizlik tekshiruvi, Google xavfsizlik , Xavfsizlik tekshiruvi, hisob xavfsizligi, Google hisob xavfsizligi, Google hisobi</string>
+    <string name="google_security_checkup_title">Google xavfsizlik tekshiruvi</string>
+    <string name="google_security_checkup_title_for_work">Ish uchun Google xavfsizlik tekshiruvi</string>
+    <string name="google_security_updates_search_terms">Yangilanishlar, yangilanish, xavfsizlik yangilanishi, xavfsizlik yangilanishlari</string>
+    <string name="google_security_updates_title">Xavfsizlik yangilanishi</string>
+    <string name="google_updates_summary">Qurilmadagi dastur yangilangan</string>
+    <string name="google_updates_title">Yangilanishlar</string>
+</resources>

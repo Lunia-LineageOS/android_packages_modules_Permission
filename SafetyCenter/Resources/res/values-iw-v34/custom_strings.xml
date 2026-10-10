@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">‏החשבון שלך ב-Google מוגן</string>
+    <string name="google_accounts_sources_title">אבטחת החשבון</string>
+    <string name="google_activity_controls_search_terms">פעילות, בקרת הפעילות בחשבון</string>
+    <string name="google_activity_controls_summary">‏בחירת הפעילויות והמידע ש-Google תוכל לשמור</string>
+    <string name="google_activity_controls_title">בקרת הפעילות בחשבון</string>
+    <string name="google_activity_controls_title_for_work">בקרת הפעילות בחשבון של פרופיל העבודה</string>
+    <string name="google_ads_identity_search_terms">מודעות, פרטיות בפרסום, ארגז חול לפרטיות, נושאי מודעות, מודעות שאפליקציות מציעות, מדידת ביצועים של מודעות</string>
+    <string name="google_ads_identity_summary">ניהול הנתונים שעליהם יתבססו המודעות שיוצגו לך במכשיר</string>
+    <string name="google_ads_identity_title">מודעות</string>
+    <string name="google_ads_identity_title_for_work">מודעות בפרופיל העבודה</string>
+    <string name="google_backup_search_terms">גיבוי</string>
+    <string name="google_backup_title">גיבוי</string>
+    <string name="google_password_checkup_title">בדיקת סיסמאות</string>
+    <string name="google_password_checkup_title_for_work">בדיקת סיסמאות בפרופיל העבודה</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">‏‫Google Play Protect לפרופיל העבודה</string>
+    <string name="google_updates_summary">עדכונים</string>
+    <string name="google_updates_title">מערכת ועדכונים</string>
+</resources>

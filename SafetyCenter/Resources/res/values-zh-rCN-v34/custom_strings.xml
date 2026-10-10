@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google 账号受到保护</string>
+    <string name="google_accounts_sources_title">账号安全性</string>
+    <string name="google_activity_controls_search_terms">活动记录, 活动记录控制选项, Activity, Activity controls</string>
+    <string name="google_activity_controls_summary">选择允许 Google 保存的活动记录和信息</string>
+    <string name="google_activity_controls_title">活动记录控制选项</string>
+    <string name="google_activity_controls_title_for_work">适用于工作资料的活动记录控制选项</string>
+    <string name="google_ads_identity_search_terms">广告, 广告隐私权, Privacy Sandbox, 广告主题, 应用建议的广告, 广告效果衡量, ads, ad privacy, privacy sandbox, ad topics, app-suggested ads, ad measurement</string>
+    <string name="google_ads_identity_summary">管理用来向您展示广告的设备数据</string>
+    <string name="google_ads_identity_title">广告</string>
+    <string name="google_ads_identity_title_for_work">工作资料的广告隐私权设置</string>
+    <string name="google_backup_search_terms">备份</string>
+    <string name="google_backup_title">备份</string>
+    <string name="google_password_checkup_title">密码安全检查</string>
+    <string name="google_password_checkup_title_for_work">针对工作资料的密码安全检查</string>
+    <string name="google_play_protect_title">Google Play 保护机制</string>
+    <string name="google_play_protect_title_for_work">针对工作资料的 Google Play 保护机制</string>
+    <string name="google_updates_summary">更新</string>
+    <string name="google_updates_title">系统和更新</string>
+</resources>

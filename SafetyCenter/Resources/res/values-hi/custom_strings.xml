@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">आपका खाता सुरक्षित है</string>
+    <string name="google_accounts_sources_title">Google खाते की सुरक्षा जांच</string>
+    <string name="google_app_security_sources_summary">Play Protect की स्कैन करने की सुविधा चालू है</string>
+    <string name="google_app_security_sources_title">ऐप्लिकेशन की सुरक्षा</string>
+    <string name="google_device_finder_sources_summary">कोई चेतावनी नहीं है</string>
+    <string name="google_device_finder_sources_title">डिवाइस का पता लगाने वाली सेवा</string>
+    <string name="google_find_my_device_search_terms">Find Hub, डिवाइसों को ढूंढना, Find My Device, खोया हुआ डिवाइस</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">डिवाइस लॉक, स्क्रीन लॉक, लॉक स्क्रीन, लॉकस्क्रीन, पासवर्ड, पिन, पैटर्न, लॉक, अनलॉक</string>
+    <string name="google_play_protect_search_terms">ऐप्लिकेशन की सुरक्षा, Play Protect, Google Play Protect, ऐप्लिकेशन की सुरक्षा</string>
+    <string name="google_play_protect_title">ऐप्लिकेशन की सुरक्षा</string>
+    <string name="google_play_protect_title_for_work">वर्क ऐप्लिकेशन की सुरक्षा</string>
+    <string name="google_play_system_update_search_terms">कई अपडेट, अपडेट, सिस्टम अपडेट, सिस्टम के अपडेट, Google Play का सिस्टम अपडेट, Play का सिस्टम अपडेट</string>
+    <string name="google_play_system_update_title">Google Play का सिस्टम अपडेट</string>
+    <string name="google_security_checkup_search_terms">Google खाते की सुरक्षा जांच, Google की सुरक्षा , सुरक्षा जांच, खाते की सुरक्षा, Google खाते की सुरक्षा, Google खाता</string>
+    <string name="google_security_checkup_title">Google खाते की सुरक्षा जांच</string>
+    <string name="google_security_checkup_title_for_work">वर्क प्रोफ़ाइल के लिए, Google खाते की सुरक्षा जांच</string>
+    <string name="google_security_updates_search_terms">कई अपडेट, अपडेट, सुरक्षा से जुड़ा अपडेट, सुरक्षा से जुड़े अपडेट</string>
+    <string name="google_security_updates_title">सुरक्षा से जुड़ा अपडेट</string>
+    <string name="google_updates_summary">डिवाइस अप-टू-डेट है</string>
+    <string name="google_updates_title">अपडेट</string>
+</resources>

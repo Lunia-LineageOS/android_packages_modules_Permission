@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">ரகசிய இடத்திற்கான செயல்பாட்டுக் கட்டுப்பாடுகள்</string>
+    <string name="google_ads_identity_title_for_private_profile">ரகசிய இடத்திற்கான விளம்பரங்கள்</string>
+    <string name="google_advanced_protection_summary">உங்கள் சாதனம் மற்றும் Google கணக்கிற்கான பாதுகாப்பு</string>
+    <string name="google_advanced_protection_title">மேம்பட்ட பாதுகாப்பு</string>
+    <string name="google_password_checkup_title_for_private_profile">ரகசிய இடத்திற்கான கடவுச்சொல் சரிபார்ப்பு</string>
+    <string name="google_play_protect_title_for_private_profile">ரகசிய இடத்திற்கான Google Play Protect</string>
+    <string name="google_security_checkup_title_for_private_profile">ரகசிய இடத்திற்கான Google பாதுகாப்புச் சரிபார்ப்பு</string>
+</resources>

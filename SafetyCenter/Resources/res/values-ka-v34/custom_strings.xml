@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google ანგარიში დაცულია</string>
+    <string name="google_accounts_sources_title">ანგარიშის უსაფრთხოება</string>
+    <string name="google_activity_controls_search_terms">აქტივობა, აქტივობის მართვის საშუალებები</string>
+    <string name="google_activity_controls_summary">აირჩიეთ აქტივობა და ინფორმაცია, რომლის შენახვის უფლებასაც რთავთ Google-ს</string>
+    <string name="google_activity_controls_title">აქტივობის მართვის საშუალებები</string>
+    <string name="google_activity_controls_title_for_work">აქტივობის მართვის საშუალებები სამსახურისთვის</string>
+    <string name="google_ads_identity_search_terms">რეკლამები, რეკლამის კონფიდენციალურობა, Privacy Sandbox, სარეკლამო თემები, აპის შემოთავაზებული რეკლამები, რეკლამის გაზომვა</string>
+    <string name="google_ads_identity_summary">მართეთ მოწყობილობის მონაცემები, რომლებიც გამოიყენება თქვენთვის რეკლამების საჩვენებლად</string>
+    <string name="google_ads_identity_title">რეკლამები</string>
+    <string name="google_ads_identity_title_for_work">სამსახურის რეკლამები</string>
+    <string name="google_backup_search_terms">სარეზერვო ასლის შექმნა</string>
+    <string name="google_backup_title">სარეზერვო ასლის შექმნა</string>
+    <string name="google_password_checkup_title">პაროლის შემოწმება</string>
+    <string name="google_password_checkup_title_for_work">პაროლების შემოწმება სამსახურისთვის</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect სამუშაოსთვის</string>
+    <string name="google_updates_summary">განახლებები</string>
+    <string name="google_updates_title">სისტემა და განახლებები</string>
+</resources>

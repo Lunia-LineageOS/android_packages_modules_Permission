@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Protektado ang iyong account</string>
+    <string name="google_accounts_sources_title">Security Checkup ng Google</string>
+    <string name="google_app_security_sources_summary">Naka-on ang pag-scan ng Play Protect</string>
+    <string name="google_app_security_sources_title">Seguridad ng app</string>
+    <string name="google_device_finder_sources_summary">Walang alerto</string>
+    <string name="google_device_finder_sources_title">Mga panghanap ng device</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Paghahanap ng mga device, Hanapin ang aking device, Nawawalang device</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Lock ng device, Lock ng screen, Lock screen, Lockscreen, Password, Pin, Pattern, Lock, Unlock</string>
+    <string name="google_play_protect_search_terms">Seguridad ng app, Play Protect, Google Play Protect, Kaligtasan ng app</string>
+    <string name="google_play_protect_title">Seguridad ng app</string>
+    <string name="google_play_protect_title_for_work">Seguridad ng app para sa trabaho</string>
+    <string name="google_play_system_update_search_terms">Mga Update, Update, Pag-update ng system, Mga pag-update ng system, Pag-update ng system ng Google Play, Pag-update ng system ng Play</string>
+    <string name="google_play_system_update_title">Pag-update ng system ng Google Play</string>
+    <string name="google_security_checkup_search_terms">Security checkup ng Google, Seguridad ng Google, Security checkup, Seguridad ng account, Seguridad ng Google account, Google account</string>
+    <string name="google_security_checkup_title">Security Checkup ng Google</string>
+    <string name="google_security_checkup_title_for_work">Security Checkup ng Google para sa trabaho</string>
+    <string name="google_security_updates_search_terms">Mga Update, Update, Update sa seguridad, Mga update sa seguridad</string>
+    <string name="google_security_updates_title">Update sa seguridad</string>
+    <string name="google_updates_summary">Up to date ang device</string>
+    <string name="google_updates_title">Mga update</string>
+</resources>

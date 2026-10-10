@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ο λογαριασμός σας προστατεύεται</string>
+    <string name="google_accounts_sources_title">Έλεγχος ασφαλείας Google</string>
+    <string name="google_app_security_sources_summary">Η σάρωση του Play Protect είναι ενεργή</string>
+    <string name="google_app_security_sources_title">Ασφάλεια εφαρμογής</string>
+    <string name="google_device_finder_sources_summary">Καμία ειδοποίηση</string>
+    <string name="google_device_finder_sources_title">Εργαλεία εντοπισμού συσκευών</string>
+    <string name="google_find_my_device_search_terms">Κέντρο εύρεσης, Εύρεση συσκευών, Εύρεση συσκευής, Χαμένη συσκευή</string>
+    <string name="google_find_my_device_title">Κέντρο εύρεσης</string>
+    <string name="google_lock_screen_search_terms">Κλείδωμα συσκευής, κλείδωμα οθόνης, οθόνη κλειδώματος, Lockscreen, κωδικός πρόσβασης, PIN, μοτίβο, κλείδωμα, ξεκλείδωμα</string>
+    <string name="google_play_protect_search_terms">Ασφάλεια εφαρμογής, Play Protect, Google Play Protect, Ασφάλεια συσκευής</string>
+    <string name="google_play_protect_title">Ασφάλεια εφαρμογής</string>
+    <string name="google_play_protect_title_for_work">Ασφάλεια εφαρμογών για εργασία</string>
+    <string name="google_play_system_update_search_terms">Ενημερώσεις, ενημέρωση, ενημέρωση συστήματος, ενημερώσεις συστήματος, ενημέρωση συστήματος Google play, ενημέρωση συστήματος Play</string>
+    <string name="google_play_system_update_title">Ενημέρωση συστήματος Google Play</string>
+    <string name="google_security_checkup_search_terms">Έλεγχος ασφαλείας Google, ασφάλεια Google, έλεγχος ασφαλείας, ασφάλεια λογαριασμού, ασφάλεια λογαριασμού Google, λογαριασμός Google</string>
+    <string name="google_security_checkup_title">Έλεγχος ασφαλείας Google</string>
+    <string name="google_security_checkup_title_for_work">Έλεγχος ασφαλείας Google για την εργασία</string>
+    <string name="google_security_updates_search_terms">Ενημερώσεις, ενημέρωση, ενημέρωση ασφάλειας, ενημερώσεις ασφάλειας</string>
+    <string name="google_security_updates_title">Ενημέρωση ασφάλειας</string>
+    <string name="google_updates_summary">Η συσκευή είναι ενημερωμένη</string>
+    <string name="google_updates_title">Ενημερώσεις</string>
+</resources>

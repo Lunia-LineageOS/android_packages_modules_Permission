@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Профилът в Google е защитен</string>
+    <string name="google_accounts_sources_title">Сигурност на профила</string>
+    <string name="google_activity_controls_search_terms">активност, контроли за активността</string>
+    <string name="google_activity_controls_summary">Изберете активностите и информацията, които разрешавате да се запазват от Google</string>
+    <string name="google_activity_controls_title">Контроли за активността</string>
+    <string name="google_activity_controls_title_for_work">Контроли за активността за служебните приложения</string>
+    <string name="google_ads_identity_search_terms">реклами, поверителност при рекламите, privacy sandbox, рекламни теми, предложени от приложенията реклами, измерване на рекламите</string>
+    <string name="google_ads_identity_summary">Управлявайте данните от устройството, които се използват, за да ви бъдат показвани реклами</string>
+    <string name="google_ads_identity_title">Реклами</string>
+    <string name="google_ads_identity_title_for_work">Реклами за работа</string>
+    <string name="google_backup_search_terms">Резервно копие</string>
+    <string name="google_backup_title">Резервно копие</string>
+    <string name="google_password_checkup_title">Проверка на паролите</string>
+    <string name="google_password_checkup_title_for_work">Проверка на паролите за служебните приложения</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect за работа</string>
+    <string name="google_updates_summary">Актуализации</string>
+    <string name="google_updates_title">Система и актуализации</string>
+</resources>

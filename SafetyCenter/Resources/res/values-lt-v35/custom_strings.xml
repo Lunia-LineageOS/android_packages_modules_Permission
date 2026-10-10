@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">Privačios erdvės veiklos valdikliai</string>
+    <string name="google_ads_identity_title_for_private_profile">Privačios erdvės skelbimai</string>
+    <string name="google_advanced_protection_summary">Įrenginio ir „Google“ paskyros apsauga</string>
+    <string name="google_advanced_protection_title">Papildoma apsauga</string>
+    <string name="google_password_checkup_title_for_private_profile">Privačios erdvės slaptažodžio tikrinimas</string>
+    <string name="google_play_protect_title_for_private_profile">Privačios erdvės „Google Play Protect“</string>
+    <string name="google_security_checkup_title_for_private_profile">Privačios erdvės „Google“ saugos patikra</string>
+</resources>

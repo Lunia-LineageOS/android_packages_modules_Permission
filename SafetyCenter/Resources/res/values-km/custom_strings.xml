@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">គណនី​របស់អ្នក​ត្រូវបានការពារ</string>
+    <string name="google_accounts_sources_title">ការពិនិត្យ​សុវត្ថិភាព​របស់ Google</string>
+    <string name="google_app_security_sources_summary">ការស្កេន Play Protect ត្រូវបានបើក</string>
+    <string name="google_app_security_sources_title">សុវត្ថិភាព​កម្មវិធី</string>
+    <string name="google_device_finder_sources_summary">គ្មានការជូនដំណឹងទេ</string>
+    <string name="google_device_finder_sources_title">កម្មវិធីស្វែងរកឧបករណ៍</string>
+    <string name="google_find_my_device_search_terms">Find Hub, កំពុងស្វែងរកឧបករណ៍, រកឧបករណ៍របស់ខ្ញុំ, បាត់ឧបករណ៍</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ការចាក់សោឧបករណ៍, ការចាក់សោអេក្រង់, អេក្រង់ចាក់សោ, ពាក្យសម្ងាត់, កូដ PIN, លំនាំ, ចាក់សោ, ដោះសោ</string>
+    <string name="google_play_protect_search_terms">សន្តិសុខកម្មវិធី, Play Protect, Google Play Protect, សុវត្ថិភាពកម្មវិធី</string>
+    <string name="google_play_protect_title">សុវត្ថិភាព​កម្មវិធី</string>
+    <string name="google_play_protect_title_for_work">សុវត្ថិភាព​កម្មវិធី​សម្រាប់ការងារ</string>
+    <string name="google_play_system_update_search_terms">បច្ចុប្បន្នភាព, បច្ចុប្បន្នភាពប្រព័ន្ធ, បច្ចុប្បន្នភាពប្រព័ន្ធ Google Play, បច្ចុប្បន្នភាពប្រព័ន្ធ Play</string>
+    <string name="google_play_system_update_title">បច្ចុប្បន្នភាព​ប្រព័ន្ធ Google Play</string>
+    <string name="google_security_checkup_search_terms">ការពិនិត្យសុវត្ថិភាព Google, សុវត្ថិភាព Google, ការពិនិត្យសុវត្ថិភាព, សុវត្ថិភាពគណនី, សុវត្ថិភាពគណនី Google, គណនី Google</string>
+    <string name="google_security_checkup_title">ការពិនិត្យ​សុវត្ថិភាព​របស់ Google</string>
+    <string name="google_security_checkup_title_for_work">ការពិនិត្យសុវត្ថិភាពរបស់ Google សម្រាប់ការងារ</string>
+    <string name="google_security_updates_search_terms">បច្ចុប្បន្នភាព ការធ្វើបច្ចុប្បន្នភាពផ្នែកសុវត្ថិភាព</string>
+    <string name="google_security_updates_title">ការធ្វើបច្ចុប្បន្នភាពផ្នែកសុវត្ថិភាព</string>
+    <string name="google_updates_summary">ឧបករណ៍​បានដំឡើងកំណែថ្មី​បំផុតហើយ</string>
+    <string name="google_updates_title">កំណែថ្មី</string>
+</resources>

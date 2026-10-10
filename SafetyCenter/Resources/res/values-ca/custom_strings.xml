@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">El teu compte està protegit</string>
+    <string name="google_accounts_sources_title">Comprovació de seguretat de Google</string>
+    <string name="google_app_security_sources_summary">"L'anàlisi de Play Protect està activada"</string>
+    <string name="google_app_security_sources_title">Seguretat de les aplicacions</string>
+    <string name="google_device_finder_sources_summary">No hi ha cap alerta</string>
+    <string name="google_device_finder_sources_title">Cercadors de dispositius</string>
+    <string name="google_find_my_device_search_terms">Localitzador, Localització de dispositius, Troba el meu dispositiu, dispositiu perdut</string>
+    <string name="google_find_my_device_title">Localitzador</string>
+    <string name="google_lock_screen_search_terms">Bloqueig del dispositiu, bloqueig de pantalla, pantalla de bloqueig, contrasenya, PIN, patró, bloqueja, desbloqueja</string>
+    <string name="google_play_protect_search_terms">Seguretat de les aplicacions, Play Protect, Google Play Protect</string>
+    <string name="google_play_protect_title">Seguretat de les aplicacions</string>
+    <string name="google_play_protect_title_for_work">Seguretat de les aplicacions per a la feina</string>
+    <string name="google_play_system_update_search_terms">Actualitzacions, actualització, actualització del sistema, actualitzacions del sistema, actualització del sistema de Google Play, actualització del sistema de Play</string>
+    <string name="google_play_system_update_title">Actualització del sistema de Google Play</string>
+    <string name="google_security_checkup_search_terms">Comprovació de seguretat de Google, seguretat de Google, Comprovació de seguretat, seguretat del compte, seguretat del Compte de Google, Compte de Google</string>
+    <string name="google_security_checkup_title">Comprovació de seguretat de Google</string>
+    <string name="google_security_checkup_title_for_work">Comprovació de seguretat de Google per al treball</string>
+    <string name="google_security_updates_search_terms">Actualitzacions, actualització, actualització de seguretat, actualitzacions de seguretat</string>
+    <string name="google_security_updates_title">Actualització de seguretat</string>
+    <string name="google_updates_summary">El dispositiu està actualitzat</string>
+    <string name="google_updates_title">Actualitzacions</string>
+</resources>

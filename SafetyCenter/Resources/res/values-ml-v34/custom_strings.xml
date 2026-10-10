@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google Account പരിരക്ഷിതമാണ്</string>
+    <string name="google_accounts_sources_title">അക്കൗണ്ട് സുരക്ഷ</string>
+    <string name="google_activity_controls_search_terms">പ്രവർത്തനം, പ്രവർത്തന നിയന്ത്രണങ്ങൾ</string>
+    <string name="google_activity_controls_summary">സംരക്ഷിക്കാനായി നിങ്ങൾ Google-നെ അനുവദിക്കുന്ന പ്രവർത്തനങ്ങളും വിവരങ്ങളും തിരഞ്ഞെടുക്കുക</string>
+    <string name="google_activity_controls_title">പ്രവർത്തന നിയന്ത്രണങ്ങൾ</string>
+    <string name="google_activity_controls_title_for_work">ഔദ്യോഗികാവശ്യത്തിനുള്ള പ്രവർത്തന നിയന്ത്രണങ്ങൾ</string>
+    <string name="google_ads_identity_search_terms">പരസ്യങ്ങൾ, പരസ്യവുമായി ബന്ധപ്പെട്ട സ്വകാര്യത, സ്വകാര്യതാ സാൻഡ്ബോക്‌സ്, പരസ്യത്തിന്റെ വിഷയങ്ങൾ, ആപ്പ് നിർദ്ദേശിക്കുന്ന പരസ്യങ്ങൾ, ആഡ് മെഷർമെന്റ്</string>
+    <string name="google_ads_identity_summary">നിങ്ങളെ പരസ്യങ്ങൾ കാണിക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണ ഡാറ്റ മാനേജ് ചെയ്യുക</string>
+    <string name="google_ads_identity_title">പരസ്യങ്ങൾ</string>
+    <string name="google_ads_identity_title_for_work">ഔദ്യോഗിക പ്രൊഫൈലുമായി ബന്ധപ്പെട്ട പരസ്യങ്ങൾ</string>
+    <string name="google_backup_search_terms">ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="google_backup_title">ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="google_password_checkup_title">പാസ്‌വേഡ് പരിശോധന</string>
+    <string name="google_password_checkup_title_for_work">ഔദ്യോഗികാവശ്യങ്ങൾക്കുള്ള പാസ്‌വേഡ് പരിശോധന</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">ജോലി ചെയ്യുന്നതിനുള്ള Google Play Protect</string>
+    <string name="google_updates_summary">അപ്‌ഡേറ്റുകൾ</string>
+    <string name="google_updates_title">സിസ്‌റ്റവും അപ്‌ഡേറ്റുകളും</string>
+</resources>

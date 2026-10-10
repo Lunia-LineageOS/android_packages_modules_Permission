@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">I-akhawunti yakho ivikeliwe</string>
+    <string name="google_accounts_sources_title">Ukuhlola Kokuvikela kwe-Google</string>
+    <string name="google_app_security_sources_summary">Ukuskena i-Play Protect kuvuliwe</string>
+    <string name="google_app_security_sources_title">Ukuphepha kwe-app</string>
+    <string name="google_device_finder_sources_summary">Azikho izexwayiso</string>
+    <string name="google_device_finder_sources_title">Izitholi zedivayisi</string>
+    <string name="google_find_my_device_search_terms">Thola inkundla, Ukuthola amadivayisi, Thola idivayisi yami, Idivayisi elahlekile</string>
+    <string name="google_find_my_device_title">Thola Inkundla</string>
+    <string name="google_lock_screen_search_terms">Ukukhiya kwedivayisi, Ukukhiya isikrini, Khiya isikrini, Khiya isikrini, Iphasiwedi, Iphinikhodi, Iphethini, Khiya, Vula</string>
+    <string name="google_play_protect_search_terms">Ukuvikeleka kwe-app, i-Play Protect, i-Google Play Protect, ukuphepha kwe-app</string>
+    <string name="google_play_protect_title">Ukuphepha kwe-app</string>
+    <string name="google_play_protect_title_for_work">Ukuvikeleka kwe-app komsebenzi</string>
+    <string name="google_play_system_update_search_terms">Izibuyekezo, Isibuyekezo, Isibuyekezo sesistimu, Izibuyekezo zesistimu, Isibuyekezo sesistimu ye-Google Play, Isibuyekezo sesistimu ye-Play</string>
+    <string name="google_play_system_update_title">Isibuyekezo sesistimu ye-Google Play</string>
+    <string name="google_security_checkup_search_terms">Ukuhlola kokuvikela kwe-Google, Ukuvikeleka kwe-Google, Ukuhlola kokuvikela, Ukuvikeleka kwe-akhawunti, Ukuvikeleka kwe-akhawunti ye-Google, i-akhawunti ye-Google</string>
+    <string name="google_security_checkup_title">Ukuhlola Kokuvikela kwe-Google</string>
+    <string name="google_security_checkup_title_for_work">Ukuhlola Kokuvikela komsebenzi we-Google</string>
+    <string name="google_security_updates_search_terms">Izibuyekezo, Isibuyekezo, Isibuyekezo Sokuvikeleka, Izibuyekezo Zokuvikeleka</string>
+    <string name="google_security_updates_title">isibuyekezo sokuvikeleka</string>
+    <string name="google_updates_summary">Idivayisi isesikhathini</string>
+    <string name="google_updates_title">Izibuyekezo</string>
+</resources>

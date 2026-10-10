@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">บัญชี Google ได้รับการปกป้องแล้ว</string>
+    <string name="google_accounts_sources_title">การรักษาความปลอดภัยของบัญชี</string>
+    <string name="google_activity_controls_search_terms">กิจกรรม, ส่วนควบคุมกิจกรรม</string>
+    <string name="google_activity_controls_summary">เลือกกิจกรรมและข้อมูลที่คุณอนุญาตให้ Google บันทึก</string>
+    <string name="google_activity_controls_title">ส่วนควบคุมกิจกรรม</string>
+    <string name="google_activity_controls_title_for_work">ส่วนควบคุมกิจกรรมสำหรับงาน</string>
+    <string name="google_ads_identity_search_terms">โฆษณา, ความเป็นส่วนตัวเกี่ยวกับโฆษณา, Privacy Sandbox, หัวข้อโฆษณา, โฆษณาที่แอปแนะนำ, การวัดผลโฆษณา</string>
+    <string name="google_ads_identity_summary">จัดการข้อมูลอุปกรณ์ที่ใช้เพื่อแสดงโฆษณาต่อคุณ</string>
+    <string name="google_ads_identity_title">โฆษณา</string>
+    <string name="google_ads_identity_title_for_work">โฆษณาสำหรับงาน</string>
+    <string name="google_backup_search_terms">การสำรองข้อมูล</string>
+    <string name="google_backup_title">การสำรองข้อมูล</string>
+    <string name="google_password_checkup_title">การตรวจสอบรหัสผ่าน</string>
+    <string name="google_password_checkup_title_for_work">การตรวจสอบรหัสผ่านสำหรับงาน</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect สำหรับงาน</string>
+    <string name="google_updates_summary">การอัปเดต</string>
+    <string name="google_updates_title">ระบบและการอัปเดต</string>
+</resources>

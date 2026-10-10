@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Аккаунтуңуз корголгон</string>
+    <string name="google_accounts_sources_title">Google Коопсуздукту текшерүү</string>
+    <string name="google_app_security_sources_summary">Play Protect текшерүүсү күйүк</string>
+    <string name="google_app_security_sources_title">Колдонмолордун коопсуздугу</string>
+    <string name="google_device_finder_sources_summary">Эскертүүлөр жок</string>
+    <string name="google_device_finder_sources_title">Түзмөк тапкычтар</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Түзмөктөрдү табуу, Түзмөгүм кайда?, Жоголуп кеткен түзмөк</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Түзмөктү кулпулоо, Экранды кулпулоо, Кулпуланган экран, Кулпу экраны, Сырсөз, PIN код, Графикалык ачкыч, Кулпулоо, Кулпусун ачуу</string>
+    <string name="google_play_protect_search_terms">Колдонмонун коопсуздугу, Play Protect, Google Play Protect, Колдонмонун коопсуздугу</string>
+    <string name="google_play_protect_title">Колдонмолордун коопсуздугу</string>
+    <string name="google_play_protect_title_for_work">Жумуш колдонмолорунун коопсуздугу</string>
+    <string name="google_play_system_update_search_terms">Жаңыртуулар, Жаңыртуу, Системаны жаңыртуу, Системаны жаңыртуулар, Google Play системасын жаңыртуу, Play системасын жаңыртуу</string>
+    <string name="google_play_system_update_title">Google Play системасын жаңыртуу</string>
+    <string name="google_security_checkup_search_terms">Google Коопсуздукту текшерүү, Google Коопсуздук, Коопсуздукту текшерүү, Аккаунттун коопсуздугу, Google аккаунтунун коопсуздугу, Google аккаунту</string>
+    <string name="google_security_checkup_title">Google Коопсуздукту текшерүү</string>
+    <string name="google_security_checkup_title_for_work">Жумуш үчүн Google Коопсуздукту текшерүү</string>
+    <string name="google_security_updates_search_terms">Жаңыртуулар, Жаңыртуу, Коопсуздук системасын жаңыртуу, Коопсуздук системасын жаңыртуулар</string>
+    <string name="google_security_updates_title">Коопсуздук системасын жаңыртуу</string>
+    <string name="google_updates_summary">Түзмөктүн версиясы жаңы</string>
+    <string name="google_updates_title">Жаңыртуулар</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google-tili on suojattu</string>
+    <string name="google_accounts_sources_title">Tilin suojaus</string>
+    <string name="google_activity_controls_search_terms">Toiminta, Toiminnan hallinta</string>
+    <string name="google_activity_controls_summary">Valitse, mitkä toiminnot ja tiedot Google saa tallentaa</string>
+    <string name="google_activity_controls_title">Toiminnan hallinta</string>
+    <string name="google_activity_controls_title_for_work">Toiminnan hallinta työprofiilissa</string>
+    <string name="google_ads_identity_search_terms">mainokset, mainosyksityisyys, privacy sandbox, mainosaiheet, sovellusten ehdottamat mainokset, mainosten mittaus</string>
+    <string name="google_ads_identity_summary">Valitse laitedata, jonka perusteella sinulle näytetään mainoksia</string>
+    <string name="google_ads_identity_title">Mainokset</string>
+    <string name="google_ads_identity_title_for_work">Mainokset työprofiilissa</string>
+    <string name="google_backup_search_terms">Varmuuskopiointi</string>
+    <string name="google_backup_title">Varmuuskopiointi</string>
+    <string name="google_password_checkup_title">Salasanan tarkistus</string>
+    <string name="google_password_checkup_title_for_work">Salasanojen tarkistus työprofiilissa</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect työkäyttöön</string>
+    <string name="google_updates_summary">Päivitykset</string>
+    <string name="google_updates_title">Järjestelmä ja päivitykset</string>
+</resources>

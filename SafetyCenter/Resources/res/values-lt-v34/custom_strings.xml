@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">„Google“ paskyra apsaugota</string>
+    <string name="google_accounts_sources_title">Paskyros sauga</string>
+    <string name="google_activity_controls_search_terms">Veikla, veiklos valdikliai</string>
+    <string name="google_activity_controls_summary">Pasirinkite veiklą ir informaciją, kurią leidžiate „Google“ išsaugoti</string>
+    <string name="google_activity_controls_title">Veiklos valdikliai</string>
+    <string name="google_activity_controls_title_for_work">Darbo veiklos valdikliai</string>
+    <string name="google_ads_identity_search_terms">skelbimai, su skelbimais susijęs privatumas, Privatumo „sandbox“ (smėlio dėžė), skelbimų temos, programų siūlomi skelbimai, skelbimų vertinimas</string>
+    <string name="google_ads_identity_summary">Tvarkykite įrenginio duomenis, naudojamus jums rodant skelbimus</string>
+    <string name="google_ads_identity_title">Skelbimai</string>
+    <string name="google_ads_identity_title_for_work">Skelbimai darbo paskyroje</string>
+    <string name="google_backup_search_terms">Sukurti atsarginę kopiją</string>
+    <string name="google_backup_title">Sukurti atsarginę kopiją</string>
+    <string name="google_password_checkup_title">Slaptažodžio tikrinimas</string>
+    <string name="google_password_checkup_title_for_work">Darbo slaptažodžio tikrinimas</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">„Google Play Protect“ darbui</string>
+    <string name="google_updates_summary">Naujiniai</string>
+    <string name="google_updates_title">Sistema ir atnaujinimai</string>
+</resources>

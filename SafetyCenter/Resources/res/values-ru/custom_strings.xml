@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ваш аккаунт защищен</string>
+    <string name="google_accounts_sources_title">Проверка безопасности Google</string>
+    <string name="google_app_security_sources_summary">Play Защита включена</string>
+    <string name="google_app_security_sources_title">Безопасность приложений</string>
+    <string name="google_device_finder_sources_summary">Предупреждений нет</string>
+    <string name="google_device_finder_sources_title">Поиск устройств</string>
+    <string name="google_find_my_device_search_terms">Портал поиска, Поиск устройств, Найти устройство, Потеря устройства</string>
+    <string name="google_find_my_device_title">Портал поиска</string>
+    <string name="google_lock_screen_search_terms">Блокировка устройства, Блокировка экрана, Заблокированный экран, Блокировать экран, Пароль, PIN-код, Графический ключ, Блокировать, Разблокировать</string>
+    <string name="google_play_protect_search_terms">Безопасность приложений, Play Защита, Google Play Защита</string>
+    <string name="google_play_protect_title">Безопасность приложений</string>
+    <string name="google_play_protect_title_for_work">Безопасность рабочих приложений</string>
+    <string name="google_play_system_update_search_terms">Обновления, Обновление, Обновление системы, Обновления системы, Обновление системы через Google Play</string>
+    <string name="google_play_system_update_title">Обновление системы через Google Play</string>
+    <string name="google_security_checkup_search_terms">Проверка безопасности Google, Безопасность Google, Проверка безопасности, Безопасность аккаунта, Безопасность аккаунта Google, Аккаунт Google</string>
+    <string name="google_security_checkup_title">Проверка безопасности Google</string>
+    <string name="google_security_checkup_title_for_work">Проверка безопасности Google в рабочем профиле</string>
+    <string name="google_security_updates_search_terms">Обновления, Обновление, Обновление системы безопасности, Обновления системы безопасности</string>
+    <string name="google_security_updates_title">Обновление системы безопасности</string>
+    <string name="google_updates_summary">Текущая версия ПО актуальна</string>
+    <string name="google_updates_title">Обновления</string>
+</resources>

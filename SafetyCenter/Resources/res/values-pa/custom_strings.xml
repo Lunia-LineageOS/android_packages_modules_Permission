@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ਤੁਹਾਡਾ ਖਾਤਾ ਸੁਰੱਖਿਅਤ ਹੈ</string>
+    <string name="google_accounts_sources_title">Google ਸੁਰੱਖਿਆ ਜਾਂਚ</string>
+    <string name="google_app_security_sources_summary">Play Protect ਸਕੈਨਿੰਗ ਚਾਲੂ ਹੈ</string>
+    <string name="google_app_security_sources_title">ਐਪ ਸੁਰੱਖਿਆ</string>
+    <string name="google_device_finder_sources_summary">ਕੋਈ ਅਲਰਟ ਨਹੀਂ</string>
+    <string name="google_device_finder_sources_title">ਡੀਵਾਈਸ ਖੋਜਕਾਰ</string>
+    <string name="google_find_my_device_search_terms">Find Hub, ਡੀਵਾਈਸ ਲੱਭਣੇ, Find My Device, ਗੁੰਮ ਹੋਏ ਡੀਵਾਈਸ</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ਡੀਵਾਈਸ ਲਾਕ, ਸਕ੍ਰੀਨ ਲਾਕ, ਲਾਕ ਸਕ੍ਰੀਨ, ਲਾਕ-ਸਕ੍ਰੀਨ, ਪਾਸਵਰਡ, ਪਿੰਨ, ਪੈਟਰਨ, ਲਾਕ, ਅਣਲਾਕ</string>
+    <string name="google_play_protect_search_terms">ਐਪ ਸੁਰੱਖਿਆ, Play Protect, Google Play Protect, ਐਪ ਸੁਰੱਖਿਆ</string>
+    <string name="google_play_protect_title">ਐਪ ਸੁਰੱਖਿਆ</string>
+    <string name="google_play_protect_title_for_work">ਕਾਰਜ-ਸਥਾਨ ਐਪਾਂ ਲਈ ਸੁਰੱਖਿਆ</string>
+    <string name="google_play_system_update_search_terms">ਅੱਪਡੇਟਾਂ, ਅੱਪਡੇਟ, ਸਿਸਟਮ ਅੱਪਡੇਟ, ਸਿਸਟਮ ਅੱਪਡੇਟਾਂ, Google Play ਸਿਸਟਮ ਅੱਪਡੇਟ, Play ਸਿਸਟਮ ਅੱਪਡੇਟ</string>
+    <string name="google_play_system_update_title">Google Play ਸਿਸਟਮ ਅੱਪਡੇਟ</string>
+    <string name="google_security_checkup_search_terms">Google ਸੁਰੱਖਿਆ ਜਾਂਚ, Google ਸੁਰੱਖਿਆ , ਸੁਰੱਖਿਆ ਜਾਂਚ, ਖਾਤਾ ਸੁਰੱਖਿਆ, Google ਖਾਤਾ ਸੁਰੱਖਿਆ, Google ਖਾਤਾ</string>
+    <string name="google_security_checkup_title">Google ਸੁਰੱਖਿਆ ਜਾਂਚ</string>
+    <string name="google_security_checkup_title_for_work">ਕੰਮ ਸੰਬੰਧੀ ਪ੍ਰੋਫਾਈਲ ਲਈ Google ਸੁਰੱਖਿਆ ਜਾਂਚ</string>
+    <string name="google_security_updates_search_terms">ਅੱਪਡੇਟਾਂ, ਅੱਪਡੇਟ, ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ, ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ</string>
+    <string name="google_security_updates_title">ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ</string>
+    <string name="google_updates_summary">ਡੀਵਾਈਸ ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ</string>
+    <string name="google_updates_title">ਅੱਪਡੇਟ</string>
+</resources>

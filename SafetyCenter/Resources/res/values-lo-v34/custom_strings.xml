@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ບັນຊີ Google ໄດ້ຮັບການປົກປ້ອງແລ້ວ</string>
+    <string name="google_accounts_sources_title">ການຮັກສາຄວາມປອດໄພຂອງບັນຊີ</string>
+    <string name="google_activity_controls_search_terms">ການເຄື່ອນໄຫວ, ການຄວບຄຸມການເຄື່ອນໄຫວ</string>
+    <string name="google_activity_controls_summary">ເລືອກການເຄື່ອນໄຫວ ແລະ ຂໍ້ມູນທີ່ທ່ານອະນຸຍາດໃຫ້ Google ບັນທຶກໄດ້</string>
+    <string name="google_activity_controls_title">ການຄວບຄຸມການເຄື່ອນໄຫວ</string>
+    <string name="google_activity_controls_title_for_work">ການຄວບຄຸມການເຄື່ອນໄຫວສຳລັບບ່ອນເຮັດວຽກ</string>
+    <string name="google_ads_identity_search_terms">ໂຄສະນາ, ຄວາມເປັນສ່ວນຕົວກ່ຽວກັບຕົວໂຄສະນາ, Privacy Sandbox, ຫົວຂໍ້ໂຄສະນາ, ໂຄສະນາແນະນຳແອັບ, ການວັດແທກຜົນຂອງໂຄສະນາ</string>
+    <string name="google_ads_identity_summary">ຈັດການຂໍ້ມູນອຸປະກອນທີ່ໃຊ້ເພື່ອສະແດງໂຄສະນາໃຫ້ທ່ານເຫັນ</string>
+    <string name="google_ads_identity_title">ໂຄສະນາ</string>
+    <string name="google_ads_identity_title_for_work">ໂຄສະນາສຳລັບບ່ອນເຮັດວຽກ</string>
+    <string name="google_backup_search_terms">ສຳຮອງຂໍ້ມູນ</string>
+    <string name="google_backup_title">ສຳຮອງຂໍ້ມູນ</string>
+    <string name="google_password_checkup_title">ການກວດສອບລະຫັດຜ່ານ</string>
+    <string name="google_password_checkup_title_for_work">ການກວດສອບລະຫັດຜ່ານສຳລັບວຽກ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect ສຳລັບການເຮັດວຽກ</string>
+    <string name="google_updates_summary">ອັບເດດ</string>
+    <string name="google_updates_title">ລະບົບ ແລະ ການອັບເດດ</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">ખાનગી સ્પેસ માટેના ઍક્ટિવિટી કન્ટ્રોલ</string>
+    <string name="google_ads_identity_title_for_private_profile">ખાનગી સ્પેસ માટેની જાહેરાતો</string>
+    <string name="google_advanced_protection_summary">તમારા ડિવાઇસ અને Google એકાઉન્ટ માટે સુરક્ષા</string>
+    <string name="google_advanced_protection_title">વિગતવાર સુરક્ષા</string>
+    <string name="google_password_checkup_title_for_private_profile">ખાનગી સ્પેસ માટે પાસવર્ડની તપાસ</string>
+    <string name="google_play_protect_title_for_private_profile">ખાનગી સ્પેસ માટે Google Play Protect</string>
+    <string name="google_security_checkup_title_for_private_profile">ખાનગી સ્પેસ માટે Googleની સુરક્ષા તપાસ</string>
+</resources>

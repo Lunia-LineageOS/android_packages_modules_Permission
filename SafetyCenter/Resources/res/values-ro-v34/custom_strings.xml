@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Contul Google este protejat</string>
+    <string name="google_accounts_sources_title">Securitatea contului</string>
+    <string name="google_activity_controls_search_terms">Activitate, Opțiuni privind activitatea</string>
+    <string name="google_activity_controls_summary">Alege activitățile și informațiile pe care le poate salva Google</string>
+    <string name="google_activity_controls_title">Opțiuni privind activitatea</string>
+    <string name="google_activity_controls_title_for_work">Opțiuni privind activitatea pentru lucru</string>
+    <string name="google_ads_identity_search_terms">anunțuri, confidențialitatea anunțurilor, privacy sandbox, subiectele anunțurilor, anunțuri sugerate de aplicații, cuantificarea anunțurilor</string>
+    <string name="google_ads_identity_summary">Gestionează datele despre dispozitive folosite pentru a-ți afișa anunțuri</string>
+    <string name="google_ads_identity_title">Anunțuri</string>
+    <string name="google_ads_identity_title_for_work">Anunțuri pentru serviciu</string>
+    <string name="google_backup_search_terms">Backup</string>
+    <string name="google_backup_title">Backup</string>
+    <string name="google_password_checkup_title">Verificarea parolei</string>
+    <string name="google_password_checkup_title_for_work">Verificarea parolei pentru lucru</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect pentru serviciu</string>
+    <string name="google_updates_summary">Actualizări</string>
+    <string name="google_updates_title">Sistem și actualizări</string>
+</resources>

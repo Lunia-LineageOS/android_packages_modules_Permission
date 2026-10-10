@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google հաշիվը պաշտպանված է</string>
+    <string name="google_accounts_sources_title">Հաշվի անվտանգություն</string>
+    <string name="google_activity_controls_search_terms">Գործողություններ, գործողությունների հետագծում</string>
+    <string name="google_activity_controls_summary">Նշեք, թե ինչ գործողություններ և տվյալներ կարող են պահվել Google-ի կողմից</string>
+    <string name="google_activity_controls_title">Գործողությունների հետագծում</string>
+    <string name="google_activity_controls_title_for_work">Աշխատանքային պրոֆիլի գործողությունների հետագծում</string>
+    <string name="google_ads_identity_search_terms">գովազդներ, գովազդի գաղտնիություն, privacy sandbox, գովազդի թեմաներ, հավելվածների կողմից առաջարկվող գովազդներ, գովազդի արդյունավետության չափում</string>
+    <string name="google_ads_identity_summary">Կառավարեք սարքի տվյալները, որոնք օգտագործվում են ձեզ գովազդ ցուցադրելու համար</string>
+    <string name="google_ads_identity_title">Գովազդ</string>
+    <string name="google_ads_identity_title_for_work">Գովազդ աշխատանքի համար</string>
+    <string name="google_backup_search_terms">Պահուստավորում</string>
+    <string name="google_backup_title">Պահուստավորում</string>
+    <string name="google_password_checkup_title">Գաղտնաբառերի ստուգում</string>
+    <string name="google_password_checkup_title_for_work">Աշխատանքային պրոֆիլի գաղտնաբառերի ստուգում</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect աշխատանքի համար</string>
+    <string name="google_updates_summary">Թարմացումներ</string>
+    <string name="google_updates_title">Համակարգ և թարմացումներ</string>
+</resources>

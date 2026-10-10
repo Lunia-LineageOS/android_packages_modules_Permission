@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">የእርስዎ መለያ የተጠበቀ ነው</string>
+    <string name="google_accounts_sources_title">የGoogle የደህንነት ፍተሻ</string>
+    <string name="google_app_security_sources_summary">የPlay ጥቃት መከላከያ ቅኝት በርቷል</string>
+    <string name="google_app_security_sources_title">የመተግበሪያ ደህንነት</string>
+    <string name="google_device_finder_sources_summary">ምንም ማንቂያዎች የሉም</string>
+    <string name="google_device_finder_sources_title">የመሣሪያ አግኚዎች</string>
+    <string name="google_find_my_device_search_terms">ማግኛ ማዕከል፣ መሣሪያዎችን ማግኘት፣ የእኔን መሣሪያ አግኝ፣ የጠፋ መሣሪያ</string>
+    <string name="google_find_my_device_title">ማግኛ ማዕከል</string>
+    <string name="google_lock_screen_search_terms">የመሣሪያ ቁልፍ፣ ማያ ገፅ መቆለፊያ፣ የማያ ገፅ ቁልፍ፣ የማያ ገፅ ቁልፍ፣ የይለፍ ቃል፣ ፒን፣ ስርዓተ ጥለት፣ ቆልፍ፣ ክፈት</string>
+    <string name="google_play_protect_search_terms">የመተግበሪያ ደህንነት፣ Play ጥቃት መከላከያ፣ Google Play ጥቃት መከላከያ፣ የመተግበሪያ ደህንነት</string>
+    <string name="google_play_protect_title">የመተግበሪያ ደህንነት</string>
+    <string name="google_play_protect_title_for_work">የመተግበሪያ ደህንነት ለስራ</string>
+    <string name="google_play_system_update_search_terms">ዝማኔዎች፣ ዝማኔ፣ የሥርዓት ዝማኔ፣ የሥርዓት ዝማኔዎች፣ የGoogle Play ሥርዓት ዝማኔ፣ የPlay ሥርዓት ዝማኔ</string>
+    <string name="google_play_system_update_title">የGoogle Play ሥርዓት ዝማኔ</string>
+    <string name="google_security_checkup_search_terms">የGoogle የደህንነት ፍተሻ፣ የGoogle ደህንነት፣ የደህንነት ፍተሻ፣ የመለያ ደህንነት፣ የGoogle መለያ ደህንነት፣ የGoogle መለያ</string>
+    <string name="google_security_checkup_title">የGoogle የደህንነት ፍተሻ</string>
+    <string name="google_security_checkup_title_for_work">የGoogle የደህንነት ፍተሻ ለስራ</string>
+    <string name="google_security_updates_search_terms">ዝማኔዎች፣ ዝማኔ፣ የደህንነት ዝማኔ፣ የደህንነት ዝማኔዎች</string>
+    <string name="google_security_updates_title">የደህንነት ዝማኔ</string>
+    <string name="google_updates_summary">መሣሪያው የተዘመነ ነው</string>
+    <string name="google_updates_title">ዝማኔዎች</string>
+</resources>

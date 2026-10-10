@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">A Conta de Google está protexida</string>
+    <string name="google_accounts_sources_title">Seguranza da conta</string>
+    <string name="google_activity_controls_search_terms">Actividade, Controis de actividade</string>
+    <string name="google_activity_controls_summary">Escolle as actividades e a información que lle permites gardar a Google</string>
+    <string name="google_activity_controls_title">Controis de actividade</string>
+    <string name="google_activity_controls_title_for_work">Controis de actividade para o traballo</string>
+    <string name="google_ads_identity_search_terms">anuncios, privacidade nos anuncios, privacy sandbox, temas dos anuncios, anuncios suxeridos polas aplicacións, medición de anuncios</string>
+    <string name="google_ads_identity_summary">Xestiona os datos do dispositivo que se usan para mostrarche anuncios</string>
+    <string name="google_ads_identity_title">Anuncios</string>
+    <string name="google_ads_identity_title_for_work">Anuncios para o traballo</string>
+    <string name="google_backup_search_terms">Copia de seguranza</string>
+    <string name="google_backup_title">Copia de seguranza</string>
+    <string name="google_password_checkup_title">Revisión de contrasinais</string>
+    <string name="google_password_checkup_title_for_work">Revisión de contrasinais para o traballo</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect para o traballo</string>
+    <string name="google_updates_summary">Actualizacións</string>
+    <string name="google_updates_title">Sistema e actualizacións</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Contul este protejat</string>
+    <string name="google_accounts_sources_title">Verificarea securității Google</string>
+    <string name="google_app_security_sources_summary">Scanarea Play Protect este activată</string>
+    <string name="google_app_security_sources_title">Securitatea aplicațiilor</string>
+    <string name="google_device_finder_sources_summary">Fără notificări</string>
+    <string name="google_device_finder_sources_title">Instrumente de găsire a dispozitivelor</string>
+    <string name="google_find_my_device_search_terms">Localizator, Găsirea dispozitivelor, Găsește-mi dispozitivul, Dispozitiv pierdut</string>
+    <string name="google_find_my_device_title">Localizator</string>
+    <string name="google_lock_screen_search_terms">Blocarea dispozitivului, Ecran de blocare, Parolă, PIN, Model, Blocare, Deblocare</string>
+    <string name="google_play_protect_search_terms">Securitatea aplicațiilor, Play Protect, Google Play Protect, Siguranța aplicațiilor</string>
+    <string name="google_play_protect_title">Securitatea aplicațiilor</string>
+    <string name="google_play_protect_title_for_work">Securitatea aplicațiilor pentru serviciu</string>
+    <string name="google_play_system_update_search_terms">Actualizări, Actualizare, Actualizare de sistem, Actualizări de sistem, Actualizare de sistem Google play, Actualizare de sistem Play</string>
+    <string name="google_play_system_update_title">Actualizare de sistem Google Play</string>
+    <string name="google_security_checkup_search_terms">Verificarea securității Google, Securitate Google, Verificarea securității, Securitatea contului, Securitatea contului Google, Cont Google</string>
+    <string name="google_security_checkup_title">Verificarea securității Google</string>
+    <string name="google_security_checkup_title_for_work">Verificarea securității Google pentru serviciu</string>
+    <string name="google_security_updates_search_terms">Actualizări, Actualizare, Actualizare de securitate, Actualizări de securitate</string>
+    <string name="google_security_updates_title">Actualizare de securitate</string>
+    <string name="google_updates_summary">Dispozitivul este actualizat</string>
+    <string name="google_updates_title">Actualizări</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google konts ir aizsargāts</string>
+    <string name="google_accounts_sources_title">Konta drošība</string>
+    <string name="google_activity_controls_search_terms">darbības, aktivitātes vadīklas</string>
+    <string name="google_activity_controls_summary">Izvēlēties, kādas darbības un informāciju Google drīkst saglabāt</string>
+    <string name="google_activity_controls_title">Aktivitātes vadīklas</string>
+    <string name="google_activity_controls_title_for_work">Aktivitātes vadīklas darbam</string>
+    <string name="google_ads_identity_search_terms">reklāmas, reklāmu konfidencialitāte, konfidencialitātes smilškaste, reklāmu tēmas, lietotņu ieteiktas reklāmas, reklāmu novērtēšana</string>
+    <string name="google_ads_identity_summary">Pārvaldiet ierīču datus, kas tiek izmantoti, lai rādītu jums reklāmas.</string>
+    <string name="google_ads_identity_title">Reklāmas</string>
+    <string name="google_ads_identity_title_for_work">Reklāmas darbavietai</string>
+    <string name="google_backup_search_terms">Dublēšana</string>
+    <string name="google_backup_title">Dublēšana</string>
+    <string name="google_password_checkup_title">Paroļu pārbaude</string>
+    <string name="google_password_checkup_title_for_work">Paroļu pārbaude darbam</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect for work</string>
+    <string name="google_updates_summary">Atjauninājumi</string>
+    <string name="google_updates_title">Sistēma un atjauninājumi</string>
+</resources>

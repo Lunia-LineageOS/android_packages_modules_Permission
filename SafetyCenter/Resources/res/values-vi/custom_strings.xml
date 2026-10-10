@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Tài khoản của bạn đang được bảo vệ</string>
+    <string name="google_accounts_sources_title">Công cụ Kiểm tra bảo mật của Google</string>
+    <string name="google_app_security_sources_summary">Tính năng quét của Play Protect đang bật</string>
+    <string name="google_app_security_sources_title">Bảo mật ứng dụng</string>
+    <string name="google_device_finder_sources_summary">Không có cảnh báo</string>
+    <string name="google_device_finder_sources_title">Công cụ tìm thiết bị</string>
+    <string name="google_find_my_device_search_terms">Trung tâm tìm thiết bị, Tìm thiết bị, Tìm thiết bị của tôi, Thiết bị thất lạc</string>
+    <string name="google_find_my_device_title">Trung tâm tìm thiết bị</string>
+    <string name="google_lock_screen_search_terms">Khóa thiết bị, Khóa màn hình, Màn hình khóa, Màn hình khóa, Mật khẩu, Mã Pin, Hình mở khóa, Khóa, Mở khóa</string>
+    <string name="google_play_protect_search_terms">Bảo mật ứng dụng, Play Protect, Google Play Protect, An toàn ứng dụng</string>
+    <string name="google_play_protect_title">Bảo mật ứng dụng</string>
+    <string name="google_play_protect_title_for_work">Bảo mật cho ứng dụng công việc</string>
+    <string name="google_play_system_update_search_terms">Bản cập nhật, Cập nhật, Bản cập nhật hệ thống, Cập nhật hệ thống, Cập nhật hệ thống Google Play, Cập nhật hệ thống Play</string>
+    <string name="google_play_system_update_title">Bản cập nhật hệ thống Google Play</string>
+    <string name="google_security_checkup_search_terms">Kiểm tra bảo mật của Google, Bảo mật của Google, Kiểm tra bảo mật, Bảo mật tài khoản, Bảo mật tài khoản Google, Tài khoản Google</string>
+    <string name="google_security_checkup_title">Công cụ Kiểm tra bảo mật của Google</string>
+    <string name="google_security_checkup_title_for_work">Công cụ Kiểm tra bảo mật của Google cho công việc</string>
+    <string name="google_security_updates_search_terms">Bản cập nhật, Cập nhật, Bản cập nhật bảo mật, Cập nhật bảo mật</string>
+    <string name="google_security_updates_title">Bản cập nhật bảo mật</string>
+    <string name="google_updates_summary">Thiết bị đã được cập nhật</string>
+    <string name="google_updates_title">Bản cập nhật</string>
+</resources>

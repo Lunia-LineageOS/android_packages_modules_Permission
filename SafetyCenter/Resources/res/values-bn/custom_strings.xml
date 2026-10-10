@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">আপনার অ্যাকাউন্ট সুরক্ষিত আছে</string>
+    <string name="google_accounts_sources_title">Google নিরাপত্তা যাচাই</string>
+    <string name="google_app_security_sources_summary">Play Protect-এর অ্যাপ স্ক্যান করার ফিচার চালু করা আছে</string>
+    <string name="google_app_security_sources_title">অ্যাপ নিরাপত্তা</string>
+    <string name="google_device_finder_sources_summary">কোনও সতর্কতা নেই</string>
+    <string name="google_device_finder_sources_title">ডিভাইস ফাইন্ডার</string>
+    <string name="google_find_my_device_search_terms">Find hub, ডিভাইস খোঁজা, Find my device, হারানো ডিভাইস</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">ডিভাইস লক, স্ক্রিন লক, লক স্ক্রিন, লকস্ক্রিন, পাসওয়ার্ড, পিন, প্যাটার্ন, লক, আনলক</string>
+    <string name="google_play_protect_search_terms">অ্যাপ নিরাপত্তা, Play Protect, Google Play Protect, অ্যাপ সুরক্ষা</string>
+    <string name="google_play_protect_title">অ্যাপ নিরাপত্তা</string>
+    <string name="google_play_protect_title_for_work">অফিসের জন্য অ্যাপ নিরাপত্তা</string>
+    <string name="google_play_system_update_search_terms">বিভিন্ন আপডেট, আপডেট, সিস্টেম আপডেট, সিস্টেমের বিভিন্ন আপডেট, Google Play সিস্টেম আপডেট, Play সিস্টেম আপডেট</string>
+    <string name="google_play_system_update_title">Google Play সিস্টেম আপডেট</string>
+    <string name="google_security_checkup_search_terms">Google নিরাপত্তা যাচাই, Google নিরাপত্তা, নিরাপত্তা যাচাই, অ্যাকাউন্টের নিরাপত্তা, Google অ্যাকাউন্টের নিরাপত্তা, Google অ্যাকাউন্ট</string>
+    <string name="google_security_checkup_title">Google নিরাপত্তা যাচাই</string>
+    <string name="google_security_checkup_title_for_work">অফিসের জন্য Google নিরাপত্তা যাচাই</string>
+    <string name="google_security_updates_search_terms">আপডেট, আপডেট, নিরাপত্তা সংক্রান্ত আপডেট, নিরাপত্তা সংক্রান্ত আপডেট</string>
+    <string name="google_security_updates_title">নিরাপত্তা সংক্রান্ত আপডেট</string>
+    <string name="google_updates_summary">ডিভাইস আপ-টু-ডেট আছে</string>
+    <string name="google_updates_title">আপডেট</string>
+</resources>

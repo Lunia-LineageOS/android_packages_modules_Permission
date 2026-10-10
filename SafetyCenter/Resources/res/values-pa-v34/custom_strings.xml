@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google ਖਾਤਾ ਸੁਰੱਖਿਅਤ ਹੈ</string>
+    <string name="google_accounts_sources_title">ਖਾਤਾ ਸੁਰੱਖਿਆ</string>
+    <string name="google_activity_controls_search_terms">ਸਰਗਰਮੀ, ਸਰਗਰਮੀ ਕੰਟਰੋਲ</string>
+    <string name="google_activity_controls_summary">ਉਹ ਸਰਗਰਮੀਆਂ ਅਤੇ ਜਾਣਕਾਰੀ ਚੁਣੋ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ Google ਨੂੰ ਰੱਖਿਅਤ ਕਰਨ ਦੇਣਾ ਹੈ</string>
+    <string name="google_activity_controls_title">ਸਰਗਰਮੀ ਕੰਟਰੋਲ</string>
+    <string name="google_activity_controls_title_for_work">ਕੰਮ ਸੰਬੰਧੀ ਪ੍ਰੋਫਾਈਲ ਲਈ ਸਰਗਰਮੀ ਕੰਟਰੋਲ</string>
+    <string name="google_ads_identity_search_terms">ਵਿਗਿਆਪਨ, ਵਿਗਿਆਪਨ ਪਰਦੇਦਾਰੀ, ਪ੍ਰਾਈਵੇਸੀ ਸੈਂਡਬਾਕਸ, ਵਿਗਿਆਪਨ ਦੇ ਵਿਸ਼ੇ, ਐਪ ਵੱਲੋਂ ਸੁਝਾਏ ਵਿਗਿਆਪਨ, ਵਿਗਿਆਪਨ ਮਾਪ</string>
+    <string name="google_ads_identity_summary">ਤੁਹਾਨੂੰ ਵਿਗਿਆਪਨ ਦਿਖਾਉਣ ਲਈ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਡੀਵਾਈਸ ਡਾਟੇ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</string>
+    <string name="google_ads_identity_title">ਵਿਗਿਆਪਨ</string>
+    <string name="google_ads_identity_title_for_work">ਕੰਮ ਸੰਬੰਧੀ ਪ੍ਰੋਫਾਈਲ ਲਈ ਵਿਗਿਆਪਨ</string>
+    <string name="google_backup_search_terms">ਬੈਕਅੱਪ</string>
+    <string name="google_backup_title">ਬੈਕਅੱਪ</string>
+    <string name="google_password_checkup_title">ਪਾਸਵਰਡ ਜਾਂਚ</string>
+    <string name="google_password_checkup_title_for_work">ਕੰਮ ਲਈ ਪਾਸਵਰਡ ਜਾਂਚ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">ਕੰਮ ਲਈ Google Play Protect</string>
+    <string name="google_updates_summary">ਅੱਪਡੇਟ</string>
+    <string name="google_updates_title">ਸਿਸਟਮ ਅਤੇ ਅੱਪਡੇਟ</string>
+</resources>

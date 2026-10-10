@@ -17,6 +17,27 @@
 <safety-center-config>
     <safety-sources-config>
         <safety-sources-group
+            id="GoogleAppSecuritySources"
+            title="@com.android.safetycenter.resources:string/google_app_security_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_app_security_sources_summary">
+            <dynamic-safety-source
+                id="GooglePlayProtect"
+                packageName="com.android.vending"
+                profile="all_profiles"
+                intentAction="com.google.android.finsky.PLAY_PROTECT"
+                title="@com.android.safetycenter.resources:string/google_play_protect_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_play_protect_title_for_work"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_play_protect_search_terms"
+                refreshOnPageOpenAllowed="true"/>
+            <dynamic-safety-source
+                id="GoogleAppProtectionService"
+                packageName="com.google.android.odad"
+                profile="all_profiles"
+                initialDisplayState="hidden"
+                loggingAllowed="false"/>
+        </safety-sources-group>
+        <safety-sources-group
             id="AndroidLockScreenSources"
             title="@com.android.safetycenter.resources:string/lock_screen_sources_title"
             summary="@com.android.safetycenter.resources:string/lock_screen_sources_summary">
@@ -26,16 +47,83 @@
                 profile="primary_profile_only"
                 title="@com.android.safetycenter.resources:string/lock_screen_title"
                 summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
-                searchTerms="@com.android.safetycenter.resources:string/lock_screen_search_terms"
+                searchTerms="@com.android.safetycenter.resources:string/google_lock_screen_search_terms"
                 initialDisplayState="disabled"
+                maxSeverityLevel="300"
                 refreshOnPageOpenAllowed="true"/>
             <dynamic-safety-source
                 id="AndroidBiometrics"
                 packageName="com.android.settings"
                 profile="primary_profile_only"
                 title="@com.android.safetycenter.resources:string/biometrics_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
                 searchTerms="@com.android.safetycenter.resources:string/biometrics_search_terms"
                 initialDisplayState="hidden"
+                maxSeverityLevel="0"
+                refreshOnPageOpenAllowed="true"/>
+            <dynamic-safety-source
+                id="GoogleAutoLock"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                initialDisplayState="hidden"
+                maxSeverityLevel="0"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleAccountsSources"
+            title="@com.android.safetycenter.resources:string/google_accounts_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_accounts_sources_summary">
+            <dynamic-safety-source
+                id="GoogleSecurityCheckup"
+                packageName="com.google.android.gms"
+                profile="all_profiles"
+                intentAction="com.google.android.gms.accountsettings.action.SAFETY_CENTER_SECURITY_CHECKUP"
+                title="@com.android.safetycenter.resources:string/google_security_checkup_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_security_checkup_title_for_work"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_security_checkup_search_terms"
+                refreshOnPageOpenAllowed="true"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleDeviceFinderSources"
+            title="@com.android.safetycenter.resources:string/google_device_finder_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_device_finder_sources_summary">
+            <dynamic-safety-source
+                id="GoogleFindMyDevice"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                intentAction="com.google.android.gms.settings.FIND_MY_DEVICE_SETTINGS"
+                title="@com.android.safetycenter.resources:string/google_find_my_device_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_find_my_device_search_terms"
+                refreshOnPageOpenAllowed="true"/>
+            <dynamic-safety-source
+                id="GoogleRogueTag"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                initialDisplayState="hidden"
+                refreshOnPageOpenAllowed="true"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleUpdateSources"
+            title="@com.android.safetycenter.resources:string/google_updates_title"
+            summary="@com.android.safetycenter.resources:string/google_updates_summary">
+            <dynamic-safety-source
+                id="GoogleSecurityUpdates"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                intentAction="@com.android.safetycenter.resources:string/google_security_updates_intent"
+                title="@com.android.safetycenter.resources:string/google_security_updates_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_security_updates_search_terms"
+                refreshOnPageOpenAllowed="true"/>
+            <dynamic-safety-source
+                id="GooglePlaySystemUpdate"
+                packageName="com.android.vending"
+                profile="primary_profile_only"
+                intentAction="android.settings.MODULE_UPDATE_SETTINGS"
+                title="@com.android.safetycenter.resources:string/google_play_system_update_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_play_system_update_search_terms"
                 refreshOnPageOpenAllowed="true"/>
         </safety-sources-group>
         <safety-sources-group

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">‏Google اکاؤنٹ محفوظ ہے</string>
+    <string name="google_accounts_sources_title">اکاؤنٹ سیکیورٹی</string>
+    <string name="google_activity_controls_search_terms">سرگرمی، سرگرمی کنٹرولز</string>
+    <string name="google_activity_controls_summary">‏وہ سرگرمیاں اور معلومات منتخب کریں جنہیں آپ Google کو محفوظ کرنے کی اجازت دیتے ہیں</string>
+    <string name="google_activity_controls_title">سرگرمی کنٹرولز</string>
+    <string name="google_activity_controls_title_for_work">دفتر کے لیے سرگرمی کنٹرولز</string>
+    <string name="google_ads_identity_search_terms">اشتہارات، اشتہار کی رازداری، رازداری سینڈ باکس، اشتہار کے عنوانات، ایپس کے تجویز کردہ اشتہارات، اشتہار کی پیمائش</string>
+    <string name="google_ads_identity_summary">آپ کو اشتہارات دکھانے کے لیے استعمال ہونے والے آلہ کے ڈیٹا کا نظم کریں</string>
+    <string name="google_ads_identity_title">اشتہارات</string>
+    <string name="google_ads_identity_title_for_work">دفتری ایپس کیلئے اشتہارات</string>
+    <string name="google_backup_search_terms">بیک اپ</string>
+    <string name="google_backup_title">بیک اپ</string>
+    <string name="google_password_checkup_title">پاس ورڈ چیک اپ</string>
+    <string name="google_password_checkup_title_for_work">دفتر کے لیے پاس ورڈ چیک اپ</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">‏Google Play Protect برائے دفتر</string>
+    <string name="google_updates_summary">اپ ڈیٹس</string>
+    <string name="google_updates_title">سسٹم اور اپ ڈیٹس</string>
+</resources>

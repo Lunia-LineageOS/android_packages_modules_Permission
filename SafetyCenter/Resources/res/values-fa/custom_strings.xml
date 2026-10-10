@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">از حسابتان محافظت می‌شود</string>
+    <string name="google_accounts_sources_title">‏بازبینی امنیتی Google</string>
+    <string name="google_app_security_sources_summary">‏اسکن «سپر ایمنی Play» روشن است</string>
+    <string name="google_app_security_sources_title">امنیت برنامه</string>
+    <string name="google_device_finder_sources_summary">هشداری وجود ندارد</string>
+    <string name="google_device_finder_sources_title">یابنده‌های دستگاه</string>
+    <string name="google_find_my_device_search_terms">کانون جست‌وجو، پیدا کردن دستگاه‌ها، پیدا کردن دستگاهم، دستگاه گم‌شده</string>
+    <string name="google_find_my_device_title">کانون جست‌وجو</string>
+    <string name="google_lock_screen_search_terms">قفل دستگاه، قفل صفحه، صفحه قفل، صفحه‌قفل، گذرواژه، پین، الگو، قفل کردن، باز کردن قفل</string>
+    <string name="google_play_protect_search_terms">‏امنیت برنامه، سپر ایمنی Play، سپر ایمنی Google Play، ایمنی برنامه</string>
+    <string name="google_play_protect_title">امنیت برنامه‌ها</string>
+    <string name="google_play_protect_title_for_work">امنیت برنامه ویژه کار</string>
+    <string name="google_play_system_update_search_terms">‏به‌روزرسانی‌ها، به‌روزرسانی، به‌روزرسانی سیستم، به‌روزرسانی‌های سیستم، به‌روزرسانی سیستم Google Play، به‌روزرسانی سیستم Play</string>
+    <string name="google_play_system_update_title">‏به‌روزرسانی سیستم Google Play</string>
+    <string name="google_security_checkup_search_terms">‏بازبینی امنیتی Google، امنیت Google، بازبینی امنیتی، امنیت حساب، امنیت حساب Google، حساب Google</string>
+    <string name="google_security_checkup_title">‏بازبینی امنیتی Google</string>
+    <string name="google_security_checkup_title_for_work">‏بازبینی امنیتی Google ویژه کار</string>
+    <string name="google_security_updates_search_terms">به‌روزرسانی‌ها، به‌روزرسانی، به‌روزرسانی امنیتی، به‌روزرسانی‌های امنیتی</string>
+    <string name="google_security_updates_title">به‌روزرسانی امنیتی</string>
+    <string name="google_updates_summary">دستگاه به‌روز است</string>
+    <string name="google_updates_title">به‌روزرسانی‌ها</string>
+</resources>

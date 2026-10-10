@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">บัญชีได้รับการปกป้องแล้ว</string>
+    <string name="google_accounts_sources_title">การตรวจสอบความปลอดภัยของ Google</string>
+    <string name="google_app_security_sources_summary">การสแกนด้วย Google Play Protect เปิดอยู่</string>
+    <string name="google_app_security_sources_title">การรักษาความปลอดภัยของแอป</string>
+    <string name="google_device_finder_sources_summary">ไม่มีการแจ้งเตือน</string>
+    <string name="google_device_finder_sources_title">เครื่องมือค้นหาอุปกรณ์</string>
+    <string name="google_find_my_device_search_terms">ศูนย์การค้นหา, การค้นหาอุปกรณ์, หาอุปกรณ์ของฉัน, อุปกรณ์สูญหาย</string>
+    <string name="google_find_my_device_title">ศูนย์การค้นหา</string>
+    <string name="google_lock_screen_search_terms">ล็อกอุปกรณ์, ล็อกหน้าจอ, หน้าจอล็อก, หน้าจอล็อก, รหัสผ่าน, PIN, รูปแบบ, ล็อก, ปลดล็อก</string>
+    <string name="google_play_protect_search_terms">การรักษาความปลอดภัยของแอป, Play Protect, Google Play Protect, ความปลอดภัยของแอป</string>
+    <string name="google_play_protect_title">การรักษาความปลอดภัยของแอป</string>
+    <string name="google_play_protect_title_for_work">การรักษาความปลอดภัยของแอปสำหรับการทำงาน</string>
+    <string name="google_play_system_update_search_terms">การอัปเดต, อัปเดต, อัปเดตระบบ, การอัปเดตระบบ, อัปเดตระบบ Google Play, การอัปเดตระบบ Play</string>
+    <string name="google_play_system_update_title">การอัปเดตระบบ Google Play</string>
+    <string name="google_security_checkup_search_terms">การตรวจสอบความปลอดภัยของ Google, การรักษาความปลอดภัยของ Google, การตรวจสอบความปลอดภัย, การรักษาความปลอดภัยของบัญชี Google, บัญชี Google</string>
+    <string name="google_security_checkup_title">การตรวจสอบความปลอดภัยของ Google</string>
+    <string name="google_security_checkup_title_for_work">การตรวจสอบความปลอดภัยของ Google สำหรับการทำงาน</string>
+    <string name="google_security_updates_search_terms">การอัปเดต, อัปเดต, อัปเดตความปลอดภัย, การอัปเดตความปลอดภัย</string>
+    <string name="google_security_updates_title">การอัปเดตความปลอดภัย</string>
+    <string name="google_updates_summary">อุปกรณ์เป็นเวอร์ชันล่าสุดแล้ว</string>
+    <string name="google_updates_title">การอัปเดต</string>
+</resources>

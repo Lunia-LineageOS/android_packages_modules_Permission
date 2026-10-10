@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google Hesabı qorunur</string>
+    <string name="google_accounts_sources_title">Hesab güvənliyi</string>
+    <string name="google_activity_controls_search_terms">Fəaliyyət, Fəaliyyətə nəzarət</string>
+    <string name="google_activity_controls_summary">Google-un yadda saxlayacağı fəaliyyət və məlumatı seçin</string>
+    <string name="google_activity_controls_title">Fəaliyyətə nəzarət</string>
+    <string name="google_activity_controls_title_for_work">İş üçün fəaliyyətə nəzarət</string>
+    <string name="google_ads_identity_search_terms">reklamlar, reklam məxfiliyi, təhlükəsiz sandbox, reklam mövzuları, tətbiq tərəfindən təklif edilən reklamlar, reklam dəyərləndirməsi</string>
+    <string name="google_ads_identity_summary">Reklam göstərmək üçün istifadə edilən cihaz datasını idarə edin</string>
+    <string name="google_ads_identity_title">Reklamlar</string>
+    <string name="google_ads_identity_title_for_work">İş üçün reklamlar</string>
+    <string name="google_backup_search_terms">Yedəkləmə</string>
+    <string name="google_backup_title">Yedəkləmə</string>
+    <string name="google_password_checkup_title">Parol Yoxlanışı</string>
+    <string name="google_password_checkup_title_for_work">İş üçün Parol Yoxlanışı</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">İş üçün Google Play Protect</string>
+    <string name="google_updates_summary">Güncəllənmələr</string>
+    <string name="google_updates_title">Sistem və güncəllənmələr</string>
+</resources>

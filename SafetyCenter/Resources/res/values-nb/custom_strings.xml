@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Kontoen din er beskyttet</string>
+    <string name="google_accounts_sources_title">Google Sikkerhetssjekk</string>
+    <string name="google_app_security_sources_summary">Play Protect-skanning er på</string>
+    <string name="google_app_security_sources_title">Appsikkerhet</string>
+    <string name="google_device_finder_sources_summary">Ingen varsler</string>
+    <string name="google_device_finder_sources_title">Enhetsfinnere</string>
+    <string name="google_find_my_device_search_terms">Finn-oversikten, Finne enheter, Finn enheten min, mistet enhet</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Enhetslås, skjermlås, låseskjerm, passord, PIN-kode, mønster, lås, lås opp</string>
+    <string name="google_play_protect_search_terms">Appsikkerhet, Play Protect, Google Play Protect, apptrygghet</string>
+    <string name="google_play_protect_title">Appsikkerhet</string>
+    <string name="google_play_protect_title_for_work">Appsikkerhet for jobb</string>
+    <string name="google_play_system_update_search_terms">Oppdateringer, oppdater, systemoppdatering, systemoppdateringer, Google Play-systemoppdatering, Play-systemoppdatering</string>
+    <string name="google_play_system_update_title">Google Play-systemoppdatering</string>
+    <string name="google_security_checkup_search_terms">Google Sikkerhetssjekk, Google-sikkerhet, Sikkerhetssjekk, kontosikkerhet, Google-kontosikkerhet, Google-konto</string>
+    <string name="google_security_checkup_title">Google Sikkerhetssjekk</string>
+    <string name="google_security_checkup_title_for_work">Google Sikkerhetssjekk for jobb</string>
+    <string name="google_security_updates_search_terms">Oppdateringer, oppdater, sikkerhetsoppdatering, sikkerhetsoppdateringer</string>
+    <string name="google_security_updates_title">Sikkerhetsoppdatering</string>
+    <string name="google_updates_summary">Enheten er oppdatert</string>
+    <string name="google_updates_title">Oppdateringer</string>
+</resources>

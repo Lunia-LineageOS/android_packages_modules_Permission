@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">ບັນຊີຂອງທ່ານໄດ້ຮັບການປົກປ້ອງແລ້ວ</string>
+    <string name="google_accounts_sources_title">ການກວດກາຄວາມປອດໄພ Google</string>
+    <string name="google_app_security_sources_summary">ການສະແກນ Play Protect ເປີດຢູ່</string>
+    <string name="google_app_security_sources_title">ຄວາມປອດໄພຂອງແອັບ</string>
+    <string name="google_device_finder_sources_summary">ບໍ່ມີການແຈ້ງເຕືອນ</string>
+    <string name="google_device_finder_sources_title">ຕົວຊອກຫາອຸປະກອນ</string>
+    <string name="google_find_my_device_search_terms">ສູນການຊອກຫາ, ການຊອກຫາອຸປະກອນ, ຊອກຫາອຸປະກອນຂອງຂ້ອຍ, ອຸປະກອນສູນຫາຍ</string>
+    <string name="google_find_my_device_title">ສູນການຊອກຫາ</string>
+    <string name="google_lock_screen_search_terms">ລັອກອຸປະກອນ, ລັອກໜ້າຈໍ, ໜ້າຈໍລັອກ, ການລັອກໜ້າຈໍ, ລະຫັດຜ່ານ, PIN, ຮູບແບບ, ລັອກ, ປົດລັອກ</string>
+    <string name="google_play_protect_search_terms">ຄວາມປອດໄພຂອງແອັບ, Play Protect, Google Play Protect, ຄວາມປອດໄພຂອງແອັບ</string>
+    <string name="google_play_protect_title">ຄວາມປອດໄພຂອງແອັບ</string>
+    <string name="google_play_protect_title_for_work">ຄວາມປອດໄພຂອງແອັບສຳລັບວຽກ</string>
+    <string name="google_play_system_update_search_terms">ການອັບເດດ, ອັບເດດ, ອັບເດດລະບົບ, ການອັບເດດລະບົບ, ການອັບເດດລະບົບ Google Play, ອັບເດດລະບົບ Play</string>
+    <string name="google_play_system_update_title">ການອັບເດດລະບົບ Google Play</string>
+    <string name="google_security_checkup_search_terms">ການກວດກາຄວາມປອດໄພ Google, ຄວາມປອດໄພ Google, ການກວດກາຄວາມປອດໄພ, ຄວາມປອດໄພຂອງບັນຊີ, ຄວາມປອດໄພຂອງບັນຊີ Google, ບັນຊີ Google</string>
+    <string name="google_security_checkup_title">ການກວດກາຄວາມປອດໄພ Google</string>
+    <string name="google_security_checkup_title_for_work">ການກວດກາຄວາມປອດໄພ Google ສຳລັບວຽກ</string>
+    <string name="google_security_updates_search_terms">ການອັບເດດ, ອັບເດດ, ອັບເດດຄວາມປອດໄພ, ການອັບເດດຄວາມປອດໄພ</string>
+    <string name="google_security_updates_title">ອັບເດດຄວາມປອດໄພ</string>
+    <string name="google_updates_summary">ອັບເດດອຸປະກອນແລ້ວ</string>
+    <string name="google_updates_title">ອັບເດດ</string>
+</resources>

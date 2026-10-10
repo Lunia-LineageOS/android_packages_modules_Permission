@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Обліковий запис Google захищено</string>
+    <string name="google_accounts_sources_title">Безпека облікового запису</string>
+    <string name="google_activity_controls_search_terms">Дії, відстеження дій</string>
+    <string name="google_activity_controls_summary">Виберіть, які дії і інформацію зможе зберігати компанія Google</string>
+    <string name="google_activity_controls_title">Відстеження дій</string>
+    <string name="google_activity_controls_title_for_work">Відстеження дій для роботи</string>
+    <string name="google_ads_identity_search_terms">реклама, конфіденційність у рекламі, privacy sandbox, теми оголошень, рекомендація реклами в додатку, вимірювання ефективності реклами</string>
+    <string name="google_ads_identity_summary">Керуйте даними пристрою, які використовуються для показу вам реклами</string>
+    <string name="google_ads_identity_title">Реклама</string>
+    <string name="google_ads_identity_title_for_work">Реклама для роботи</string>
+    <string name="google_backup_search_terms">Резервне копіювання</string>
+    <string name="google_backup_title">Резервне копіювання</string>
+    <string name="google_password_checkup_title">Перевірка паролів</string>
+    <string name="google_password_checkup_title_for_work">Перевірка паролів для роботи</string>
+    <string name="google_play_protect_title">Google Play Захист</string>
+    <string name="google_play_protect_title_for_work">Google Play Захист для роботи</string>
+    <string name="google_updates_summary">Оновлення</string>
+    <string name="google_updates_title">Система й оновлення</string>
+</resources>

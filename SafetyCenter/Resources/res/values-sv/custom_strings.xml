@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ditt konto är skyddat</string>
+    <string name="google_accounts_sources_title">Googles säkerhetskontroll</string>
+    <string name="google_app_security_sources_summary">Genomsökning med Play Protect är på</string>
+    <string name="google_app_security_sources_title">Appsäkerhet</string>
+    <string name="google_device_finder_sources_summary">Inga varningar</string>
+    <string name="google_device_finder_sources_title">Hitta enheter</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Hitta enheter, Hitta min enhet, Borttappad enhet</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Enhetslås, Skärmlås, Låsskärm, Lås skärm, Lösenord, Pinkod, Mönster, Lås, Lås upp</string>
+    <string name="google_play_protect_search_terms">Appsäkerhet, Play Protect, Google Play Protect</string>
+    <string name="google_play_protect_title">Appsäkerhet</string>
+    <string name="google_play_protect_title_for_work">Appsäkerhet för jobbprofilen</string>
+    <string name="google_play_system_update_search_terms">Uppdateringar, Uppdatering, Systemuppdatering, Systemuppdateringar, Systemuppdatering via google play, Systemuppdatering via play</string>
+    <string name="google_play_system_update_title">Systemuppdatering via Google Play</string>
+    <string name="google_security_checkup_search_terms">Googles säkerhetskontroll, Säkerhet på Google, Säkerhetskontroll, Kontosäkerhet, Säkerhet i Google-kontot, Google-konto</string>
+    <string name="google_security_checkup_title">Googles säkerhetskontroll</string>
+    <string name="google_security_checkup_title_for_work">Googles säkerhetskontroll i jobbprofilen</string>
+    <string name="google_security_updates_search_terms">Uppdateringar, Uppdatering, Säkerhetsuppdatering, Säkerhetsuppdateringar</string>
+    <string name="google_security_updates_title">Säkerhetsuppdatering</string>
+    <string name="google_updates_summary">Enheten är uppdaterad</string>
+    <string name="google_updates_title">Uppdateringar</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google-reikningur er varinn</string>
+    <string name="google_accounts_sources_title">Öryggi reiknings</string>
+    <string name="google_activity_controls_search_terms">Virkni, virknistýringar</string>
+    <string name="google_activity_controls_summary">Veldu aðgerðir og upplýsingar sem Google má vista</string>
+    <string name="google_activity_controls_title">Virknistýringar</string>
+    <string name="google_activity_controls_title_for_work">Virknistýringar fyrir vinnu</string>
+    <string name="google_ads_identity_search_terms">auglýsingar, persónuvernd auglýsinga, privacy sandbox, efni auglýsinga, auglýsingatillögur forrita, auglýsingamælingar</string>
+    <string name="google_ads_identity_summary">Stjórnaðu tækjagögnum sem eru notuð til að birta þér auglýsingar</string>
+    <string name="google_ads_identity_title">Auglýsingar</string>
+    <string name="google_ads_identity_title_for_work">Vinnutengdar auglýsingar</string>
+    <string name="google_backup_search_terms">Öryggisafrit</string>
+    <string name="google_backup_title">Öryggisafrit</string>
+    <string name="google_password_checkup_title">Aðgangsorðatékk</string>
+    <string name="google_password_checkup_title_for_work">Aðgangsorðatékk fyrir vinnu</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect fyrir vinnu</string>
+    <string name="google_updates_summary">Uppfærslur</string>
+    <string name="google_updates_title">Kerfi og uppfærslur</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">Στοιχεία ελέγχου δραστηριότητας για τον ιδιωτικό χώρο</string>
+    <string name="google_ads_identity_title_for_private_profile">Διαφημίσεις για τον ιδιωτικό χώρο</string>
+    <string name="google_advanced_protection_summary">Μέτρο προστασίας για τη συσκευή και τον Λογαριασμό σας Google</string>
+    <string name="google_advanced_protection_title">Ενισχυμένη προστασία</string>
+    <string name="google_password_checkup_title_for_private_profile">Έλεγχος κωδικού πρόσβασης για τον ιδιωτικό χώρο</string>
+    <string name="google_play_protect_title_for_private_profile">Google Play Protect για τον ιδιωτικό χώρο</string>
+    <string name="google_security_checkup_title_for_private_profile">Έλεγχος ασφαλείας Google για τον ιδιωτικό χώρο</string>
+</resources>

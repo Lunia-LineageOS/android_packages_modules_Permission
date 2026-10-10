@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">您的账号已受到保护</string>
+    <string name="google_accounts_sources_title">Google 安全检查</string>
+    <string name="google_app_security_sources_summary">Play 保护机制扫描功能已开启</string>
+    <string name="google_app_security_sources_title">应用安全性</string>
+    <string name="google_device_finder_sources_summary">无提醒</string>
+    <string name="google_device_finder_sources_title">设备查找程序</string>
+    <string name="google_find_my_device_search_terms">查找中心, 查找设备, 查找我的设备, 丢失的设备, Find hub, Finding devices, Find my device, Lost device</string>
+    <string name="google_find_my_device_title">查找中心</string>
+    <string name="google_lock_screen_search_terms">设备锁定, 屏幕锁定, 锁屏状态, 锁定的屏幕, 密码, PIN 码, 图案, 锁定, 解锁, Device lock, Screen lock, Lock screen, Lockscreen, Password, Pin, Pattern, Lock, Unlock</string>
+    <string name="google_play_protect_search_terms">应用安全性, Play 保护机制, Google Play 保护机制, 应用安全, App security, Play Protect, Google Play Protect, App safety</string>
+    <string name="google_play_protect_title">应用安全性</string>
+    <string name="google_play_protect_title_for_work">工作应用安全性</string>
+    <string name="google_play_system_update_search_terms">更新, 系统更新, Google Play 系统更新, Play 系统更新, Updates, Update, System update, System updates, Google play system update, Play system update</string>
+    <string name="google_play_system_update_title">Google Play 系统更新</string>
+    <string name="google_security_checkup_search_terms">Google 安全检查, Google 安全性, 安全检查, 账号安全性, Google 账号安全性, Google 账号, Google security checkup, Google Security , Security checkup, Account security, Google account security, Google account</string>
+    <string name="google_security_checkup_title">Google 安全检查</string>
+    <string name="google_security_checkup_title_for_work">针对工作资料的 Google 安全检查</string>
+    <string name="google_security_updates_search_terms">更新, 安全更新, Updates, Update, Security update, Security updates</string>
+    <string name="google_security_updates_title">安全更新</string>
+    <string name="google_updates_summary">设备系统已更新到最新版本</string>
+    <string name="google_updates_title">更新</string>
+</resources>

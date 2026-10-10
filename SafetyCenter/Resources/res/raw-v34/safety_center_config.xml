@@ -17,6 +17,29 @@
 <safety-center-config>
     <safety-sources-config>
         <safety-sources-group
+            id="GoogleAppSecuritySources"
+            title="@com.android.safetycenter.resources:string/google_app_security_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_app_security_sources_summary">
+            <dynamic-safety-source
+                id="GooglePlayProtect"
+                packageName="com.android.vending"
+                profile="all_profiles"
+                intentAction="com.google.android.finsky.PLAY_PROTECT"
+                title="@com.android.safetycenter.resources:string/google_play_protect_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_play_protect_title_for_work"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_play_protect_search_terms"
+                notificationsAllowed="true"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                deduplicationGroup="AppSecurity"/>
+            <issue-only-safety-source
+                id="GoogleAppProtectionService"
+                packageName="com.google.android.odad"
+                profile="all_profiles"
+                loggingAllowed="false"
+                deduplicationGroup="AppSecurity"/>
+        </safety-sources-group>
+        <safety-sources-group
             id="AndroidLockScreenSources"
             title="@com.android.safetycenter.resources:string/lock_screen_sources_title"
             summary="@com.android.safetycenter.resources:string/lock_screen_sources_summary">
@@ -26,17 +49,112 @@
                 profile="primary_profile_only"
                 title="@com.android.safetycenter.resources:string/lock_screen_title"
                 summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
-                searchTerms="@com.android.safetycenter.resources:string/lock_screen_search_terms"
+                searchTerms="@com.android.safetycenter.resources:string/google_lock_screen_search_terms"
                 initialDisplayState="disabled"
-                notificationsAllowed="true"/>
+                notificationsAllowed="true"
+                maxSeverityLevel="300"/>
             <dynamic-safety-source
                 id="AndroidBiometrics"
                 packageName="com.android.settings"
                 profile="all_profiles"
                 title="@com.android.safetycenter.resources:string/biometrics_title"
                 titleForWork="@com.android.safetycenter.resources:string/biometrics_title_for_work"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
                 searchTerms="@com.android.safetycenter.resources:string/biometrics_search_terms"
+                initialDisplayState="hidden"
+                maxSeverityLevel="0"/>
+            <dynamic-safety-source
+                id="GoogleAutoLock"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                initialDisplayState="hidden"
+                maxSeverityLevel="0"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleAccountsSources"
+            title="@com.android.safetycenter.resources:string/google_accounts_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_accounts_sources_summary">
+            <dynamic-safety-source
+                id="GoogleSecurityCheckup"
+                packageName="com.google.android.gms"
+                profile="all_profiles"
+                intentAction="com.google.android.gms.accountsettings.action.SAFETY_CENTER_SECURITY_CHECKUP"
+                title="@com.android.safetycenter.resources:string/google_security_checkup_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_security_checkup_title_for_work"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                searchTerms="@com.android.safetycenter.resources:string/google_security_checkup_search_terms"
+                deduplicationGroup="AccountRequired"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                refreshOnPageOpenAllowed="true"/>
+            <dynamic-safety-source
+                id="GooglePasswordCheckup"
+                packageName="com.google.android.gms"
+                profile="all_profiles"
+                title="@com.android.safetycenter.resources:string/google_password_checkup_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_password_checkup_title_for_work"
+                searchTerms="@com.android.safetycenter.resources:string/google_password_checkup_search_terms"
+                initialDisplayState="hidden"
+                notificationsAllowed="true"
+                deduplicationGroup="AccountRequired"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                refreshOnPageOpenAllowed="false"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleDeviceFinderSources"
+            title="@com.android.safetycenter.resources:string/google_device_finder_sources_title"
+            summary="@com.android.safetycenter.resources:string/google_device_finder_sources_summary">
+            <dynamic-safety-source
+                id="GoogleFindMyDevice"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                intentAction="com.google.android.gms.settings.FIND_MY_DEVICE_SETTINGS"
+                title="@com.android.safetycenter.resources:string/google_find_my_device_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                notificationsAllowed="true"
+                deduplicationGroup="AccountRequired"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                searchTerms="@com.android.safetycenter.resources:string/google_find_my_device_search_terms"/>
+            <dynamic-safety-source
+                id="GoogleRogueTag"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
                 initialDisplayState="hidden"/>
+        </safety-sources-group>
+        <safety-sources-group
+            id="GoogleUpdateSources"
+            title="@com.android.safetycenter.resources:string/google_updates_title"
+            summary="@com.android.safetycenter.resources:string/google_updates_summary">
+            <dynamic-safety-source
+                id="GoogleSecurityUpdates"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                intentAction="@com.android.safetycenter.resources:string/google_security_updates_intent"
+                title="@com.android.safetycenter.resources:string/google_security_updates_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                notificationsAllowed="true"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                searchTerms="@com.android.safetycenter.resources:string/google_security_updates_search_terms"/>
+            <dynamic-safety-source
+                id="GooglePlaySystemUpdate"
+                packageName="com.android.vending"
+                profile="primary_profile_only"
+                intentAction="android.settings.MODULE_UPDATE_SETTINGS"
+                title="@com.android.safetycenter.resources:string/google_play_system_update_title"
+                summary="@com.android.safetycenter.resources:string/lock_screen_summary_disabled"
+                notificationsAllowed="true"
+                deduplicationGroup="AccountRequired"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                searchTerms="@com.android.safetycenter.resources:string/google_play_system_update_search_terms"/>
+            <dynamic-safety-source
+                id="GoogleBackupAndRestore"
+                packageName="com.google.android.gms"
+                profile="primary_profile_only"
+                initialDisplayState="hidden"
+                title="@com.android.safetycenter.resources:string/google_backup_title"
+                packageCertificateHashes="1975b2f17177bc89a5dff31f9e64a6cae281a53dc1d1d59b1d147fe1c82afa00,f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83,d22cc500299fb22873a01a010de1c82fbe4d061119b94814dd301dab50cb7678,7ce83c1b71f3d572fed04c8d40c5cb10ff75e6d87d9df6fbd53f0468c2905053,5f2391277b1dbd489000467e4c2fa6af802430080457dce2f618992e9dfb5402,8fd4a0e7b8eb7c726d2dac79445b2c7931f62b7eb692f5044bdcfdfaad070a36"
+                searchTerms="@com.android.safetycenter.resources:string/google_backup_search_terms"/>
         </safety-sources-group>
         <safety-sources-group
             id="AndroidPrivacySources"
@@ -57,6 +175,15 @@
                 title="@com.android.safetycenter.resources:string/permission_usage_title"
                 summary="@com.android.safetycenter.resources:string/permission_usage_summary"
                 searchTerms="@com.android.safetycenter.resources:string/permission_usage_search_terms"/>
+            <static-safety-source
+                id="GoogleAdsIdentity"
+                profile="all_profiles"
+                packageName="com.google.android.gms"
+                intentAction="com.google.android.gms.adsidentity.ACTION_ADS_IDENTITY_SETTINGS"
+                title="@com.android.safetycenter.resources:string/google_ads_identity_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_ads_identity_title_for_work"
+                summary="@com.android.safetycenter.resources:string/google_ads_identity_summary"
+                searchTerms="@com.android.safetycenter.resources:string/google_ads_identity_search_terms"/>
             <dynamic-safety-source
                 id="AndroidHealthConnect"
                 profile="primary_profile_only"
@@ -80,6 +207,15 @@
                 title="@com.android.safetycenter.resources:string/privacy_controls_title"
                 summary="@com.android.safetycenter.resources:string/privacy_controls_summary"
                 searchTerms="@com.android.safetycenter.resources:string/privacy_controls_search_terms"/>
+            <static-safety-source
+                id="GoogleActivityControls"
+                profile="all_profiles"
+                packageName="com.google.android.gms"
+                intentAction="com.google.android.gms.accountsettings.action.ACTIVITY_CONTROLS"
+                title="@com.android.safetycenter.resources:string/google_activity_controls_title"
+                titleForWork="@com.android.safetycenter.resources:string/google_activity_controls_title_for_work"
+                summary="@com.android.safetycenter.resources:string/google_activity_controls_summary"
+                searchTerms="@com.android.safetycenter.resources:string/google_activity_controls_search_terms"/>
             <issue-only-safety-source
                 id="AndroidAccessibility"
                 packageName="com.android.permissioncontroller"

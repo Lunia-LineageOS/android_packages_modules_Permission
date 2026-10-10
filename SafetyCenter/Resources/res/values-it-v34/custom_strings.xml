@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">"L'Account Google è protetto"</string>
+    <string name="google_accounts_sources_title">"Sicurezza dell'account"</string>
+    <string name="google_activity_controls_search_terms">Attività, Gestione attività</string>
+    <string name="google_activity_controls_summary">Scegli le attività e le informazioni che Google può salvare</string>
+    <string name="google_activity_controls_title">Gestione attività</string>
+    <string name="google_activity_controls_title_for_work">Gestione attività per il lavoro</string>
+    <string name="google_ads_identity_search_terms">annunci, privacy per gli annunci, privacy sandbox, argomenti degli annunci, annunci suggeriti dalle app, misurazione degli annunci</string>
+    <string name="google_ads_identity_summary">Gestisci i dati del dispositivo usati per mostrarti annunci</string>
+    <string name="google_ads_identity_title">Annunci</string>
+    <string name="google_ads_identity_title_for_work">Annunci per il lavoro</string>
+    <string name="google_backup_search_terms">Backup</string>
+    <string name="google_backup_title">Backup</string>
+    <string name="google_password_checkup_title">Controllo password</string>
+    <string name="google_password_checkup_title_for_work">Controllo password per il lavoro</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect per il lavoro</string>
+    <string name="google_updates_summary">Aggiornamenti</string>
+    <string name="google_updates_title">Sistema e aggiornamenti</string>
+</resources>

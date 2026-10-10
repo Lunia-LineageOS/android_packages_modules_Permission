@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Vaš račun je zaščiten.</string>
+    <string name="google_accounts_sources_title">Googlov varnostni pregled</string>
+    <string name="google_app_security_sources_summary">Pregledovanje s storitvijo Play Protect je vklopljeno.</string>
+    <string name="google_app_security_sources_title">Varnost aplikacij</string>
+    <string name="google_device_finder_sources_summary">Ni opozoril.</string>
+    <string name="google_device_finder_sources_title">Orodja za iskanje naprave</string>
+    <string name="google_find_my_device_search_terms">Središče za iskanje, iskanje naprav, Poišči mojo napravo, izgubljena naprava</string>
+    <string name="google_find_my_device_title">Središče za iskanje</string>
+    <string name="google_lock_screen_search_terms">zaklepanje naprave, zaklepanje zaslona, zaklenjen zaslon, geslo, koda PIN, vzorec, zaklepanje, odklepanje</string>
+    <string name="google_play_protect_search_terms">varnost aplikacij, Play Protect, Google Play Protect, varnost aplikacije</string>
+    <string name="google_play_protect_title">Varnost aplikacij</string>
+    <string name="google_play_protect_title_for_work">Varnost aplikacij za službo</string>
+    <string name="google_play_system_update_search_terms">posodobitve, posodobitev, posodobitev sistema, posodobitve sistema, posodobitev sistema prek Googla Play, posodobitev sistema prek storitve Play</string>
+    <string name="google_play_system_update_title">Posodobitev sistema prek Googla Play</string>
+    <string name="google_security_checkup_search_terms">Googlov varnostni pregled, Googlova varnost, varnostni pregled, varnost računa, varnost računa Google, račun Google</string>
+    <string name="google_security_checkup_title">Googlov varnostni pregled</string>
+    <string name="google_security_checkup_title_for_work">Googlov varnostni pregled za delo</string>
+    <string name="google_security_updates_search_terms">posodobitve, posodobitev, varnostna posodobitev, varnostne posodobitve</string>
+    <string name="google_security_updates_title">Varnostna posodobitev</string>
+    <string name="google_updates_summary">Naprava je posodobljena.</string>
+    <string name="google_updates_title">Posodobitve</string>
+</resources>

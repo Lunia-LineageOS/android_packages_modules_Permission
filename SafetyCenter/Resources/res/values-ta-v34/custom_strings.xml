@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google கணக்கு பாதுகாக்கப்பட்டுள்ளது</string>
+    <string name="google_accounts_sources_title">கணக்குப் பாதுகாப்பு</string>
+    <string name="google_activity_controls_search_terms">செயல்பாடு, செயல்பாட்டுக் கட்டுப்பாடுகள்</string>
+    <string name="google_activity_controls_summary">Googleளில் சேமிக்க நீங்கள் அனுமதிக்கும் செயல்பாடுகளையும் தகவல்களையும் தேர்வுசெய்யவும்</string>
+    <string name="google_activity_controls_title">செயல்பாட்டுக் கட்டுப்பாடுகள்</string>
+    <string name="google_activity_controls_title_for_work">பணிக்கான செயல்பாட்டுக் கட்டுப்பாடுகள்</string>
+    <string name="google_ads_identity_search_terms">விளம்பரங்கள், விளம்பரங்கள் தொடர்பான தனியுரிமை, தனியுரிமை சாண்ட்பாக்ஸ், விளம்பரத் தலைப்புகள், ஆப்ஸால் பரிந்துரைக்கப்படும் விளம்பரங்கள், விளம்பரம் தொடர்பான அளவீடு</string>
+    <string name="google_ads_identity_summary">விளம்பரங்களைக் காட்டுவதற்குப் பயன்படுத்தப்படும் சாதனத் தரவை நிர்வகிக்கலாம்</string>
+    <string name="google_ads_identity_title">விளம்பரங்கள்</string>
+    <string name="google_ads_identity_title_for_work">பணிக்கான விளம்பரங்கள்</string>
+    <string name="google_backup_search_terms">காப்புப் பிரதி</string>
+    <string name="google_backup_title">காப்புப் பிரதி எடுத்தல்</string>
+    <string name="google_password_checkup_title">கடவுச்சொல் சரிபார்ப்பு</string>
+    <string name="google_password_checkup_title_for_work">பணிக் கணக்கிற்கான கடவுச்சொல் சரிபார்ப்பு</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">பணிக்கான Google Play Protect</string>
+    <string name="google_updates_summary">புதுப்பிப்புகள்</string>
+    <string name="google_updates_title">சிஸ்டம் &amp; புதுப்பிப்புகள்</string>
+</resources>

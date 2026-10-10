@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Таны бүртгэлийг хамгаалсан байна</string>
+    <string name="google_accounts_sources_title">Google-н Аюулгүй байдлын шалгалт</string>
+    <string name="google_app_security_sources_summary">Play Хамгаалалтын скан асаалттай байна</string>
+    <string name="google_app_security_sources_title">Аппын аюулгүй байдал</string>
+    <string name="google_device_finder_sources_summary">Сэрэмжлүүлэг байхгүй</string>
+    <string name="google_device_finder_sources_title">Төхөөрөмж ологч</string>
+    <string name="google_find_my_device_search_terms">Find hub, Төхөөрөмж олох, Миний төхөөрөмжийг олох, Гээсэн төхөөрөмж</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Төхөөрөмжийн түгжээ, Дэлгэцийн түгжээ, Түгжигдсэн дэлгэц, Түгжигдсэн дэлгэц, Нууц үг, Тэмдэг, Хээ, Түгжих, Түгжээг тайлах</string>
+    <string name="google_play_protect_search_terms">Аппын аюулгүй байдал, Play Хамгаалалт, Google Play Хамгаалалт, Аппын аюулгүй байдал</string>
+    <string name="google_play_protect_title">Аппын аюулгүй байдал</string>
+    <string name="google_play_protect_title_for_work">Ажилд зориулсан аппын аюулгүй байдал</string>
+    <string name="google_play_system_update_search_terms">Шинэчлэлтүүд, Шинэчлэлт, Систем шинэчлэлт, Системийн шинэчлэлтүүд, Google Play-н систем шинэчлэлт, Play-н систем шинэчлэлт</string>
+    <string name="google_play_system_update_title">Google Play-н систем шинэчлэлт</string>
+    <string name="google_security_checkup_search_terms">Google-н аюулгүй байдлын шалгалт, Google-н Аюулгүй байдал , Аюулгүй байдлын шалгалт, Бүртгэлийн аюулгүй байдал, Google бүртгэлийн аюулгүй байдал, Google бүртгэл</string>
+    <string name="google_security_checkup_title">Google-н Аюулгүй байдлын шалгалт</string>
+    <string name="google_security_checkup_title_for_work">Ажилд зориулсан Google-н Аюулгүй байдлын шалгалт</string>
+    <string name="google_security_updates_search_terms">Шинэчлэлтүүд, Шинэчлэлт, Аюулгүй байдлын шинэчлэлт, Аюулгүй байдлын шинэчлэлтүүд</string>
+    <string name="google_security_updates_title">Аюулгүй байдлын шинэчлэлт</string>
+    <string name="google_updates_summary">Төхөөрөмж хамгийн шинэ байна</string>
+    <string name="google_updates_title">Шинэчлэлтүүд</string>
+</resources>

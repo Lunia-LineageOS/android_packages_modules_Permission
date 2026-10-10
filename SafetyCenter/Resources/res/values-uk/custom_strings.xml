@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ваш обліковий запис захищено</string>
+    <string name="google_accounts_sources_title">Перевірка безпеки Google</string>
+    <string name="google_app_security_sources_summary">Play Захист увімкнено</string>
+    <string name="google_app_security_sources_title">Безпека додатків</string>
+    <string name="google_device_finder_sources_summary">Без сповіщень</string>
+    <string name="google_device_finder_sources_title">Пошук пристроїв</string>
+    <string name="google_find_my_device_search_terms">Центр пошуку, пошук пристроїв, знайти пристрій, загублено пристрій</string>
+    <string name="google_find_my_device_title">Центр пошуку</string>
+    <string name="google_lock_screen_search_terms">блокування пристрою, блокування екрана, блокувати екран, заблокований екран, пароль, PIN-код, ключ, заблокувати, розблокувати</string>
+    <string name="google_play_protect_search_terms">безпека додатків, Play Захист, Google Play Захист, захист додатків</string>
+    <string name="google_play_protect_title">Безпека додатків</string>
+    <string name="google_play_protect_title_for_work">Безпека додатків для робочого профілю</string>
+    <string name="google_play_system_update_search_terms">оновлення, оновити, оновлення системи, оновлення системи Google Play, оновлення системи Play</string>
+    <string name="google_play_system_update_title">Оновлення системи Google Play</string>
+    <string name="google_security_checkup_search_terms">перевірка безпеки Google, безпека Google, перевірка безпеки, безпека облікового запису, безпека облікового запису Google, обліковий запис Google</string>
+    <string name="google_security_checkup_title">Перевірка безпеки Google</string>
+    <string name="google_security_checkup_title_for_work">Перевірка безпеки Google для роботи</string>
+    <string name="google_security_updates_search_terms">оновлення, оновити, оновлення безпеки, оновлення системи безпеки</string>
+    <string name="google_security_updates_title">Оновлення системи безпеки</string>
+    <string name="google_updates_summary">Пристрій оновлено</string>
+    <string name="google_updates_title">Оновлення</string>
+</resources>

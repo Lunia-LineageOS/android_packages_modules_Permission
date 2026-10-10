@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google Account is protected</string>
+    <string name="google_accounts_sources_title">Account security</string>
+    <string name="google_activity_controls_search_terms">Activity, Activity controls</string>
+    <string name="google_activity_controls_summary">Choose the activities and info that you allow Google to save</string>
+    <string name="google_activity_controls_title">Activity controls</string>
+    <string name="google_activity_controls_title_for_work">Activity controls for work</string>
+    <string name="google_ads_identity_search_terms">ads, ads privacy, privacy sandbox, ad topics, app-suggested ads, ads measurement</string>
+    <string name="google_ads_identity_summary">Manage device data used to show you ads</string>
+    <string name="google_ads_identity_title">Ads</string>
+    <string name="google_ads_identity_title_for_work">Ads for work</string>
+    <string name="google_backup_search_terms">Backup</string>
+    <string name="google_backup_title">Backup</string>
+    <string name="google_password_checkup_title">Password Checkup</string>
+    <string name="google_password_checkup_title_for_work">Password Checkup for work</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect for work</string>
+    <string name="google_updates_summary">Updates</string>
+    <string name="google_updates_title">System and updates</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Pinoprotektahan ang Google Account</string>
+    <string name="google_accounts_sources_title">Seguridad ng account</string>
+    <string name="google_activity_controls_search_terms">Aktibidad, Mga kontrol ng aktibidad</string>
+    <string name="google_activity_controls_summary">Piliin ang mga aktibidad at impormasyong pinapayagan mong i-save ng Google</string>
+    <string name="google_activity_controls_title">Mga kontrol ng aktibidad</string>
+    <string name="google_activity_controls_title_for_work">Mga kontrol ng aktibidad para sa trabaho</string>
+    <string name="google_ads_identity_search_terms">mga ad, privacy sa ad, privacy sandbox, mga paksa ng ad, mga ad na iminumungkahi ng app, pagsukat sa ad</string>
+    <string name="google_ads_identity_summary">Pamahalaan ang data ng device na ginagamit para magpakita sa iyo ng mga ad</string>
+    <string name="google_ads_identity_title">Mga Ad</string>
+    <string name="google_ads_identity_title_for_work">Mga ad para sa trabaho</string>
+    <string name="google_backup_search_terms">Backup</string>
+    <string name="google_backup_title">Backup</string>
+    <string name="google_password_checkup_title">Password Checkup</string>
+    <string name="google_password_checkup_title_for_work">Password Checkup para sa trabaho</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect para sa trabaho</string>
+    <string name="google_updates_summary">Mga Update</string>
+    <string name="google_updates_title">System at mga update</string>
+</resources>

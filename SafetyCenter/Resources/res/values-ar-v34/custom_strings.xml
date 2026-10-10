@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">‏حساب Google محمي</string>
+    <string name="google_accounts_sources_title">أمان الحساب</string>
+    <string name="google_activity_controls_search_terms">النشاط، عناصر التحكم في النشاط</string>
+    <string name="google_activity_controls_summary">‏اختيار الأنشطة والمعلومات التي بإمكان Google حفظها</string>
+    <string name="google_activity_controls_title">عناصر التحكّم في النشاط</string>
+    <string name="google_activity_controls_title_for_work">عناصر التحكّم في النشاط في ملف العمل</string>
+    <string name="google_ads_identity_search_terms">الإعلانات، الخصوصية في عرض الإعلانات، مبادرة حماية الخصوصية، مواضيع الإعلانات، الإعلانات المقترَحة من التطبيقات، قياس أداء الإعلانات</string>
+    <string name="google_ads_identity_summary">إدارة بيانات الجهاز المُستخدَمة لعرض الإعلانات لك</string>
+    <string name="google_ads_identity_title">الإعلانات</string>
+    <string name="google_ads_identity_title_for_work">الإعلانات في تطبيقات العمل</string>
+    <string name="google_backup_search_terms">الاحتفاظ بنسخة احتياطية</string>
+    <string name="google_backup_title">الاحتفاظ بنسخة احتياطية</string>
+    <string name="google_password_checkup_title">التحقّق من كلمات المرور</string>
+    <string name="google_password_checkup_title_for_work">التحقّق من كلمات المرور لتطبيقات العمل</string>
+    <string name="google_play_protect_title">‏Google Play للحماية</string>
+    <string name="google_play_protect_title_for_work">‏خدمة \"Google Play للحماية\" للأعمال</string>
+    <string name="google_updates_summary">التحديثات</string>
+    <string name="google_updates_title">النظام والتحديثات</string>
+</resources>

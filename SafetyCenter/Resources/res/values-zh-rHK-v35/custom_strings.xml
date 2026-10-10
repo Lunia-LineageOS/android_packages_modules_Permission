@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">私人空間的活動控制項</string>
+    <string name="google_ads_identity_title_for_private_profile">私人空間的廣告</string>
+    <string name="google_advanced_protection_summary">保護你的裝置和 Google 帳戶</string>
+    <string name="google_advanced_protection_title">進階保護功能</string>
+    <string name="google_password_checkup_title_for_private_profile">私人空間的密碼安全檢查</string>
+    <string name="google_play_protect_title_for_private_profile">私人空間的 Google Play Protect</string>
+    <string name="google_security_checkup_title_for_private_profile">私人空間的 Google 安全檢查</string>
+</resources>

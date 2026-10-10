@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google アカウントは保護されています</string>
+    <string name="google_accounts_sources_title">アカウントのセキュリティ</string>
+    <string name="google_activity_controls_search_terms">アクティビティ, アクティビティ管理</string>
+    <string name="google_activity_controls_summary">Google に保存を許可するアクティビティと情報を選択します</string>
+    <string name="google_activity_controls_title">アクティビティ管理</string>
+    <string name="google_activity_controls_title_for_work">仕事用のアクティビティ管理</string>
+    <string name="google_ads_identity_search_terms">広告, 広告のプライバシー, プライバシー サンドボックス, 広告 トピック, アプリによる広告の提案, 広告 測定</string>
+    <string name="google_ads_identity_summary">広告の表示に使用するデバイス上のデータを管理します</string>
+    <string name="google_ads_identity_title">広告</string>
+    <string name="google_ads_identity_title_for_work">広告（仕事用）</string>
+    <string name="google_backup_search_terms">バックアップ</string>
+    <string name="google_backup_title">バックアップ</string>
+    <string name="google_password_checkup_title">パスワード チェックアップ</string>
+    <string name="google_password_checkup_title_for_work">仕事用のパスワード チェックアップ</string>
+    <string name="google_play_protect_title">Google Play プロテクト</string>
+    <string name="google_play_protect_title_for_work">仕事用 Google Play プロテクト</string>
+    <string name="google_updates_summary">アップデート</string>
+    <string name="google_updates_title">システムとアップデート</string>
+</resources>

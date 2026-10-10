@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google-kontoen er beskyttet</string>
+    <string name="google_accounts_sources_title">Kontosikkerhet</string>
+    <string name="google_activity_controls_search_terms">Aktivitet, aktivitetslagring</string>
+    <string name="google_activity_controls_summary">Velg aktivitetene og informasjonen du tillater at Google lagrer</string>
+    <string name="google_activity_controls_title">Aktivitetslagring</string>
+    <string name="google_activity_controls_title_for_work">Aktivitetslagring for jobb</string>
+    <string name="google_ads_identity_search_terms">annonser, annonsepersonvern, Privacy Sandbox, annonseemner, annonser foreslått av apper, annonsemåling</string>
+    <string name="google_ads_identity_summary">Administrer enhetsdata som brukes til å vise deg annonser</string>
+    <string name="google_ads_identity_title">Annonser</string>
+    <string name="google_ads_identity_title_for_work">Annonser for jobb</string>
+    <string name="google_backup_search_terms">Sikkerhetskopi</string>
+    <string name="google_backup_title">Sikkerhetskopi</string>
+    <string name="google_password_checkup_title">Passordsjekk</string>
+    <string name="google_password_checkup_title_for_work">Passordsjekk for jobb</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect for jobb</string>
+    <string name="google_updates_summary">Oppdateringer</string>
+    <string name="google_updates_title">System og oppdateringer</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google खाते संरक्षित आहे</string>
+    <string name="google_accounts_sources_title">खाते सुरक्षा</string>
+    <string name="google_activity_controls_search_terms">अ‍ॅक्टिव्हिटी, अ‍ॅक्टिव्हिटी कंट्रोल</string>
+    <string name="google_activity_controls_summary">Google सेव्ह करू शकते अशा तुम्ही अनुमती दिलेल्या अ‍ॅक्टिव्हिटी आणि माहिती निवडा</string>
+    <string name="google_activity_controls_title">अ‍ॅक्टिव्हिटी कंट्रोल</string>
+    <string name="google_activity_controls_title_for_work">कार्य प्रोफाइलसाठी अ‍ॅक्टिव्हिटी कंट्रोल</string>
+    <string name="google_ads_identity_search_terms">जाहिराती, जाहिरातीसंबंधित गोपनीयता, प्रायव्हसी सॅंडबाॅक्स, जाहिरातीचे विषय, अ‍ॅपने सुचवलेल्या जाहिराती, जाहिरातीसंबंधित मापन</string>
+    <string name="google_ads_identity_summary">तुम्हाला जाहिराती दाखवण्यासाठी वापरलेला डिव्हाइस डेटा व्यवस्थापित करा</string>
+    <string name="google_ads_identity_title">जाहिराती</string>
+    <string name="google_ads_identity_title_for_work">कार्य प्रोफाइलसाठी जाहिराती</string>
+    <string name="google_backup_search_terms">बॅकअप</string>
+    <string name="google_backup_title">बॅकअप</string>
+    <string name="google_password_checkup_title">पासवर्ड तपासणी</string>
+    <string name="google_password_checkup_title_for_work">कामासाठी पासवर्ड तपासणी</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">ऑफिससाठी Google Play Protect</string>
+    <string name="google_updates_summary">अपडेट</string>
+    <string name="google_updates_title">सिस्टीम आणि अपडेट</string>
+</resources>

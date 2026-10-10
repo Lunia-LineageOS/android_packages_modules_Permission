@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">तपाईंको खाता सुरक्षित छ</string>
+    <string name="google_accounts_sources_title">Google को सुरक्षा जाँच</string>
+    <string name="google_app_security_sources_summary">Play Protect मार्फत स्क्यान गर्ने सुविधा अन छ</string>
+    <string name="google_app_security_sources_title">एपको सुरक्षा</string>
+    <string name="google_device_finder_sources_summary">अलर्टहरू छैनन्</string>
+    <string name="google_device_finder_sources_title">डिभाइस फाइन्डर</string>
+    <string name="google_find_my_device_search_terms">Find hub, डिभाइसहरू खोजिँदै छन्, Find my device, हराएको डिभाइस</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">डिभाइस लक, स्क्रिन लक, लक स्क्रिन, लक स्क्रिन, पासवर्ड, PIN, प्याटर्न, लक, अनलक</string>
+    <string name="google_play_protect_search_terms">एपको सुरक्षा, Play Protect, Google Play Protect, एपको सुरक्षा</string>
+    <string name="google_play_protect_title">एपको सुरक्षा</string>
+    <string name="google_play_protect_title_for_work">कामसम्बन्धी एपको सुरक्षा</string>
+    <string name="google_play_system_update_search_terms">अपडेटहरू, अपडेट, सिस्टम अपडेट, सिस्टम अपडेटहरू, Google Play को सिस्टम अपडेट, Play को सिस्टम अपडेट</string>
+    <string name="google_play_system_update_title">Google Play को सिस्टम अपडेट</string>
+    <string name="google_security_checkup_search_terms">Google को सुरक्षा जाँच, Google सुरक्षा, सुरक्षा जाँच, खाताको सुरक्षा, Google खाताको सुरक्षा, Google खाता</string>
+    <string name="google_security_checkup_title">Google को सुरक्षा जाँच</string>
+    <string name="google_security_checkup_title_for_work">वर्क प्रोफाइलका लागि Google को सुरक्षा जाँच</string>
+    <string name="google_security_updates_search_terms">अपडेटहरू, अपडेट, सुरक्षासम्बन्धी अपडेट, सुरक्षासम्बन्धी अपडेटहरू</string>
+    <string name="google_security_updates_title">सुरक्षासम्बन्धी अपडेट</string>
+    <string name="google_updates_summary">डिभाइस अपडेटेड छ</string>
+    <string name="google_updates_title">अपडेटहरू</string>
+</resources>

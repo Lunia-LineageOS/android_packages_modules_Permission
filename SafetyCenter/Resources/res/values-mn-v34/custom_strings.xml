@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google Бүртгэл хамгаалагдсан</string>
+    <string name="google_accounts_sources_title">Бүртгэлийн аюулгүй байдал</string>
+    <string name="google_activity_controls_search_terms">Үйл ажиллагаа, үйл ажиллагааны хяналт</string>
+    <string name="google_activity_controls_summary">Та Google-д хадгалахыг зөвшөөрөх үйл ажиллагаа, мэдээллээ сонгоно уу</string>
+    <string name="google_activity_controls_title">Үйл ажиллагааны хяналт</string>
+    <string name="google_activity_controls_title_for_work">Ажлын үйл ажиллагааны хяналт</string>
+    <string name="google_ads_identity_search_terms">зар, зарын нууцлал, privacy sandbox, зарын сэдэв, аппын санал болгосон зар, зарын хэмжилт</string>
+    <string name="google_ads_identity_summary">Танд зар харуулахад ашигладаг төхөөрөмжийн өгөгдлийг удирдах</string>
+    <string name="google_ads_identity_title">Зар</string>
+    <string name="google_ads_identity_title_for_work">Ажилд зориулсан зар</string>
+    <string name="google_backup_search_terms">Нөөцлөх</string>
+    <string name="google_backup_title">Нөөцлөх</string>
+    <string name="google_password_checkup_title">Нууц үгний хяналт</string>
+    <string name="google_password_checkup_title_for_work">Ажлын Нууц үгний хяналт</string>
+    <string name="google_play_protect_title">Google Play Хамгаалалт</string>
+    <string name="google_play_protect_title_for_work">Ажилд зориулсан Google Play Хамгаалалт</string>
+    <string name="google_updates_summary">Шинэчлэлтүүд</string>
+    <string name="google_updates_title">Систем ба шинэчлэлтүүд</string>
+</resources>

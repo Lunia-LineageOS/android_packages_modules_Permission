@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google-ko kontua babestuta dago</string>
+    <string name="google_accounts_sources_title">Kontuaren segurtasuna</string>
+    <string name="google_activity_controls_search_terms">jarduerak, jarduerak kontrolatzeko aukerak</string>
+    <string name="google_activity_controls_summary">Aukeratu Google-k gorde ahalko dituen jarduerak eta informazioa</string>
+    <string name="google_activity_controls_title">Jarduerak kontrolatzeko aukerak</string>
+    <string name="google_activity_controls_title_for_work">Laneko jarduerak kontrolatzeko aukerak</string>
+    <string name="google_ads_identity_search_terms">iragarkiak, iragarkien pribatutasuna, privacy sandbox-a, iragarkien gaiak, aplikazioek iradokitako iragarkiak, iragarkien neurketa</string>
+    <string name="google_ads_identity_summary">Kudeatu iragarkiak erakusteko erabiltzen diren gailuko datuak</string>
+    <string name="google_ads_identity_title">Iragarkiak</string>
+    <string name="google_ads_identity_title_for_work">Lanerako iragarkiak</string>
+    <string name="google_backup_search_terms">Babeskopiak</string>
+    <string name="google_backup_title">Babeskopiak</string>
+    <string name="google_password_checkup_title">Pasahitz-egiaztapena</string>
+    <string name="google_password_checkup_title_for_work">Laneko Pasahitz-egiaztapena</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Lanerako Google Play Protect</string>
+    <string name="google_updates_summary">Berritasunak</string>
+    <string name="google_updates_title">Sistema eta eguneratzeak</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Din konto er beskyttet</string>
+    <string name="google_accounts_sources_title">Google Sikkerheds­tjek</string>
+    <string name="google_app_security_sources_summary">Play Protect-scanning er aktiveret</string>
+    <string name="google_app_security_sources_title">Appsikkerhed</string>
+    <string name="google_device_finder_sources_summary">Der er ingen underretninger</string>
+    <string name="google_device_finder_sources_title">Søgning efter enheder</string>
+    <string name="google_find_my_device_search_terms">Find Hub, registrering af enheder, Find min enhed, mistet enhed</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Enhedslås, skærmlås, låseskærm, adgangskode, pinkode, mønster, lås, oplåsning</string>
+    <string name="google_play_protect_search_terms">Appsikkerhed, Play Protect, Google Play Protect, appbeskyttelse</string>
+    <string name="google_play_protect_title">App­sikkerhed</string>
+    <string name="google_play_protect_title_for_work">Appsikkerhed på arbejdsprofil</string>
+    <string name="google_play_system_update_search_terms">Opdateringer, opdatering, systemopdatering, systemopdateringer, systemopdatering til Google Play, systemopdatering til Play</string>
+    <string name="google_play_system_update_title">System­opdatering til Google Play</string>
+    <string name="google_security_checkup_search_terms">Google Sikkerhedstjek, Google-sikkerhed, Sikkerhedstjek, kontosikkerhed, Google-kontosikkerhed, Google-konto</string>
+    <string name="google_security_checkup_title">Google Sikkerheds­tjek</string>
+    <string name="google_security_checkup_title_for_work">Google Sikkerhedstjek til arbejdsprofil</string>
+    <string name="google_security_updates_search_terms">Opdateringer, opdatering, sikkerhedsopdatering, sikkerhedsopdateringer</string>
+    <string name="google_security_updates_title">Sikkerheds­opdatering</string>
+    <string name="google_updates_summary">Enheden er opdateret</string>
+    <string name="google_updates_title">Opdateringer</string>
+</resources>

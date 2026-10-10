@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Tài khoản Google được bảo vệ</string>
+    <string name="google_accounts_sources_title">Bảo mật tài khoản</string>
+    <string name="google_activity_controls_search_terms">Hoạt động, Kiểm soát hoạt động</string>
+    <string name="google_activity_controls_summary">Chọn những hoạt động và thông tin bạn cho phép Google lưu</string>
+    <string name="google_activity_controls_title">Kiểm soát hoạt động</string>
+    <string name="google_activity_controls_title_for_work">Kiểm soát hoạt động dành cho công việc</string>
+    <string name="google_ads_identity_search_terms">quảng cáo, quyền riêng tư trong quảng cáo, hộp cát về quyền riêng tư, chủ đề quảng cáo, quảng cáo do ứng dụng gợi ý, đo lường quảng cáo</string>
+    <string name="google_ads_identity_summary">Quản lý dữ liệu thiết bị được dùng để hiển thị quảng cáo mà bạn sẽ nhìn thấy</string>
+    <string name="google_ads_identity_title">Quảng cáo</string>
+    <string name="google_ads_identity_title_for_work">Quảng cáo cho công việc</string>
+    <string name="google_backup_search_terms">Sao lưu</string>
+    <string name="google_backup_title">Sao lưu</string>
+    <string name="google_password_checkup_title">Kiểm tra mật khẩu</string>
+    <string name="google_password_checkup_title_for_work">Tính năng Kiểm tra mật khẩu dành cho công việc</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect dành cho công việc</string>
+    <string name="google_updates_summary">Bản cập nhật</string>
+    <string name="google_updates_title">Hệ thống và bản cập nhật</string>
+</resources>

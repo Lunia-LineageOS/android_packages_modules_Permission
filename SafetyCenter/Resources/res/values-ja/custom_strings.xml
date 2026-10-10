@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">お使いのアカウントは保護されています</string>
+    <string name="google_accounts_sources_title">Google セキュリティ診断</string>
+    <string name="google_app_security_sources_summary">Play プロテクトによるスキャンは ON です</string>
+    <string name="google_app_security_sources_title">アプリのセキュリティ</string>
+    <string name="google_device_finder_sources_summary">アラートなし</string>
+    <string name="google_device_finder_sources_title">デバイスの探索</string>
+    <string name="google_find_my_device_search_terms">Find Hub, デバイスの検出, デバイスを探す, 紛失したデバイス</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">デバイスのロック, 画面ロック, ロック画面, ロック スクリーン, パスワード, PIN, パターン, ロック, ロック解除</string>
+    <string name="google_play_protect_search_terms">アプリのセキュリティ, Play プロテクト, Google Play プロテクト, アプリの安全性</string>
+    <string name="google_play_protect_title">アプリのセキュリティ</string>
+    <string name="google_play_protect_title_for_work">仕事用アプリのセキュリティ</string>
+    <string name="google_play_system_update_search_terms">更新, アップデート, システムの更新, システム アップデート, Google Play システム アップデート, Play システム アップデート</string>
+    <string name="google_play_system_update_title">Google Play システム アップデート</string>
+    <string name="google_security_checkup_search_terms">Google セキュリティ診断, Google セキュリティ, セキュリティ診断, アカウントのセキュリティ, Google アカウントのセキュリティ, Google アカウント</string>
+    <string name="google_security_checkup_title">Google セキュリティ診断</string>
+    <string name="google_security_checkup_title_for_work">仕事用プロファイルの Google セキュリティ診断</string>
+    <string name="google_security_updates_search_terms">更新, アップデート, セキュリティの更新, セキュリティ アップデート</string>
+    <string name="google_security_updates_title">セキュリティ アップデート</string>
+    <string name="google_updates_summary">お使いのデバイスは最新の状態です</string>
+    <string name="google_updates_title">アップデート</string>
+</resources>

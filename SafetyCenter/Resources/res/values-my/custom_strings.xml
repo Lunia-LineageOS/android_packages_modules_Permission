@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">သင့်အကောင့်ကို ကာကွယ်ထားသည်</string>
+    <string name="google_accounts_sources_title">Google လုံခြုံရေးစစ်ဆေးမှု</string>
+    <string name="google_app_security_sources_summary">Play Protect စကင်ဖတ်ခြင်းကို ဖွင့်ထားသည်</string>
+    <string name="google_app_security_sources_title">အက်ပ်လုံခြုံရေး</string>
+    <string name="google_device_finder_sources_summary">သတိပေးချက် မရှိပါ</string>
+    <string name="google_device_finder_sources_title">စက် ရှာဖွေရေးစနစ်များ</string>
+    <string name="google_find_my_device_search_terms">Find Hub၊ စက်ပစ္စည်းများ ရှာခြင်း၊ Find My Device၊ စက်ပစ္စည်း ပျောက်ဆုံးခြင်း</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">စက်လော့ခ်ချခြင်း၊ ဖန်သားပြင်လော့ခ်၊ လော့ခ် မျက်နှာပြင်၊ လော့ခ်မျက်နှာပြင်၊ စကားဝှက်၊ ပင်၊ ပုံစံ၊ လော့ခ်ချခြင်း၊ လော့ခ်ဖွင့်ခြင်း</string>
+    <string name="google_play_protect_search_terms">အက်ပ်လုံခြုံရေး၊ Play Protect၊ Google Play Protect၊ အက်ပ်လုံခြုံမှု</string>
+    <string name="google_play_protect_title">အက်ပ်လုံခြုံရေး</string>
+    <string name="google_play_protect_title_for_work">အလုပ်အတွက် အက်ပ်လုံခြုံရေး</string>
+    <string name="google_play_system_update_search_terms">အပ်ဒိတ်များ၊ အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်များ၊ Google play စနစ်အပ်ဒိတ်၊ Play စနစ်အပ်ဒိတ်</string>
+    <string name="google_play_system_update_title">Google Play စနစ် အပ်ဒိတ်လုပ်ခြင်း</string>
+    <string name="google_security_checkup_search_terms">Google လုံခြုံရေးစစ်ဆေးမှု၊ Google လုံခြုံရေး၊ လုံခြုံရေးစစ်ဆေးမှု၊ အကောင့်လုံခြုံရေး၊ Google အကောင့်လုံခြုံရေး၊ Google အကောင့်</string>
+    <string name="google_security_checkup_title">Google လုံခြုံရေးစစ်ဆေးမှု</string>
+    <string name="google_security_checkup_title_for_work">အလုပ်အတွက် Google လုံခြုံရေးစစ်ဆေးမှု</string>
+    <string name="google_security_updates_search_terms">အပ်ဒိတ်များ၊ အပ်ဒိတ်၊ လုံခြုံရေးအပ်ဒိတ်၊ လုံခြုံရေးအပ်ဒိတ်များ</string>
+    <string name="google_security_updates_title">လုံခြုံရေးအပ်ဒိတ်</string>
+    <string name="google_updates_summary">စက်က အပ်ဒိတ်ဖြစ်ပါသည်</string>
+    <string name="google_updates_title">အပ်ဒိတ်များ</string>
+</resources>

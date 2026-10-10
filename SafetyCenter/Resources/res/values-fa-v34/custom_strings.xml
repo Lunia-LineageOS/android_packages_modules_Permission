@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">‏از «حساب Google» محافظت می‌شود</string>
+    <string name="google_accounts_sources_title">امنیت حساب</string>
+    <string name="google_activity_controls_search_terms">فعالیت، کنترل‌های فعالیت</string>
+    <string name="google_activity_controls_summary">‏فعالیت‌ها و اطلاعاتی را که اجازه می‌دهید Google ذخیره کند انتخاب کنید</string>
+    <string name="google_activity_controls_title">کنترل‌های فعالیت</string>
+    <string name="google_activity_controls_title_for_work">کنترل‌های فعالیت ویژه کار</string>
+    <string name="google_ads_identity_search_terms">آگهی‌ها، حریم خصوصی آگهی، جعبه امن حریم خصوصی، موضوع آگهی‌ها، آگهی‌های پیشنهادی برنامه، سنجش آگهی</string>
+    <string name="google_ads_identity_summary">مدیریت داده‌های دستگاه مورداستفاده برای نمایش آگهی به شما</string>
+    <string name="google_ads_identity_title">آگهی‌ها</string>
+    <string name="google_ads_identity_title_for_work">آگهی‌های کاری</string>
+    <string name="google_backup_search_terms">پشتیبان‌گیری</string>
+    <string name="google_backup_title">پشتیبان‌گیری</string>
+    <string name="google_password_checkup_title">بازرسی گذرواژه</string>
+    <string name="google_password_checkup_title_for_work">«بازرسی گذرواژه» برای کار</string>
+    <string name="google_play_protect_title">‏سپر ایمنی Google Play</string>
+    <string name="google_play_protect_title_for_work">‏«سپر ایمنی Google Play» برای کار</string>
+    <string name="google_updates_summary">به‌روزرسانی‌ها</string>
+    <string name="google_updates_title">سیستم و به‌روزرسانی‌ها</string>
+</resources>

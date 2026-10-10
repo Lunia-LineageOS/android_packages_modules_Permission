@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google 계정이 보호됨</string>
+    <string name="google_accounts_sources_title">계정 보안</string>
+    <string name="google_activity_controls_search_terms">활동, 활동 제어</string>
+    <string name="google_activity_controls_summary">Google에 저장할 활동 및 정보 선택</string>
+    <string name="google_activity_controls_title">활동 제어</string>
+    <string name="google_activity_controls_title_for_work">직장용 활동 제어</string>
+    <string name="google_ads_identity_search_terms">광고, 광고 개인 정보 보호, 개인 정보 보호 샌드박스, 광고 주제, 앱 추천 광고, 광고 측정</string>
+    <string name="google_ads_identity_summary">광고를 표시하기 위해 사용되는 기기 데이터 관리</string>
+    <string name="google_ads_identity_title">광고</string>
+    <string name="google_ads_identity_title_for_work">직장 프로필용 광고</string>
+    <string name="google_backup_search_terms">백업</string>
+    <string name="google_backup_title">백업</string>
+    <string name="google_password_checkup_title">비밀번호 진단</string>
+    <string name="google_password_checkup_title_for_work">직장용 비밀번호 진단</string>
+    <string name="google_play_protect_title">Google Play 프로텍트</string>
+    <string name="google_play_protect_title_for_work">직장용 Google Play 프로텍트</string>
+    <string name="google_updates_summary">업데이트</string>
+    <string name="google_updates_title">시스템 및 업데이트</string>
+</resources>

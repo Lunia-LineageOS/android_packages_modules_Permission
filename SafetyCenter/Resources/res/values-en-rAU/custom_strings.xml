@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Your account is protected</string>
+    <string name="google_accounts_sources_title">Google Security Check-Up</string>
+    <string name="google_app_security_sources_summary">Play Protect scanning is on</string>
+    <string name="google_app_security_sources_title">App security</string>
+    <string name="google_device_finder_sources_summary">No alerts</string>
+    <string name="google_device_finder_sources_title">Device finders</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Finding devices, Find My Device, Lost device</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Device lock, screen lock, lock screen, lockscreen, password, pin, pattern, lock, unlock</string>
+    <string name="google_play_protect_search_terms">App security, Play Protect, Google Play Protect, app safety</string>
+    <string name="google_play_protect_title">App security</string>
+    <string name="google_play_protect_title_for_work">App security for work</string>
+    <string name="google_play_system_update_search_terms">Updates, Update, System update, System updates, Google play system update, Play system update</string>
+    <string name="google_play_system_update_title">Google Play system update</string>
+    <string name="google_security_checkup_search_terms">Google security checkup, Google Security, Security checkup, Account security, Google account security, Google account</string>
+    <string name="google_security_checkup_title">Google Security Check-Up</string>
+    <string name="google_security_checkup_title_for_work">Google Security Check-Up for work</string>
+    <string name="google_security_updates_search_terms">Updates, Update, Security update, Security updates</string>
+    <string name="google_security_updates_title">Security update</string>
+    <string name="google_updates_summary">Device is up to date</string>
+    <string name="google_updates_title">Updates</string>
+</resources>

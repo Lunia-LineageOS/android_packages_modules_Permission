@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Hesabınız qorunur</string>
+    <string name="google_accounts_sources_title">Google Təhlükəsizlik Yoxlanışı</string>
+    <string name="google_app_security_sources_summary">Play Protect skanlaması aktivdir</string>
+    <string name="google_app_security_sources_title">Tətbiq güvənliyi</string>
+    <string name="google_device_finder_sources_summary">Siqnal yoxdur</string>
+    <string name="google_device_finder_sources_title">Cihaz axtaranlar</string>
+    <string name="google_find_my_device_search_terms">Cihazın tapılması, Cihazların tapılması, Cihazımı tap, İtirilmiş cihaz</string>
+    <string name="google_find_my_device_title">Cihazın tapılması</string>
+    <string name="google_lock_screen_search_terms">Cihaz kilidi, Ekran kilidi, Kilid ekranı, Kilid ekranı, Parol, Pin, Model, Kilid, Kiliddən Çıxarma</string>
+    <string name="google_play_protect_search_terms">Tətbiq güvənliyi, Play Protect, Google Play Protect, Tətbiq təhlükəsizliyi</string>
+    <string name="google_play_protect_title">Tətbiq güvənliyi</string>
+    <string name="google_play_protect_title_for_work">İş üçün tətbiq güvənliyi</string>
+    <string name="google_play_system_update_search_terms">Güncəlləmələr, Güncəlləmə, Sistem güncəlləməsi, Sistem güncəlləmələri, Google Play sistem güncəlləməsi, Play sistem güncəlləməsi</string>
+    <string name="google_play_system_update_title">Google Play sistem güncəlləməsi</string>
+    <string name="google_security_checkup_search_terms">Google təhlükəsizlik yoxlanışı, Google Təhlükəsizliyi, Təhlükəsizlik yoxlanışı, Hesab təhlükəsizliyi, Google hesabının təhlükəsizliyi, Google hesabı</string>
+    <string name="google_security_checkup_title">Google Təhlükəsizlik Yoxlanışı</string>
+    <string name="google_security_checkup_title_for_work">İş üçün Google Təhlükəsizlik Yoxlanışı</string>
+    <string name="google_security_updates_search_terms">Güncəlləmələr, Güncəlləmə, Güvənlik güncəlləməsi, Güvənlik güncəlləmələri</string>
+    <string name="google_security_updates_title">Güvənlik güncəlləməsi</string>
+    <string name="google_updates_summary">Cihaz güncəldir</string>
+    <string name="google_updates_title">Güncəlləmələr</string>
+</resources>

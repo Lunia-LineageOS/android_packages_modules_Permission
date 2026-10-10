@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_activity_controls_title_for_private_profile">Kontrollet e aktivitetit për hapësirën private</string>
+    <string name="google_ads_identity_title_for_private_profile">Reklamat për hapësirën private</string>
+    <string name="google_advanced_protection_summary">Mbrojtja për pajisjen dhe \"Llogarinë tënde të Google\"</string>
+    <string name="google_advanced_protection_title">Mbrojtja e përparuar</string>
+    <string name="google_password_checkup_title_for_private_profile">\"Kontrolli i fjalëkalimit\" për hapësirën private</string>
+    <string name="google_play_protect_title_for_private_profile">Google Play Protect për hapësirën private</string>
+    <string name="google_security_checkup_title_for_private_profile">\"Kontrolli i sigurisë i Google\" për hapësirën private</string>
+</resources>

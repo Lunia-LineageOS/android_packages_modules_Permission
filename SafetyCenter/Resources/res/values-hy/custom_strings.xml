@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Ձեր հաշիվը պաշտպանված է</string>
+    <string name="google_accounts_sources_title">Google Անվտանգության ստուգում</string>
+    <string name="google_app_security_sources_summary">Play Protect-ի ստուգումը միացված է</string>
+    <string name="google_app_security_sources_title">Հավելվածների անվտանգություն</string>
+    <string name="google_device_finder_sources_summary">Ծանուցումներ չկան</string>
+    <string name="google_device_finder_sources_title">Կորած սարքի որոնում</string>
+    <string name="google_find_my_device_search_terms">Find Hub, Սարքերի որոնում, Գտնել իմ սարքը, Կորցված սարք</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Սարքի կողպում, Կողպէկրան, Էկրանի կողպում, Գաղտնաբառ, PIN, Նախշ, Կողպել, Ապակողպել</string>
+    <string name="google_play_protect_search_terms">Հավելվածների անվտանգություն, Play Protect, Google Play Protect</string>
+    <string name="google_play_protect_title">Հավելվածների անվտանգություն</string>
+    <string name="google_play_protect_title_for_work">Աշխատանքային պրոֆիլի հավելվածների անվտանգություն</string>
+    <string name="google_play_system_update_search_terms">Թարմացումներ, Թարմացում, Համակարգի թարմացում, Համակարգի թարմացումներ, Google Play համակարգային թարմացում, Play համակարգային թարմացում</string>
+    <string name="google_play_system_update_title">Google Play համակարգային թարմացում</string>
+    <string name="google_security_checkup_search_terms">Google Անվտանգության ստուգում, Google Անվտանգություն, Անվտանգության ստուգում, Հաշվի անվտանգություն, Google հաշվի անվտանգություն, Google հաշիվ</string>
+    <string name="google_security_checkup_title">Google Անվտանգության ստուգում</string>
+    <string name="google_security_checkup_title_for_work">Աշխատանքային պրոֆիլի Google անվտանգության ստուգում</string>
+    <string name="google_security_updates_search_terms">Թարմացումներ, Թարմացում, Անվտանգության թարմացում, Անվտանգության թարմացումներ</string>
+    <string name="google_security_updates_title">Անվտանգության թարմացում</string>
+    <string name="google_updates_summary">Սարքն արդիական է</string>
+    <string name="google_updates_title">Թարմացումներ</string>
+</resources>

@@ -17,13 +17,13 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Comma separated list of safety source IDs to show in the same task as the safety center -->
-    <string name="config_same_task_safety_source_ids" translatable="false">AndroidAccessibility,AndroidAdvancedPrivacy,AndroidAdvancedSecurity,AndroidBackgroundLocation,AndroidBiometrics,AndroidLockScreen,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPermissionManager,AndroidPermissionUsage,AndroidPrivacyControls,AndroidWorkPolicyInfo</string>
+    <string name="config_same_task_safety_source_ids" translatable="false">AndroidAccessibility,AndroidAdvancedPrivacy,AndroidAdvancedSecurity,AndroidBackgroundLocation,AndroidBiometrics,AndroidLockScreen,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPermissionManager,AndroidPermissionUsage,AndroidPrivacyControls,AndroidWorkPolicyInfo,GoogleAutoLock,GoogleFindMyDevice</string>
     <!-- Comma separated list of packages that are pregranted to enable a notification listener service. For T- platforms.-->
-    <string name="config_NotificationListenerServicePregrants" translatable="false"></string>
+    <string name="config_NotificationListenerServicePregrants" translatable="false">android.app.cts,com.balmuda.phone.launcher,com.blackview.launcher,com.fcnt.mobile_phone.klaushome,com.fujitsu.mobile_phone.fjhome,com.fujitsu.mobile_phone.fjhome_simple,com.google.ambient.streaming,com.google.android.apps.dreamliner,com.google.android.apps.nexuslauncher,com.google.android.as,com.google.android.projection.gearhead,com.google.android.setupwizard,com.google.SSRestartDetector,com.microsoft.launcher,com.motorola.launcher.secondarydisplay,com.motorola.launcher3,com.motorola.mobiledesktop,com.motorola.motodisplay,com.motorola.motolights,com.motorola.motolights.rearlights,com.motorola.systemui.desk,com.nothing.launcher,com.nttdocomo.android.homezozo,com.rakuten.launcher3,com.sonymobile.launcher,com.sonymobile.simplehome,com.tblenovo.launcher,com.tcl.android.launcher,com.vinsmart.launcher,com.vivo.daemonService,com.xiaomi.barrage,jp.co.sharp.android.emopar,jp.co.sharp.android.launcher3,jp.co.sharp.android.launcher3.senior,jp.co.sharp.android.launcher3.simple,jp.kyocera.hardkeymail,jp.kyocera.kyocerahome.launcher,jp.kyocera.kyocerahome.simple.launcher,org.codeaurora.bluetooth</string>
     <!-- Comma separated list of safety source IDs to add an Intent Extra confirming they should be displayed as if opened by a settings UI page. -->
     <string name="config_useSettingsHomepageIntentExtra" translatable="false">AndroidAdvancedPrivacy,AndroidAdvancedSecurity,TestSource</string>
     <!-- Comma separated list of safety source IDs that should be refreshed on page open by default. -->
     <string name="config_defaultRefreshOnPageOpenSources" translatable="false"></string>
     <!-- Comma separated list of safety sources group IDs for which we programmatically generate the default summary based on available entries. -->
-    <string name="config_generateSummarySafetySourceGroupIds" translatable="false">AndroidLockScreenSources</string>
+    <string name="config_generateSummarySafetySourceGroupIds" translatable="false">AndroidLockScreenSources,GoogleDeviceFinderSources</string>
 </resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">A Google-fiók védett</string>
+    <string name="google_accounts_sources_title">Fiókbiztonság</string>
+    <string name="google_activity_controls_search_terms">Tevékenység, Tevékenységvezérlők</string>
+    <string name="google_activity_controls_summary">Válassza ki azokat a tevékenységeket és adatokat, amelyek mentését engedélyezi a Google számára.</string>
+    <string name="google_activity_controls_title">Tevékenységvezérlők</string>
+    <string name="google_activity_controls_title_for_work">Tevékenységvezérlők munkahelyi célra</string>
+    <string name="google_ads_identity_search_terms">hirdetések, hirdetésekhez kapcsolódó adatvédelem, privacy sandbox, hirdetéstémák, alkalmazások által javasolt hirdetések, hirdetésmérés</string>
+    <string name="google_ads_identity_summary">A hirdetések megjelenítéséhez használt eszközadatok kezelése</string>
+    <string name="google_ads_identity_title">Hirdetések</string>
+    <string name="google_ads_identity_title_for_work">Munkahelyi profilnál megjeleníthető hirdetések</string>
+    <string name="google_backup_search_terms">Biztonsági mentés</string>
+    <string name="google_backup_title">Biztonsági mentés</string>
+    <string name="google_password_checkup_title">Jelszóvizsgálat</string>
+    <string name="google_password_checkup_title_for_work">Jelszóellenőrzés munkahelyi célra</string>
+    <string name="google_play_protect_title">Google Play Protect</string>
+    <string name="google_play_protect_title_for_work">Google Play Protect munkahelyi célra</string>
+    <string name="google_updates_summary">Frissítések</string>
+    <string name="google_updates_title">Rendszer és frissítések</string>
+</resources>

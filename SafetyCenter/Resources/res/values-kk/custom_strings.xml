@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Аккаунтыңыз қорғалған.</string>
+    <string name="google_accounts_sources_title">Google Қауіпсіздік тексерісі</string>
+    <string name="google_app_security_sources_summary">Play Protect сканерлеу функциясы қосулы.</string>
+    <string name="google_app_security_sources_title">Қолданбалар қауіпсіздігі</string>
+    <string name="google_device_finder_sources_summary">Хабарландырулар табылмады.</string>
+    <string name="google_device_finder_sources_title">Құрылғыны табу құралдары</string>
+    <string name="google_find_my_device_search_terms">Find Hub, құрылғы табу, Find My Device, жоғалған құрылғы</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">Құрылғыны құлыптау, құлып экраны, құлыптаулы экран, құлып, құпия сөз, PIN коды, өрнек, құлыпты ашу</string>
+    <string name="google_play_protect_search_terms">Қолданбалар қауіпсіздігі, Play Protect, Google Play Protect, қолданба қауіпсіздігі</string>
+    <string name="google_play_protect_title">Қолданбалар қауіпсіздігі</string>
+    <string name="google_play_protect_title_for_work">Жұмыс қолданбаларының қауіпсіздігі</string>
+    <string name="google_play_system_update_search_terms">Жаңартулар, жаңарту, жүйені жаңарту, жүйе жаңартулары, Google Play арқылы жүйені жаңарту, Play арқылы жүйені жаңарту</string>
+    <string name="google_play_system_update_title">Google Play арқылы жүйені жаңарту</string>
+    <string name="google_security_checkup_search_terms">Google Қауіпсіздік тексерісі, Google қауіпсіздік, Қауіпсіздік тексерісі, аккаунт қауіпсіздігі, Google аккаунт қауіпсіздігі, Google аккаунты</string>
+    <string name="google_security_checkup_title">Google Қауіпсіздік тексерісі</string>
+    <string name="google_security_checkup_title_for_work">Жұмыс профиліне арналған Google қауіпсіздік тексерісі</string>
+    <string name="google_security_updates_search_terms">Жаңартулар, жаңарту, қауіпсіздік жаңартуы, қауіпсіздік жаңартулары</string>
+    <string name="google_security_updates_title">Қауіпсіздік жаңартуы</string>
+    <string name="google_updates_summary">Құрылғы жаңартылған.</string>
+    <string name="google_updates_title">Жаңартулар</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">మీ ఖాతా సురక్షితంగా ఉంది</string>
+    <string name="google_accounts_sources_title">Google సెక్యూరిటీ చెకప్</string>
+    <string name="google_app_security_sources_summary">Play Protect స్కానింగ్ ఆన్‌లో ఉంది</string>
+    <string name="google_app_security_sources_title">యాప్ సెక్యూరిటీ</string>
+    <string name="google_device_finder_sources_summary">అలర్ట్‌లు లేవు</string>
+    <string name="google_device_finder_sources_title">డివైజ్ ఫైండర్‌లు</string>
+    <string name="google_find_my_device_search_terms">Find hub, డివైజ్‌లను కనుగొనడం, Find my device, పోగొట్టుకున్న డివైజ్</string>
+    <string name="google_find_my_device_title">Find Hub</string>
+    <string name="google_lock_screen_search_terms">పరికరం లాక్, స్క్రీన్ లాక్, లాక్ స్క్రీన్, లాక్ స్క్రీన్, పాస్‌వర్డ్, పిన్, లాక్, అన్‌లాక్</string>
+    <string name="google_play_protect_search_terms">యాప్ సెక్యూరిటీ, Play Protect, Google Play Protect, యాప్ భద్రత</string>
+    <string name="google_play_protect_title">యాప్ సెక్యూరిటీ</string>
+    <string name="google_play_protect_title_for_work">ఆఫీస్ ప్రొఫైల్ యాప్‌ల కోసం, యాప్ సెక్యూరిటీ</string>
+    <string name="google_play_system_update_search_terms">అప్‌డేట్‌లు, అప్‌డేట్, సిస్టమ్ అప్‌డేట్, సిస్టమ్ అప్‌డేట్‌లు, Google Play సిస్టమ్ అప్‌డేట్, Play సిస్టమ్ అప్‌డేట్</string>
+    <string name="google_play_system_update_title">Google Play సిస్టమ్ అప్‌డేట్</string>
+    <string name="google_security_checkup_search_terms">Google సెక్యూరిటీ చెకప్, Google సెక్యూరిటీ, సెక్యూరిటీ చెకప్, ఖాతా సెక్యూరిటీ Google ఖాతా సెక్యూరిటీ, Google ఖాతా</string>
+    <string name="google_security_checkup_title">Google సెక్యూరిటీ చెకప్</string>
+    <string name="google_security_checkup_title_for_work">వర్క్-ప్లేస్ కోసం Google సెక్యూరిటీ చెకప్</string>
+    <string name="google_security_updates_search_terms">అప్‌డేట్‌లు, అప్‌డేట్, సెక్యూరిటీ అప్‌డేట్, సెక్యూరిటీ అప్‌డేట్‌లు</string>
+    <string name="google_security_updates_title">సెక్యూరిటీ అప్‌డేట్</string>
+    <string name="google_updates_summary">పరికరం అప్‌డేట్ అయ్యి ఉంది</string>
+    <string name="google_updates_title">అప్‌డేట్‌లు</string>
+</resources>

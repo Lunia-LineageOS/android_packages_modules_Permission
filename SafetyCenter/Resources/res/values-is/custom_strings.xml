@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Reikningurinn þinn er varinn</string>
+    <string name="google_accounts_sources_title">Öryggisskoðun Google</string>
+    <string name="google_app_security_sources_summary">Kveikt er á öryggisleit Play Protect</string>
+    <string name="google_app_security_sources_title">Öryggi forrita</string>
+    <string name="google_device_finder_sources_summary">Engar viðvaranir</string>
+    <string name="google_device_finder_sources_title">Tækjaleit</string>
+    <string name="google_find_my_device_search_terms">Leitarmiðstöð, leitað að tækjum, finna tækið mitt, týnt tæki</string>
+    <string name="google_find_my_device_title">Leitarmiðstöð</string>
+    <string name="google_lock_screen_search_terms">Tækjalás, skjálás, læsa skjá, lásskjár, aðgangsorð, PIN-númer, mynstur, læsa, taka úr lás</string>
+    <string name="google_play_protect_search_terms">Öryggi forrita, Play Protect, Google Play Protect, öryggi forrita</string>
+    <string name="google_play_protect_title">Öryggi forrita</string>
+    <string name="google_play_protect_title_for_work">Öryggi forrita fyrir vinnusnið</string>
+    <string name="google_play_system_update_search_terms">Uppfærslur, uppfærsla, kerfisuppfærsla, kerfisuppfærslur, kerfisuppfærsla Google Play, kerfisuppfærsla Play</string>
+    <string name="google_play_system_update_title">Kerfisuppfærsla Google Play</string>
+    <string name="google_security_checkup_search_terms">Öryggisskoðun Google, öryggi Google, öryggisskoðun, öryggi reiknings, öryggi Google reiknings, Google-reikningur</string>
+    <string name="google_security_checkup_title">Öryggisskoðun Google</string>
+    <string name="google_security_checkup_title_for_work">Öryggisskoðun Google fyrir vinnusnið</string>
+    <string name="google_security_updates_search_terms">Uppfærslur, uppfærsla, öryggisuppfærsla, öryggisuppfærslur</string>
+    <string name="google_security_updates_title">Öryggisuppfærsla</string>
+    <string name="google_updates_summary">Tækið er uppfært</string>
+    <string name="google_updates_title">Uppfærslur</string>
+</resources>

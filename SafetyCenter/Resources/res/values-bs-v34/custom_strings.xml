@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">Google račun je zaštićen</string>
+    <string name="google_accounts_sources_title">Sigurnost računa</string>
+    <string name="google_activity_controls_search_terms">Aktivnost, Kontrole aktivnosti</string>
+    <string name="google_activity_controls_summary">Odaberite aktivnosti i informacije koje dozvoljavate da Google pohranjuje</string>
+    <string name="google_activity_controls_title">Kontrole aktivnosti</string>
+    <string name="google_activity_controls_title_for_work">Kontrole aktivnosti za posao</string>
+    <string name="google_ads_identity_search_terms">oglasi, privatnost pri izloženosti oglasima, okruženje zaštićene privatnosti, teme oglasa, oglasi koje predlažu aplikacije, mjerenje oglasa</string>
+    <string name="google_ads_identity_summary">Upravljajte podacima uređaja koji se koriste za prikazivanje oglasa</string>
+    <string name="google_ads_identity_title">Oglasi</string>
+    <string name="google_ads_identity_title_for_work">Oglasi za posao</string>
+    <string name="google_backup_search_terms">Sigurnosna kopija</string>
+    <string name="google_backup_title">Sigurnosna kopija</string>
+    <string name="google_password_checkup_title">Provjera lozinke</string>
+    <string name="google_password_checkup_title_for_work">Provjera lozinke za rad</string>
+    <string name="google_play_protect_title">Google Play zaštita</string>
+    <string name="google_play_protect_title_for_work">Google Play zaštita za posao</string>
+    <string name="google_updates_summary">Ažuriranja</string>
+    <string name="google_updates_title">Sistem i ažuriranja</string>
+</resources>

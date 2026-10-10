@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="google_accounts_sources_summary">계정이 안전하게 보호되고 있음</string>
+    <string name="google_accounts_sources_title">Google 보안 진단</string>
+    <string name="google_app_security_sources_summary">Play 프로텍트 검사 사용 중</string>
+    <string name="google_app_security_sources_title">앱 보안</string>
+    <string name="google_device_finder_sources_summary">알림 없음</string>
+    <string name="google_device_finder_sources_title">기기 찾기</string>
+    <string name="google_find_my_device_search_terms">내 기기 허브, 기기 찾기, 내 기기 찾기, 기기 분실</string>
+    <string name="google_find_my_device_title">내 기기 허브</string>
+    <string name="google_lock_screen_search_terms">기기 잠금, 화면 잠금, 잠금 화면, 잠금화면, 비밀번호, PIN, 패턴, 잠금, 잠금 해제</string>
+    <string name="google_play_protect_search_terms">앱 보안, Play 프로텍트, Google Play 프로텍트, 앱 안전</string>
+    <string name="google_play_protect_title">앱 보안</string>
+    <string name="google_play_protect_title_for_work">업무용 앱 보안</string>
+    <string name="google_play_system_update_search_terms">업데이트, 시스템 업데이트, Google Play 시스템 업데이트, Play 시스템 업데이트</string>
+    <string name="google_play_system_update_title">Google Play 시스템 업데이트</string>
+    <string name="google_security_checkup_search_terms">Google 보안 진단, Google 보안, 보안 진단, 계정 보안, Google 계정 보안, Google 계정</string>
+    <string name="google_security_checkup_title">Google 보안 진단</string>
+    <string name="google_security_checkup_title_for_work">직장용 Google 보안 진단</string>
+    <string name="google_security_updates_search_terms">업데이트, 보안 업데이트</string>
+    <string name="google_security_updates_title">보안 업데이트</string>
+    <string name="google_updates_summary">기기가 최신 상태임</string>
+    <string name="google_updates_title">업데이트</string>
+</resources>
